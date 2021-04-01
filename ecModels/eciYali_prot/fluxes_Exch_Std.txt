@@ -1,0 +1,29 @@
+EXCHANGE FLUXES:
+y001631	(acetaldehyde exchange):	0.036912
+y001634	(acetate exchange):	0.00011
+y001672	(carbon dioxide exchange):	2.6925
+y001761	(ethanol exchange):	0.00011
+y001793	(formate exchange):	0.00011
+y002033	(pyruvate exchange):	0.00011
+y002100	(water exchange):	13.1156
+y002111	(growth):	0.09999
+y001654_REV	(ammonium exchange (reversible)):	0.89424
+y001714_REV	(D-glucose exchange (reversible)):	1.0948
+y001832_REV	(H+ exchange (reversible)):	7.8195
+y001947_REV	(myo-inositol exchange (reversible)):	0.00035996
+y001992_REV	(oxygen exchange (reversible)):	2.1678
+y002005_REV	(phosphate exchange (reversible)):	0.047574
+y002060_REV	(sulphate exchange (reversible)):	0.019498
+prot_B5FVG3_exchange	(prot_B5FVG3_exchange):	0.00011605
+prot_Q6C105_exchange	(prot_Q6C105_exchange):	0.00011605
+prot_Q6C2V6_exchange	(prot_Q6C2V6_exchange):	0.00011605
+prot_Q6C326_exchange	(prot_Q6C326_exchange):	0.00011605
+prot_Q6C338_exchange	(prot_Q6C338_exchange):	0.00011605
+prot_Q6C877_exchange	(prot_Q6C877_exchange):	0.00011605
+prot_Q6C8S0_exchange	(prot_Q6C8S0_exchange):	0.00011605
+prot_Q6C968_exchange	(prot_Q6C968_exchange):	0.00015045
+prot_Q6C9B1_exchange	(prot_Q6C9B1_exchange):	0.00011605
+prot_Q6C9E6_exchange	(prot_Q6C9E6_exchange):	0.00011605
+prot_Q6CFH9_exchange	(prot_Q6CFH9_exchange):	0.00011605
+prot_Q6CFT7_exchange	(prot_Q6CFT7_exchange):	0.00011605
+prot_pool_exchange	(prot_pool_exchange):	0.017296

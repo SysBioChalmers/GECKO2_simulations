@@ -1,0 +1,25 @@
+enzymes	genes	enzNames	subSystems	Std_ecP	HiT_ecP	LpH_ecP	Osm_ecP	OG
+W0T2Z0	KLMA_10153	KLMA_10153	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism	1	0	0	0	NA
+W0T5E4	KLMA_10419	KLMA_10419	One carbon pool by folate // One carbon pool by folate	1	0	0	0	OG0000809
+W0T6X1	KLMA_20722	KLMA_20722	Steroid biosynthesis // Steroid biosynthesis // Other reactions // Other reactions	1	1	0	0	NA
+W0T7I0	KLMA_20308	KLMA_20308	Steroid biosynthesis	1	0	0	0	OG0001207
+W0T7I7	KLMA_30292	KLMA_30292	Purine metabolism // Purine metabolism // Purine metabolism	1	0	0	0	OG0001692
+W0T7K6	KLMA_30312	KLMA_30312	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism	0	0	1	0	NA
+W0T7L9	KLMA_30327	KLMA_30327	Glycerolipid metabolism // Glycerophospholipid metabolism	1	1	0	0	OG0001713
+W0T9D3	KLMA_20246	KLMA_20246	Terpenoid backbone biosynthesis	1	1	0	0	OG0001166
+W0T9E2	KLMA_20256	KLMA_20256	Other reactions // Other reactions	1	1	1	0	OG0001172
+W0TAM6	KLMA_40436	KLMA_40436	Steroid biosynthesis	1	1	0	0	OG0002216
+W0TBM3	KLMA_30204	KLMA_30204	Steroid biosynthesis	1	1	0	0	OG0001635
+W0TBX9	KLMA_50503	KLMA_50503	Glycine, serine and threonine metabolism	1	1	1	1	OG0002612
+W0TCW7	KLMA_60181	KLMA_60181	Arginine and proline metabolism // Arginine and proline metabolism	0	1	1	1	NA
+W0TCY6	KLMA_50631	KLMA_50631	Pentose phosphate pathway	1	0	0	0	OG0002692
+W0TD46	KLMA_60271	KLMA_60271	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation	1	1	1	1	NA
+W0TDY2	KLMA_60541	KLMA_60541	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Lysine degradation	1	0	1	0	OG0002699
+W0TEE1	KLMA_40445	KLMA_40445	Terpenoid backbone biosynthesis	1	1	0	0	NA
+W0TF60	KLMA_60417	KLMA_60417	Steroid biosynthesis	1	0	0	0	OG0002771
+W0TFJ7	KLMA_70307	KLMA_70307	Oxidative phosphorylation	1	0	0	0	NA
+W0TFW7	KLMA_80221	KLMA_80221	Pentose phosphate pathway // Pentose phosphate pathway	1	0	0	0	NA
+W0TGE6	KLMA_80406	KLMA_80406	Glycine, serine and threonine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Selenocompound metabolism // Other reactions // Cysteine and methionine metabolism // Other reactions	1	0	1	0	OG0003249
+W0TGI5	KLMA_80159	KLMA_80159	Oxidative phosphorylation	1	0	0	1	NA
+W0TGN7	KLMA_70385	KLMA_70385	beta-Alanine metabolism	0	0	1	0	OG0003486
+W0THA2	KLMA_60198	KLMA_60198	Oxidative phosphorylation // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	1	0	0	0	OG0002901

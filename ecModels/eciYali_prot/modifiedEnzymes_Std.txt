@@ -1,0 +1,2 @@
+protein_IDs	previous_values	modified_values	flex_Mass
+prot_Q6C5S9	2.11094815249484e-06	2.5496474745e-06	2.30247390860511e-05

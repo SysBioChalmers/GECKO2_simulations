@@ -1,0 +1,16 @@
+EXCHANGE FLUXES:
+r_1631	(acetaldehyde exchange):	0.24059
+r_1634	(acetate exchange):	0.063083
+r_1672	(carbon dioxide exchange):	2.9293
+r_1793	(formate exchange):	0.062953
+r_2033	(pyruvate exchange):	0.0011
+r_2100	(water exchange):	4.6013
+r_2111	(growth):	0.09999
+r_1654_REV	(ammonium exchange (reversible)):	0.6158
+r_1714_REV	(D-glucose exchange (reversible)):	1.2797
+r_1832_REV	(H+ exchange (reversible)):	0.025409
+r_1992_REV	(oxygen exchange (reversible)):	2.6368
+r_2005_REV	(phosphate exchange (reversible)):	0.026509
+r_2060_REV	(sulphate exchange (reversible)):	0.0083746
+prot_P61829_exchange	(prot_P61829_exchange):	0.00015874
+prot_pool_exchange	(prot_pool_exchange):	0.0068129

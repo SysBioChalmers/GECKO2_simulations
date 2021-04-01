@@ -1,0 +1,1535 @@
+rxns	rxnNames	FV_GEM	FV_ecModel
+EX_acgam_e	N-Acetyl-D-glucosamine exchange	999.976061060347	0.00759235371426492
+EX_cellb_e	Cellobiose exchange	2.56173764899515e-08	1.28086882454637e-08
+EX_pi_e	Phosphate exchange	1000	0.0622539787755628
+EX_h_e	H+ exchange	578.774182470171	0.19088596094958
+EX_ade_e	Adenine exchange	1000	0.00109758109332964
+EX_4abut_e	4-Aminobutanoate exchange	1000	0.00109758109332585
+EX_ac_e	Acetate exchange	1000	0.00105496421364279
+EX_akg_e	2-Oxoglutarate exchange	1000	2.45363068125663e-06
+EX_ala__L_e	L-Alanine exchange	1000	0.000710403292795488
+EX_arg__L_e	L-Arginine exchange	1000	0.0138088503829123
+EX_fum_e	Fumarate exchange	524.240852375935	0.00281518649087076
+EX_glu__L_e	L-Glutamate exchange	250.825067665805	0.00497510713851879
+EX_gua_e	Guanine exchange	999.873042984864	0.00101216939240362
+EX_met__L_e	L-Methionine exchange	1000	0.00872548436456289
+EX_crn_e	L-Carnitine exchange	88.3898269062093	3.47905399104958e-05
+EX_fe3_e	Fe3+ exchange	176.779653812419	6.95810798297401e-05
+EX_glcn_e	D-Gluconate exchange	999.999871925926	0.00520032212848954
+EX_gln__L_e	L-Glutamine exchange	999.999871925926	0.00520032212812419
+EX_glyc_e	Glycerol exchange	88.3898269062093	3.47905399104958e-05
+EX_man_e	D-Mannose exchange	274.287651657309	1998.89200878928
+EX_mn2_e	Mn2+ exchange	2000	1865.82031779092
+EX_rib__D_e	D-Ribose exchange	3.19355689083962e-08	1.55858385132723e-08
+EX_sbt__D_e	D-Sorbitol exchange	3.19355689083962e-08	1.55858385132723e-08
+EX_ura_e	Uracil exchange	47.7626022711488	7.52113135521617e-06
+EX_val__L_e	L-Valine exchange	47.7626022711489	7.5211313542109e-06
+EX_xan_e	Xanthine exchange	267.370374525606	0.000630671482751619
+EX_thymd_e	Thymidine exchange	999.698126536528	0.00088447340536979
+EX_tyr__L_e	L-Tyrosine exchange	263.062006000225	0.00026093811961353
+EX_btn_e	Biotin exchange	998.348727757559	0.000382363002051439
+EX_ptrc_e	Putrescine exchange	577.942321827063	0.000109341339645824
+EX_spmd_e	Spermidine exchange	382.100818169186	6.0170069124189e-05
+EX_thym_e	Thymine exchange	0.000128099691138004	2.08114471139664e-06
+EX_fe2_e	Fe2+ exchange	1000	0.0279875642924676
+EX_glc__D_e	D-Glucose exchange	1000	5.39013660120776e-06
+EX_alltn_e	Allantoin exchange	1000	5.39013642120167e-06
+EX_dgsn_e	Deoxyguanosine exchange	998.209036274092	0.00359636558184206
+EX_arab__L_e	L-Arabinose exchange	998.209036274095	0.00369761729418772
+EX_fru_e	D-Fructose exchange	1998.08486128054	0.00676648543917707
+EX_gal_e	D-Galactose exchange	578.584199226988	0.000903397794827926
+EX_xyl__D_e	D-Xylose exchange	578.58419922699	0.000903397794797284
+EX_for_e	Formate exchange	999.382492289167	0.000869466668790397
+EX_gly_e	Glycine exchange	2000	0.0693135478477289
+EX_lys__L_e	L-Lysine exchange	998.209036274093	0.0459415499397494
+EX_ser__L_e	L-Serine exchange	1000	0.0115090217951295
+EX_thm_e	Thiamin exchange	1000	0.0188152503378953
+EX_trp__L_e	L-Tryptophan exchange	999.976061060347	0.0105217498320804
+EX_din_e	Deoxyinosine exchange	1999.42280173733	0.012171592714144
+EX_acald_e	Acetaldehyde exchange	1000	0.0297404880481538
+EX_sucr_e	Sucrose exchange	998.318486769424	0.0804396060966468
+EX_tre_e	Trehalose exchange	1000	0.011145880804591
+EX_zn2_e	Zinc exchange	998.209036274093	0.0104759068925802
+DNMPPA	Dihydroneopterin monophosphate dephosphorylase	1000	1.75849523700996
+HEX4	Hexokinase (D-mannose:ATP)	55.97711382625	1.71055634869653e-05
+URIC	Uricase	524.240852375935	0.00281518649052814
+EX_tmao_e	Trimethylamine N-oxide exchange	437.977814094254	0.00123359439191387
+EX_26dap__M_e	Meso-2,6-Diaminoheptanedioate exchange	671.095830535448	0.00636801271724263
+EX_acnam_e	N-Acetylneuraminate exchange	250.825067665805	0.00497510713858365
+EX_amp_e	AMP exchange	191.610054624315	0
+EX_dha_e	Dihydroxyacetone exchange	191.610054624315	0.00058633953903877
+EX_fuc__L_e	L-Fucose exchange	250.825067665807	0.00497510713849483
+EX_rmn_e	L-Rhamnose exchange	191.610054624315	0.00058633953903877
+EX_glyclt_e	Glycolate exchange	1999.99077579507	0.0239741311585445
+EX_indole_e	Indole exchange	7.93794470155262e-08	1999.99920628534
+EX_galur_e	D-Galacturonate exchange	545.278102698963	7.39956475253878e-05
+EX_but_e	Butyrate (n-C4:0) exchange	1824.08217686294	0.151965790276122
+EX_cbl1_e	Cob(I)alamin exchange	2000	0.0116244188127229
+EX_gbbtn_e	Gamma-butyrobetaine exchange	1000	0.0219835989704222
+EX_malttr_e	Maltotriose exchange	2000	0.229641850534421
+EX_hdcea_e	Hexadecenoate (n-C16:1) exchange	1490.918462333	0.185826202978816
+AOBUTDs	L-2-amino-3-oxobutanoate decarboxylation (spontaneous)	1000	0.171479545635904
+EX_nmn_e	NMN exchange	1666.22140499273	0.0368301794862572
+EX_urea_e	Urea exchange	1412.00195100804	0.0146644206991356
+EX_f6p_e	D-fructose 6-phosphate exchange	911.892700377186	0.0168621645153709
+EX_lac__D_e	D-lactate exchange	999.100605847403	0.00144007864118027
+EX_ttdcea_e	Tetradecenoate (n-C14:1) exchange	1000	1.32492729100435
+EX_h2s_e	Hydrogen sulfide exchange	1000	0.165691869598468
+EX_maltpt_e	Maltopentaose exchange	49.4264397597719	2.90720085142809e-05
+EX_glcur_e	D-Glucuronate exchange	998.209036274094	0.00394487640561703
+EX_mmet_e	S-Methyl-L-methionine exchange	998.209036274093	0.00394487640534824
+EX_mg2_e	Mg exchange	998.209036274095	0.00328738745604309
+G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	1998.20903627409	0.0146444503895074
+H2SO	Hydrogen sulfide oxidation	1998.22406401496	0.0124072344209394
+EX_acac_e	Acetoacetate exchange	1267.168285698	0.0124072344212193
+EX_adn_e	Adenosine exchange	700.560381936749	0.000196399046403756
+EX_ins_e	Inosine exchange	999.857995717005	0.000711514256929835
+EX_glyc3p_e	Glycerol 3-phosphate exchange	1159.39884255632	0.001878278309527
+EX_lcts_e	Lactose exchange	999.860308516534	0.0245722510288849
+EX_nac_e	Nicotinate exchange	1000	0.0254874421854555
+EX_ocdca_e	Octadecanoate (n-C18:0) exchange	999.797911172391	0.0294078634416629
+FTHFLi	Formate-tetrahydrofolate ligase	1000	0.251406452311302
+EX_dad_2_e	Deoxyadenosine exchange	88.3898269062093	3.47905399104958e-05
+EX_ser__D_e	D-Serine exchange	437.977814094254	0.00123359439187301
+EX_gam6p_e	D-Glucosamine 6-phosphate exchange	1999.42280173733	0.0163572724318145
+EX_15dap_e	1,5-Diaminopentane exchange	578.58419922699	0.000903397794807304
+EX_ocdcea_e	Octadecenoate (n-C18:1) exchange	176.779653812419	6.95810798297401e-05
+EX_cynt_e	Cyanate exchange	437.977814094254	0.00123359439191387
+EX_galctn__D_e	D-Galactonate exchange	1000	0.0222147777979342
+EX_glyb_e	Glycine betaine exchange	1000	0.00691779014244931
+NMNt7pp	NMN transport via NMN glycohydrolase (periplasm)	1000	0.0268420563925283
+GLUtex	L-glutamate transport via diffusion (extracellular to periplasm)	1000	0.0268420563893579
+GLYALDtex	Glyceraldehyde transport via diffusion (extracellular to periplasm)	2000	0.161137779721541
+GLYBtex	Glycine betaine transport via diffusion (extracellular to periplasm)	2000	0.176161507026066
+12PPDStex	(S)-Propane-1,2-diol transport via diffusion (extracellular to periplasm)	6.31818702703248e-09	1.86560455499557e-09
+DDGLCNtex	2-dehydro-3-deoxy-D-gluconate transport via diffusion (extracellular to periplasm)	27.9885569131251	8.5526370005376e-06
+26DAHtex	Meso-2,6-Diaminoheptanedioate transport via diffusion (extracellular to periplasm)	27.9885569131251	8.5526370005376e-06
+HCINNMtex	3-hydroxycinnamic acid transport via diffusion (extracellular to periplasm)	27.9885569131251	8.5526370005376e-06
+SUCCt2_2pp	Succinate transport via proton symport (2 H) (periplasm)	998.209036274093	0.00387276356611466
+SUCFUMtpp	Succinate:fumarate antiporter (periplasm)	998.209036274092	0.00390030049014797
+TARTRt7pp	Tartrate/succinate antiporter (periplasm)	998.209036274095	0.00245550729285382
+THMDt2pp_copy1		998.209036274092	0.00283964305950487
+EX_ca2_e	Calcium exchange	524.240852375935	0.00281518649058088
+EX_so3_e	Sulfite exchange	252.774039869477	0.000209200271971022
+Kt2pp	Potassium transport in via proton symport (periplasm)	252.774039869477	0.000209200271972687
+AKGt2rpp	2-oxoglutarate reversible transport via symport (periplasm)	1999.99077579507	0.0331983360841429
+XYLt2pp	D-xylose transport in via proton symport (periplasm)	1998.20903627409	0.00694155756008541
+EX_ascb__L_e	L-Ascorbate exchange	998.318486769428	0.00107682452596883
+EX_ala_B_e	Beta-Alanine exchange	1998.20903627409	0.00784935504354911
+EX_agm_e	Agmatine exchange	1000	0.00367686756210517
+EX_minohp_e	Myo-Inositol hexakisphosphate exchange	999.116122337318	0.00367693462730138
+EX_ppt_e	Phosphonate exchange	998.209036274096	0.00367693462742353
+EX_hxa_e	Hexanoate (n-C6:0) exchange	267.370374525603	0.00063067148268298
+EX_lyx__L_e	L-Lyxose exchange	1000	0.00452892928138038
+EX_acmum_e	N-Acetylmuramate exchange	7.74269414138828e-08	3.77942384056614e-08
+EX_dca_e	Decanoate (n-C10:0) exchange	1000	0.000542873694555357
+EX_all__D_e	D-Allose exchange	993.353343869151	2.52863300582885
+EX_octa_e	Octanoate (n-C8:0) exchange	1000	0.171479545635904
+EX_xylu__L_e	L-Xylulose exchange	250.825067665805	0.00497510713924687
+EX_gdp_e	GDP exchange	2000	0.0207424744428762
+EX_gtp_e	GTP exchange	1998.31848676942	0.0103804248687755
+THRabcpp	L-threonine transport via ABC system (periplasm)	1998.06934479063	0.00608553149096682
+TYRt2rpp	L-tyrosine reversible transport via proton symport (periplasm)	671.095830535448	0.00636801271724263
+URIt2pp_copy1		524.240852375935	0.00281518649063578
+XTSNt2rpp	Xanthosine transport via proton symport (periplasm)	1000	0.00511340881837709
+XYLUt2pp	L-xylulose transport in via proton symport (periplasm)	1000	0.026698872918819
+THRt4pp	L-threonine  via sodium symport (periplasm)	1000	5.00266349944859
+EX_fruur_e	D-Fructuronate exchange	2000	6.14947814697219
+GALtex	D-galactose transport via diffusion (extracellular to periplasm)	2000	0.144576722069142
+GALCTtex	D-galactarte transport via diffusion (extracellular to periplasm)	1000	0.000250143714250584
+GALCTNtex	D-galactonate transport via diffusion (extracellular to periplasm)	1000	0.00872548436486664
+GALTtex	Galactitol transport via diffusion (extracellular to periplasm)	0.000384299073402872	0.000384236433117346
+ASPt2_2pp	Aspartate transport via proton symport (2 H) (periplasm)	382.100818169186	6.0170069124189e-05
+ASPt2_3pp	L-asparate transport via proton symport (3 H) (periplasm)	998.209036274093	0.0104759068925802
+HIStex	L-histidine transport via diffusion (extracellular to periplasm)	998.209036274093	0.0205694537906753
+INSTtex	Inositol transport via diffusion (extracellular to periplasm)	139.252438135034	4.85083906076184e-05
+INStex	Inosine transport via diffusion (extracellular to periplasm)	390.749221991685	2.53681135689854e-05
+D_LACtex	D-lactate transport via diffusion (extracellular to periplasm)	503.147740735579	0.000159309471672475
+FRULYStex	Fructoselysine transporter via diffusion (extracellular)	736.433844053318	0.000244987028777149
+EX_fad_e	Exchange of Flavin adenine dinucleotide oxidized	139.252438135034	4.85083906076184e-05
+GALCTt2rpp	D-galactarte transport via proton symport, reversible (periplasm)	382.100818169186	6.01700691254797e-05
+GALt2pp	D-galactose transport in via proton symport (periplasm)	55.9771138262501	1.71055634858273e-05
+ASPtex	L-aspartate transport via diffusion (extracellular to periplasm)	1000	0.0251067536355079
+EX_fe3dcit_e	Fe(III)dicitrate exchange	548.888444438825	0.000471958600455111
+EX_fe3hox_e	Fe(III)hydroxamate exchange	548.888444438825	0.000471958600472909
+EX_fecrm_e	Ferrichrome exchange	274.444222219412	0.000235979300237332
+EX_feenter_e	Fe-enterobactin exchange	232.222034185657	0.000125600679417373
+EX_feoxam_e	Ferroxamine exchange	51.0854542658597	2.21320494965122e-05
+EX_cpgn_e	Coprogen exchange	999.698126536529	5.87796336226701e-05
+INDOLEtex	Indole transport via diffusion (extracellular to periplasm)	1000	0.000767114730279722
+ADEt2rpp	Adenine transport via proton symport (reversible) (periplasm)	3.91727326132241e-08	1999.99960831158
+ADNt2pp_copy1		686.400762566019	0.00016736496398112
+ALAabcpp	L-alanine transport via ABC system (periplasm)	7.68521294935987e-08	3.7370849890713e-08
+ALLTNt2rpp	Allantoin transport in via proton symport (periplasm)	7.68521294935987e-08	3.7370849890713e-08
+GUAtpp	Guanine transport via diffusion (periplasm)	7.74269414138828e-08	3.77942384056614e-08
+HYXNtpp	Hypoxanthine transport (periplasm)	1000	0.173181340814267
+NACtpp	Nicotinic acid uptake (periplasm)	2.74439069210004e-07	1.34055850833665e-07
+CPGNtonex	Coprogen transport via ton system (extracellular)	2.56173348805761e-08	7.49082274242299e-09
+GLCNtex	D-gluconate transport via diffusion (extracellular to periplasm)	1846.36988633068	0.00107186731716585
+GLCURtex	D-glucuronat transport via diffusion (extracellular to periplasm)	578.774182470174	0.190885960949477
+GLNtex	L-glutamine transport via diffusion (extracellular to periplasm)	1000	0.0291929498543484
+O2tex	Oxygen transport via diffusion (extracellular to periplasm)	1000	0.00310718231494178
+EX_ppa_e	Propionate exchange	999.382492289167	0.000771791619469719
+OCTAtex	Octanoate transport via diffusion (extracellular to periplasm)	994.28137877173	0.00077179161944585
+ORNtex	Ornithine transport via diffusion (extracellular to periplasm)	998.318486769425	0.0804396060966468
+CITt7pp	Citrate transport via succinate antiport (periplasm)	1000	0.000776891406833569
+CRNt7pp	Carnitine/butyrobetaine antiporter (periplasm)	998.318486769424	0.089669878942086
+EX_ni2_e	Ni2+ exchange	1000	0.0189894796296893
+EX_no_e	Nitric oxide exchange	671.095830535448	0.00636801271761267
+DGSNt2pp	Deoxyguanosine transport in via proton symport (periplasm)	437.977814094254	0.0012335943919061
+DINSt2pp	Deoxyinosine transport in via proton symport (periplasm)	999.698126536529	7.23505484534551e-05
+DURIt2pp	Deoxyuridine transport in via proton symport (periplasm)	999.999743277529	0.024825525581048
+FE2abcpp	Iron (II) transport via ABC system (periplasm)	1193.89233216325	0.00112878874061562
+FUMt2_2pp	Fumarate transport via proton symport (2 H) (periplasm)	193.89233216325	0.000369993199785274
+FUMt2_3pp	Fumarate transport via proton symport (3 H) (periplasm)	193.89233216325	0.000369993199742044
+CYNTt2pp	Cyanate transport via proton symport (periplasm)	1000	0.0279923588997164
+CYTDt2pp_copy1		1000	0.00107199059736122
+DADNt2pp	Deoxyadenosine transport in via proton symport (periplasm)	1000	0.00452892928113538
+DCYTt2pp	Deoxycytidine transport in via proton symport (periplasm)	1000	0.0093036003424712
+RMNtex	L-rhamnose transport via diffusion (extracellular to periplasm)	1000	0.00221433674594707
+EX_meoh_e	Methanol exchange	1000	0.000250143714250584
+MALTTRtexi	Maltotriose transport via diffusion (extracellular to periplasm) irreversible	545.278102698963	7.39956475059034e-05
+MALTTTRtexi	MaltotetraoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible	817.139216340641	0.000888178979462251
+MALTPTtexi	MaltopentaoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible	817.139216340641	0.00088817897941823
+MALTtexi	MaltoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible	367.870966786058	8.0256782360677e-05
+FE3DCITtonex	Ferric-dicitrate transport via ton system (extracellular)	0.000128399747583648	2.08114471114532e-06
+PHEtex	L-phenylalanine transport via diffusion (extracellular to periplasm)	2.74439069210004e-07	1.34055850825642e-07
+PItex	Phosphate transport via diffusion (extracellular to periplasm)	2.74439069210004e-07	1.34055850825642e-07
+CYSabc2pp	L-cysteine export via ABC system (cytoplasm to periplasm)	2000	0.181696502752473
+EX_pheme_e	Protoheme exchange	1000	0.0189894796298429
+PNTOtex	Pantothenate transport via diffusion (extracellular to periplasm)	999.382492289167	0.000798540591363732
+PPPNtex	3-phenylpropionate transport via diffusion (extracellular to periplasm)	998.906824892056	0.00219388169807241
+PPTtex	Phosphonate transport via diffusion (extracellular to periplasm)	999.100605847406	0.00126447470668185
+SERtex	L-serine transport via diffusion (extracellular to periplasm)	998.209036274095	0.00318583749778867
+SUCRtex	Sucrose transport transport via diffusion (extracellular to periplasm)	1000	0.0297404880469215
+METtex	L-methionine transport via diffusion (extracellular to periplasm)	1000	0.00221433674590355
+MNLtex	Mannitol transport via diffusion (extracellular to periplasm)	88.3898269062093	3.47905399104958e-05
+NAtex	Sodium transport via diffusion (extracellular to periplasm)	252.77403986948	0.000187062750713146
+NACtex	Nicotinic acid transport via diffusion (extracellular to periplasm)	628.048092128094	0.000262334883666504
+NH4tex	Ammonia transport via diffusion (extracellular to periplasm)	2000	0.16323730977933
+BUTtex	Butyrate transport via diffusion (extracellular to periplasm)	1999.92015299405	0.034156413906637
+CYTDtex	Cytidine transport via diffusion (extracellular to periplasm)	583.787486091675	0.000399882555896328
+DGSNtex	Deoxyguanosine transport via diffusion (extracellular to periplasm)	199.939625307305	1.16545417152558e-05
+LCTStex	Lactose transport via diffusion (extracellular to periplasm)	27.9885569131253	8.55263700041096e-06
+LEUtex	L-leucine transport via diffusion (extracellular to periplasm)	27.9885569131253	8.55263700041096e-06
+MAN6Ptex	Mannose 6-phosphate transport via diffusion (extracellular to periplasm)	2.61687699553217e-07	1.27528467224781e-07
+MELIBtex	Melibiose transport via diffusion (extracellular to periplasm)	577.942321827063	0.000109341339680935
+DMSOtex	Dimethyl sulfoxide transport via diffusion (extracellular to periplasm)	514.296353744402	0.000132019271825698
+DURItex	Deoxyuridine transport via diffusion (extracellular to periplasm)	998.209036274091	0.000197858038023191
+EX_mal__D_e	D-Malate exchange	431.060196002387	0.00245944020298575
+NMNtex	NMN transport via diffusion (extracellular to periplasm)	1000	0.0035993666995473
+NO2tex	Nitrite transport via diffusion (extracellular to periplasm)	998.209036274092	0
+BUTt2rpp	Butyrate transport via proton symport, reversible (periplasm)	998.209036274093	0.00301996663714377
+CADVtpp	Lysine/Cadaverine antiporter (periplasm)	2000	1.05097795175499
+GDPtex	GDP transport via diffusion (extracellular to periplasm)	2.56173764899515e-08	7.54601209629661e-09
+TYRtex	L-tyrosine transport via diffusion (extracellular to periplasm)	998.209036274093	0.000197858038051391
+URAtex	Uracil transport via diffusion (extracellular to periplasm)	998.209036274092	0.000255883199695536
+UREAtex	Urea transport via diffusion (extracellular to periplasm)	998.20903627409	0.000255883199686127
+EX_eca4colipa_e	(enterobacterial common antigen)x4 core oligosaccharide lipid A exchange	1000	2.40918109030282
+EX_sel_e	Selenate exchange	499.104518137046	0.00155513425504068
+O16GLCT1	Glucosyltransferase I (LPS O16 antigen biosynthesis)	51.0854542658596	2.21320494941836e-05
+ARBTNtpp	Aerobactin secretion (to periplasm)	1000	0.00778947078457087
+ARBTNtex	Aerobactin secretion (to extracellular)	998.209036274099	0.006504389332883
+23CCMPtex	23cCMP transport via diffusion (extracellular to periplasm)	51.0854542658596	2.21320494941836e-05
+23CUMPtex	23cUMP transport via diffusion (extracellular to periplasm)	51.0854542658596	2.21320494941836e-05
+3CMPtex	3CMP transport via diffusion (extracellular to periplasm)	51.0854542658596	2.21320494942374e-05
+FEENTERtpp	Enterochelin transport (secretion)	998.209036274093	0.00318583749775081
+FEENTERtex	Enterochelin transport (secretion periplasm)	274.444222219411	0.000258111349729308
+FEOXAMUtpp	Ferroxamine (minus Fe3) secretion (to periplasm)	1998.99665162511	0.0279941194104823
+FECRMUtpp	Ferrichrome (minus Fe) secretion (to periplasm)	1997.3096421215	0.0110568522092498
+PTRCt2pp	Putrescine transport in via proton symport	817.139216340641	0.000888179031704628
+ETHSO3tex	Ethanesulfonate transport via diffusion (extracellular to periplasm)	817.139216340641	0.000888178979438103
+FE3HOXR3	Fe(III)hydroxamate reductase	63.8568178323245	2.7665061871244e-05
+FEENTERR1	Fe-enterobactin reduction (Fe(III)-unloading)	63.8568178323245	2.7665061871244e-05
+SULFACtex	Sulfoaceate transport via diffusion (extracellular to periplasm)	12.7713635664649	5.53291873667261e-06
+EX_sulfac_e	Sulfoacetate exchange	12.7713635664649	5.53291873667261e-06
+EX_butso3_e	Butanesulfonate exchange	1000	0.00631362934898461
+NOtex	Nitric oxide transport via diffusion (extracellular to periplasm)	274.444222219412	0.000235979300237332
+NOtpp	NO transport (diffusion)	1997.32515861141	0.011056852207951
+N2Otpp	Nitrious oxide transport (diffusion)	1000	0.00145006103399448
+N2Otex	Nitrious oxide transport via diffusion (extracellular to periplasm)	1998.31848676943	0.00622457130062282
+CRNt8pp	L-carnitine/D-carnitine antiporter (periplasm)	1000	0.00104501603543383
+CRNt2rpp	L-carnitine outward transport (H+ antiport)	51.0854542658596	2.21320494942374e-05
+CRNDt2rpp	D-carnitine outward transport (H+ antiport)	51.0854542658596	2.21320494942374e-05
+CTBTt2rpp	Cronobetaine outward transport (H+ antiport)	191.642700878011	0.00129828038539131
+INOSTt4pp	Na+/myo-inositol symporter (periplasm)	998.209036274092	0.00940543182095943
+PHEMEtiex	Protoheme transport irreversible out via diffusion (periplasm to extracellular)	332.736345424697	0.000205627729748941
+CYANtex	Cyanide transport via diffusion (extracellular to periplasm)	1999.7707778471	1.30386399665869
+SO3tex	Sulfite transport via diffusion (extracellular to periplasm)	2000	1.17010439473108
+TCYNTtex	Thiocyanate transport via diffusion (extracellular to periplasm)	1998.20903627409	1.08108592024618
+METSOX2abcpp	L-methionine R-oxide transport via ABC system (periplasm)	47.7626022711489	7.52113135507593e-06
+METSOX1tex	L-methionine S-oxide diffusion (extracellular)	2.56173348805761e-08	7.49082274242299e-09
+METSOX2tex	L-methionine R-oxide diffusion (extracellular)	7.74269414138828e-08	3.77942384056614e-08
+3UMPtex	3UMP transport via diffusion (extracellular to periplasm)	7.74269414138828e-08	3.77942384056614e-08
+FALDtpp	Formaldehyde transport via diffusion (periplasm)	55.9771138262501	1.71055634858273e-05
+EX_tym_e	Tyramine exchange	55.9771138262501	1.71055634858273e-05
+EX_imp_e	IMP exchange	503.147740735586	0.000159309471668617
+DOPAtex	Dopamine transport via diffusion (extracellular to periplasm)	503.147740735586	0.000159309471668617
+ETHAtex	Ethanolamine transport via diffusion (extracellular)	1000	0.000469500349073448
+G3PStex	Glycerophosphserine transport via diffusion (extracellular to periplasm)	1000	0.000469500349073448
+FEENTERR2	Fe-enterobactin reduction (Fe(III)-unloading)	499.104518137047	0.000899295129213828
+FE3HOXexs	Fe(III) hydroxamate Fe-loading reaction (spontaneaous)	1998.06934479063	0.00676648543911067
+FECRMR3	Ferrichrome reductase	998.209036274096	0.0103317534792224
+ACGAL1Ptex	N-acetyl-D-galactosamine 1-phosphate transport via diffusion (extracellular to periplasm)	2000	1.60472933525252
+ACGALtex	N-acetyl-D-galactosamine transport via diffusion (extracellular to periplasm)	1000	0.000445879712643402
+GLCUR1Ptex	D-glucuronate 1-phosphate transport via diffusion (extracellular to periplasm)	1000	0.0222147778007388
+ISETACtex	Isethionate transport via diffusion (extracellular to periplasm)	823.332666658238	0.000178023223635416
+UACGAMtex	UDP-N-acetyl-D-glucosamine transport via diffusion (extracellular to periplasm)	1000	0.00194698064448302
+MSO3tex	Methanesulfonate transport via diffusion (extracellular to periplasm)	1000	0.0938622961009884
+FECRMR1	Ferrichrome reductase	509.922474891101	0.00764938331932994
+AGM3Pt2pp	GlcNAc-anhMurNAc tripeptide transport in via proton symport (periplasm)	998.348727757561	0.00246006858162595
+AGMt2pp	GlcNAc-anhMurNAc transport in via proton symport (periplasm)	1000	0.00310923216850156
+ARBTNR1	Aerobactin reductase	163.961752084908	0.000186637574651322
+ARBTNR2	Aerobactin reductase	163.961752084908	0.000186637574651322
+ARBTNR3	Aerobactin reductase	1000	0.0247814373576318
+FEOXAMexs	Ferroxamine Fe3-loading reaction (spontaneous)	999.797911172392	0.0416627431406858
+FEOXAMR2	Ferroxamine reductase	1000	0.00617401739016188
+FEOXAMR3	Ferroxamine reductase	998.20903627409	0.0024437535211449
+AGt3	Silver transport out via proton antiport	999.100605847405	0.00126447470660072
+CD2t3pp	Cadmium (Cd+2) transport out via proton antiport (periplasm)	1000	0.0109643746799392
+SKMt2pp	Shikimate transport in via proton symport (periplasm)	1000	0.0283710668965432
+FE2t2pp	Iron (II) transport in via proton symport (periplasm)	274.444222219411	0.000235979300232003
+GLYC2Ptex	Glycerol-2-phosphate transport via diffusion (extracellular to periplasm)	274.444222219411	0.000235979300232003
+R5Ptex	Ribose 5-phosphate transport via diffusion (extracellular to periplasm)	2000	0.062205306288897
+THRPtex	Phospho-L-threonine transport via diffusion (extracellular to periplasm)	51.0854542658596	2.21320494942374e-05
+TYRPtex	Phopho-L-tyrosine transport via diffusion (extracellular to periplasm)	51.0854542658596	2.21320494942374e-05
+CPGNR2	Coprogen(Fe(III)) reductase	1996.07163007281	0.0550784653656187
+CPGNR3	Coprogen(Fe(III)) reductase	1000	0.0775628584448044
+CPGNUtpp	Coprogen unloaded secretion	1000	0.00109758109343261
+CPGNUtex	Coprogen unloaded secretion (extracellular)	1000	0.19823411763348
+CPGNexs	Coprogen Fe-loading reaction (spontaneaous)	736.433844053318	0.000244987028768268
+ACGAtex	N-Acetyl-D-glucosamine transport via diffusion (extracellular to periplasm)	998.318486769425	0.00107682452593094
+DDCAtexi	Fatty acid (dodecanoate) transport via facilitated irreversible diffusion (extracellular to periplasm)	998.318486769424	0.00394487640561703
+HDCAtexi	Hexadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm)	548.888444438826	0.000471958600485323
+GUACYC	Guanylate cyclase	998.209036274094	0.00222344014107759
+ATPHs	ATP amine hydrolysis (spontaneous)	998.347479753246	0.00419009737096479
+GTPHs	GTP amine hydrolysis (spontaneous)	578.584199226988	0.000903397794823763
+EX_cd2_e	Cadmium exchange	0.00137233256559952	0.00137218624444433
+IDONt2rpp	L-idonate transport via proton symport, reversible (periplasm)	999.698126536529	7.23505484481815e-05
+ILEabcpp	L-isoleucine transport via ABC system (periplasm)	0.00137233256559952	0.00137219081629673
+INDOLEt2pp	Indole transport via proton symport, irreversible (periplasm)	431.060196002387	0.00245944020310018
+INSt2pp	Inosine transport in via proton symport (periplasm)	431.060196002387	0.00245944020267408
+LYXt2pp	L-Lyxose transport via proton symport (periplasm)	998.318486769434	0.00286470854961118
+OCDCAtexi	Octadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm)	431.060196002387	0.00245944020284283
+OCDCEAtexi	Octadecenoate (n-C18:1) transport via facilitated irreversible diffusion (extracellular to periplasm)	998.318486769434	0.00286470854961118
+G6Ptex	Glucose 6-phosphate transport via diffusion (extracellular to periplasm)	240.166898102219	0.000156100116438074
+MOBDtex	Molybdate transport via diffusion (extracellular to periplasm)	236.211003081233	0.00497510713815016
+NI2tex	Nickel transport via diffusion (extracellular to periplasm)	250.825067665805	0.00497510713915922
+R1PK	Ribose 1-phosphokinase	499.104518137047	0.00144656548532612
+LEUabcpp	L-leucine transport via ABC system (periplasm)	332.736345424699	0.000205627729736424
+L_LACt2rpp	L-lactate reversible transport via proton symport (periplasm)	999.873042984864	0.00101216939240362
+MAN6Pt6_2pp	Mannose-6-phosphate transport via phosphate antiport (periplasm)	51.0854542658596	2.21320494941836e-05
+MELIBt2pp	Melibiose transport in via symport (periplasm)	1000	0.000834861888301064
+EX_fe3hox_un_e	Fe(III)hydoxamate, unloaded exchange	998.209036274093	0.00238236881530104
+NAt3_2pp	Sodium proton antiporter (H:NA is 2) (periplasm)	332.736345424697	0.000205627729748941
+NO2t2rpp	Nitrite transport in via proton symport, reversible (periplasm)	1999.92015299405	0.046046657110383
+FECRMtonex	Ferrichrome transport via ton system (extracellular)	1000	0.302518527903906
+ARBTNtonex	Aerobactin transport via ton system (extracellular)	998.209036274094	0.00318583749775081
+EX_enter_e	Enterochelin exchange	55.9771138262502	1.71055634858273e-05
+EX_fecrm_un_e	Ferrichrome minus Fe(III) exchange	232.222034185657	0.000125600679418129
+EX_cgly_e	Cys-Gly exchange	232.222034185657	0.000125600679418129
+EX_chtbs_e	Chitobiose exchange	232.222034185657	0.000125600679418129
+EX_gmp_e	GMP exchange	252.774039869478	2.70700398041779e-05
+H2O2tex	Hydrogen peroxide transport via diffusion (external)	999.382492289167	0.00086946666880855
+ADEtex	Adenine transport via diffusion (extracellular to periplasm)	1000	0.251148261545497
+ADNtex	Adenosine transport via diffusion (extracellular to periplasm)	1000	0.0023599493464177
+AGMtex	Agmatine transport via diffusion (extracellular to periplasm)	7.74269414138828e-08	3.76553893621789e-08
+ALAtex	L-alanine transport via diffusion (extracellular to periplasm)	274.444222219411	0.000235979300232003
+BALAtex	Beta-alanine transport via diffusion (extracellular to periplasm)	55.9771138262502	1.71055634858273e-05
+DALAtex	D-Alanine transport via diffusion (extracellular to periplasm)	55.97711382625	1.71055634872949e-05
+AMPtex	AMP transport via diffusion (extracellular to periplasm)	209.412883219921	0.00026093811960945
+ARBtex	L-arabinose transport via diffusion (extracellular to periplasm)	209.412883219921	0.00026093811960945
+ARGtex	L-arginine transport via diffusion (extracellular to periplasm)	209.412883219921	0.00026093811960945
+ASCBtex	L-ascorbate transport via diffusion (extracellular to periplasm)	1998.20878012595	0.00508308472255434
+FE3HOXtonex	Fe(III)hydroxamine transport via ton system (extracellular)	209.412883219921	0.00026093811960945
+MMETtex	S-methyl-L-methionine transport via diffusion (extracellular to periplasm)	209.412883219921	0.000260938119606841
+FE3tex	Iron (III) transport via diffusion (extracellular to periplasm)	999.857995717005	0.000746023209548669
+MG2tex	Magnesium (Mg+2) transport via diffusion (extracellular to periplasm)	999.857995717005	0.000711514256883816
+Zn2tex	Zinc (Zn+2) transport via diffusion (extracellular to periplasm)	628.04809212809	0.000262334883680104
+MMETt2pp	S-methylmethionine permease (periplasm)	628.190096411091	0.000666326943253171
+CD2tex	Cadmium (Cd+2) transport via diffusion (extracellular to periplasm)	998.318486769426	0.00480810063420956
+GLUABUTt7pp	4-aminobutyrate/glutamate antiport (periplasm)	998.318486769427	0.00480983849937866
+GLUt2rpp	L-glutamate transport via proton symport, reversible (periplasm)	431.060196002384	0.00245944020278865
+GLYALDtpp	Glyceraldehyde facilitated diffusion (periplasm)	823.332666658237	0.000719597928962597
+EX_frulys_e	Fructoselysine exchange	1000	0.00702780086637489
+METOX1s	Methionine oxidation (spontaneous)	166.368172712349	0.000518378085042845
+METOX2s	Methionine oxidation 2 (spontaneous)	628.048092128093	0.000262334883681936
+FRUURtex	D-fructuronate transport via diffusion (extracellular)	248.761753522344	0.000184789622746602
+ECAtpp	Enterobacterial common antigen transferase (flippase, cytoplasm to periplasm)	1602.63880386322	0.00266752425252359
+O16AUNDtpp	O16 antigen (flippase, cytoplasm to periplasm)	274.444222219411	0.000235979300229549
+GLYCAt2rpp	D-glycerate transport via proton symport, reversible (periplasm)	499.104518137046	0.00144656548543806
+GLYCAtex	D-glycerate transport via diffusion (extracellular to periplasm)	754.725368038597	0.00107199059738319
+EX_enlipa_e	Phosphoethanolamine KDO(2)-lipid (A) exchange	1000	0.00015058900320486
+EX_hacolipa_e	Hepta-acylated core oligosaccharide lipid A (E. coli) exchange	252.774039869477	0.000209200271986898
+GLYC3Pt6pp	Glycerol-3-phosphate : phosphate antiporter (periplasm)	1490.918462333	0.162749132747877
+GLYCLTt4pp	Glycolate transport via sodium symport (periplasm)	1000	0.284077584325985
+GLYCtpp	Glycerol transport via channel (periplasm)	1000	0.0232295663692526
+HISt2rpp	L-histidine reversible transport via proton symport (periplasm)	1000	0.0239106630573174
+COBALT2tex	Cobalt (Co+2) transport via diffusion (extracellular to periplasm)	503.147740735579	0.000159309471679275
+FALGTHLs	Formaldehyde glutathione ligase (spontaneous)	999.100605847404	0.000884473405398434
+DIMPtex	DIMP transport via diffusion (extracellular to periplasm)	999.873042984864	0.00101216939240362
+GALURt2rpp	D-galacturonate transport via proton symport, reversible (periplasm)	524.240852375935	0.00281518649058088
+GLCNt2rpp	D-gluconate transport via proton symport, reversible (periplasm)	9.96550511445093e-07	1999.99003549247
+GLCRt2rpp	D-glucarate transport via proton symport, reversible (periplasm)	1199.63775184383	7.04341753161794e-05
+EX_ala__D_e	D-Alanine exchange	1000	9.2666224310034e-06
+XTSNtex	Xanthosine transport via diffusion (extracellular to periplasm)	1000	5.20207180075494
+EX_hdca_e	Hexadecanoate (n-C16:0) exchange	823.332666658238	0.000178023223635416
+EX_glcr_e	D-Glucarate exchange	0.000128099691138004	2.09395339955835e-06
+HYPOE	Hypothetical enyme	998.209036274091	0.0110243075290049
+UREAtpp	Urea transport via facilitate diffusion (periplasm)	998.209036274093	0.00986947839306396
+XANt2pp	Xanthine transport in via proton symport (periplasm)	998.209036274093	6.29136843030842e-05
+PPPNt2rpp	3-phenylpropionate transport via proton symport, reversible (periplasm)	998.209036274092	0.0103317534779446
+PTRCORNt7pp	Putrescine/ornithine antiporter (periplasm)	998.209036274092	8.87679088271143e-05
+HG2tex	Mercury (Hg+2) transport via diffusion (extracellular to periplasm)	999.873042984864	0.00644809426690929
+NADPPPS	NADP phosphatase	88.3898269062093	3.47905399104958e-05
+EX_mnl_e	D-Mannitol exchange	999.873042984864	0.00101216939240362
+DHAtex	Dihydroxyacetone transport via diffusion (extracellular to periplasm)	1000	0.295227677070788
+ETOHtex	Ethanol transport via diffusion (extracellular to periplasm)	999.100605847404	0.00107199059738319
+EX_asn__L_e	L-Asparagine exchange	999.100605847405	0.0011873738159149
+EX_mal__L_e	L-Malate exchange	1.14887615370407e-06	1.14867760368787e-06
+NMNN	NMN nucleosidase	646.912825369112	0.000784692252671882
+EX_no2_e	Nitrite exchange	431.060196002387	0.00245944020267408
+ACACtex	Acetoacetate transport via diffusion (extracellular to periplasm)	548.888444438825	0.000471958600472909
+ACNAMtex	N-acetylneuraminate transport via diffusion (extracellular to periplasm)	1000	0.111695169537408
+ASO3t8pp	Arsenite efflux via ATP hydrolysis (periplasm)	999.100605847404	0.00126447470660855
+H2Stex	H2s transport via diffusion (extracellular to periplasm)	999.100605847403	0.00144007864110954
+OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	417.124673327271	0.000262109521205256
+EX_nh4_e	Ammonia exchange	753.199154088174	0.000302727535615332
+EX_ddca_e	Dodecanoate (n-C12:0) exchange	999.100605847403	0.0017164162995008
+FORt2pp	Formate transport via proton symport (uptake only, periplasm)	252.774039869477	0.00020920027197624
+EX_r5p_e	Alpha-D-Ribose 5-phosphate exchange	998.209036274093	0.000180916565284461
+EX_glyc2p_e	Glycerol 2-phosphate exchange	499.104518137046	0.00144656548532197
+4PEPTtex	LalaDgluMdapDala (pentapeptide) transport via diffusion (extracellular to periplasm)	503.147740735579	0.00015930947167217
+EX_pnto__R_e	(R)-Pantothenate exchange	1252.77403986948	0.111695169540798
+HPPPNt2rpp	3-(3-hydroxyphenyl)propionate transport via proton symport, reversible (periplasm)	236.211003081233	0.00497510713844888
+EX_gam_e	D-Glucosamine exchange	185.156884679921	0.00071194084640136
+EX_inost_e	Myo-Inositol exchange	209.412883219921	0.00026093811960945
+EX_mobd_e	Molybdate exchange	1000	0.000578444979034032
+EX_phe__L_e	L-Phenylalanine exchange	1000	0.139691955984603
+EX_thr__L_e	L-Threonine exchange	503.147740735586	0.000159309471668617
+EX_uri_e	Uridine exchange	503.147740735586	0.000159309471668617
+H2St1pp	H2s transport (periplasm)	1000	0.0247904659020626
+EX_halipa_e	Hepta-acylated KDO(2)-lipid (A) exchange	1000	0.139691955978725
+EX_cmp_e	CMP exchange	736.433844053318	0.000244987028765992
+EX_csn_e	Cytosine exchange	2.56173764899515e-08	7.51860564017731e-09
+EX_etoh_e	Ethanol exchange	191.050409084595	3.00850345628992e-05
+EX_his__L_e	L-Histidine exchange	7.74269414138828e-08	3.77942384056614e-08
+EX_k_e	K+ exchange	252.774039869477	0.000209200271975241
+EX_na1_e	Sodium exchange	252.774039869477	0.000209200271990007
+EX_dmso_e	Dimethyl sulfoxide exchange	273.238440623326	1.38091783292715e-05
+EX_12ppd__S_e	(S)-Propane-1,2-diol exchange	1000	0.0203094421636315
+EX_pppn_e	Phenylpropanoate exchange	998.209036274093	0.000883730953840089
+EX_galt_e	Galactitol exchange	998.209036274093	0.000432590749188777
+FECRMUtex	Ferrichrome (minus Fe) secretion (to extracellular)	1000	0.000578444978980241
+CLtex	Chloride (Cl-1) transport via diffusion (extracellular to periplasm)	1000	0.0247904659030953
+EX_glcur1p_e	D-Glucuronate 1-phosphate exchange	1000	0.00217053457220706
+EX_thrp_e	L-Threonine O-3-phosphate exchange	1000	0.00930360034284357
+EX_pydxn_e	Pyridoxine exchange	27.9885569131251	8.5526370005376e-06
+EX_gsn_e	Guanosine exchange	1000	0.208913745821079
+EX_orot_e	Orotate exchange	1000	5.00266349998854
+G6Pt6_2pp	Glucose-6-phosphate transport via phosphate antiport (periplasm)	7.74269414138828e-08	3.76553893621789e-08
+EX_o2_e	oxygen exchange	1000	0.111695169532879
+EX_gal1p_e	Alpha-D-Galactose 1-phosphate exchange	2.56173348805761e-08	1.24570966943973e-08
+EX_dcmp_e	DCMP exchange	51.0854542658596	2.21320494941836e-05
+EX_23ccmp_e	2',3'-Cyclic CMP exchange	51.0854542658596	2.21320494941836e-05
+EX_3cmp_e	3'-cmp exchange	1000	2.45363068136462e-06
+EX_skm_e	Shikimate exchange	1000	0.000473489028045116
+EX_ag_e	Silver exchange	1000	0.0207600595934707
+EX_cys__D_e	D-Cysteine exchange	2000	1.36339393885807
+EX_acser_e	O-Acetyl-L-serine exchange	999.382492289167	0.000795571525669558
+EX_arbtn_e	Aerobactin minus Fe3 exchange	628.048092128094	0.000262334883666504
+EX_dopa_e	Dopamine exchange	998.318486769427	0.00480086655677381
+EX_hom__L_e	L-Homoserine exchange	240.166898102219	0.000156100116438074
+THRt2pp	L-threonine efflux transport via proton antiport (periplasm)	240.166898102219	0.000156100116438074
+EX_LalaDgluMdapDala_e	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine exchange	999.382492289167	0.000745824837861786
+CYSDtex	D-cysteine transport via diffusion (extracellular to periplasm)	1000	0.0150521647782359
+EX_so2_e	Sulfur dioxide exchange	274.287651657317	7.25355842775064e-06
+EX_dms_e	Dimethyl sulfide exchange	1000	0.00139813430617371
+G3PGtex	Glycerophoglycerol transport via diffusion (extracellular to periplasm)	136.198648162233	0.000162630803398622
+EX_acgal1p_e	N-Acetyl-D-galactosamine 1-phosphate exchange	1860.74328304404	1005.8853894169
+EX_cyan_e	Hydrogen cyanide exchange	546.166423996798	1.45483920833689e-05
+EX_tyrp_e	Phosphotyrosine exchange	540.446192345335	1.4548392081315e-05
+EX_14glucan_e	1,4-alpha-D-glucan exchange	1000	4.95779147436988
+EX_fe3dhbzs_e	Ferric 2,3-dihydroxybenzoylserine exchange	1000	0.022225509766109
+EX_g3pg_e	Glycerophosphoglycerol exchange	1000	0.305110572683256
+EX_g3pi_e	Sn-Glycero-3-phospho-1-inositol exchange	431.060196002388	0.00203879079368718
+EX_g3ps_e	Glycerophosphoserine exchange	1000	0.0219835989666113
+UMPtex	UMP transport via diffusion (extracellular to periplasm)	514.296353744402	0.000128655972041161
+G1Ptex	D-glucose 1-phosphate transport via diffusion	1000	0
+CUt3	Copper transport out via proton antiport	817.139216340641	0.00088796029443558
+ZN2t3pp	Zinc (Zn+2) transport out via proton antiport (periplasm)	367.870966786058	8.00380974357862e-05
+SKMtex	Shikimate transport via diffusion (extracellular to periplasm)	577.942321827063	0.000108475388111096
+MNt2pp	Manganese (Mn+2) transport in via proton symport (periplasm)	1000	0.15255528636014
+O2Stex	Superoxide anion transport via diffusion (extracellular to periplasm)	588.5297421395	0.0257179465709678
+EX_dimp_e	DIMP exchange	1000	0.00288577052188543
+HOMtex	L-homoserine transport via diffusion (extracellular to periplasm)	5.97930238654953e-07	2.90749939349782e-07
+SO2tpp	SO2 transport via diffusion (periplasm)	1000	0.164604523368586
+CYStpp	L-cysteine export via facilitated transport	705.370997088504	0.000811359504643505
+2AGPG140tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0) transporter via facilitated diffusion (periplasm)	0.000128099691138004	2.09395339955835e-06
+2AGPG141tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1) transporter via facilitated diffusion (periplasm)	1000	0.0282304304922319
+2AGPG181tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) transporter via facilitated diffusion (periplasm)	1159.36619630262	0.305683235347805
+12DGR141tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C14:1)	1250.82506766581	0.310057748095439
+CLPNH161pp	Cardiolipin hydrolase (periplasm, n-C16:1)	1000	0.0282304304986098
+CLPNH181pp	Cardiolipin hydrolase (periplasm, n-C18:1)	145.079166738938	0.000185755097657947
+EX_dgmp_e	DGMP exchange	1000	0.152555286343206
+EX_manglyc_e	2(alpha-D-Mannosyl)-D-glycerate exchange	1000	0.0152987666385418
+FE3DHBZStonex	Ferric 2,3-dihydroxybenzoylserine transport via ton system (extracellular)	1000	0.00930360034279783
+AACTOOR	Aminoacetone:oxygen oxidoreductase(deaminating)(flavin-containing)	853.803436711332	0.0170777024923969
+23DAPPAtex	2,3-diaminopropionate transport via diffusion	1000	0.0152853210693848
+FEOXAMtonex	Ferroxamine transport via ton system (extracellular)	1000	0.015298766638016
+EX_tsul_e	Thiosulfate exchange	2000	0.176063021439962
+EX_n2o_e	Nitrous oxide exchange	2000	0.417098321932062
+EX_maltttr_e	Maltotetraose exchange	1000	0.0412568488555259
+UDCPPtppi	Undecaprenyl phosphate transport (cytoplasm to periplasm)	1000	0.021153015674933
+MELIBt3ipp	Melibiose transport in via antiport (periplasm)	639.1986916383	0.000174662058190111
+EX_pydx_e	Pyridoxal exchange	993.797878586468	0.00223983874008873
+EX_g1p_e	D-Glucose 1-phosphate exchange	1000	0.0224860096187979
+NAt3pp	Sodium transport out via proton antiport (cytoplasm to periplasm)	1000	0.305110572696393
+DHORDfum	Fumarate dependent DHORD	1000	0.15255528636014
+DSBGGT	DsbG:glutathione thiotransferase	1000	0.101703524239037
+DM_oxam_c	Sink needed to allow oxamate to leave system	209.412883219921	0.000260938119610261
+PDX5PO2	Pyridoxine 5'-phosphate oxidase (anaerboic	627.359482629743	0.000859238887541913
+HG2t3pp	Mercury (Hg+2) transport out via proton antiport (periplasm)	155.614366582902	0.00020920027198057
+EX_alaala_e	D-Alanyl-D-alanine exchange	996.07163007281	0.0845408403455643
+EX_dtmp_e	DTMP exchange	437.977814094254	0.00123359439191387
+12PPDRtpp	(R)-Propane-1,2-diol facilitated transport (periplasm)	2.24230160483785e-05	1.12115080030534e-05
+SO4t2pp	Sulfate transport in via proton symport (periplasm to cytoplasm)	1000	2.33805712459089
+12PPDRtex	(R)-Propane-1,2-diol transport via diffusion (extracellular to periplasm)	780.917279937958	0.0217647868951111
+GAMAN6Ptex	D-glucosamine 6-phosphate transport via diffusion (extracellular to periplasm)	1000	0.0243443077785237
+PPALtpp	Propanal transport via channel (periplasm)	1000	0.390117380174777
+PROGLYtex	L-Prolinylglycine transport via diffusion (extracellular to periplasm)	1000	0.390117380163208
+EX_progly_e	L-Prolinylglycine exchange	1000	0.96647995763848
+2AGPA160tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C16:0) transporter via facilitated diffusion (periplasm)	2000	0.0257315189480524
+2AGPA180tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C18:0) transporter via facilitated diffusion (periplasm)	191.610054624312	0.000586339538980928
+2AGPA141tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C14:1) transporter via facilitated diffusion (periplasm)	1000	0.0207600595916375
+2AGPE140tipp	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0) transporter via facilitated diffusion (periplasm)	137.527247801661	0.000188481629910691
+2AGPA161tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C16:1) transporter via facilitated diffusion (periplasm)	178.86282119833	0.000187062750742623
+2AGPA181tipp	2-Acyl-sn-glycero-3-phosphatidate (n-C18:1) transporter via facilitated diffusion (periplasm)	1000	0.0235077350890296
+2AGPG120tipp	2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0) transporter via facilitated diffusion (periplasm)	511.997517749261	1.14479392125943e-05
+GTHOXtex	Glutathione (ox) transport via diffusion (extracellular to periplasm)	1000	2.48030505623796
+DSBAO1	DsbA protein reoxidation reaction (aerobic)	1000	0.305110572691101
+CGLYabcpp	L-Cysteinylglycine (Cys-Gly) transport via ABC system (periplasm)	155.614366582903	0.000209200272007992
+12DGR161tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C16:1)	500	0.00477714954071602
+12DGR181tipp	1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C18:1)	1000	0.0152987666382656
+ALAt4pp	L-alanine transport in via sodium symport (periplasm)	462.43101975813	0.000244987028765409
+LYSt3pp	L-lysine transport out via proton antiport (cytoplasm to periplasm)	686.400762566019	0.000167364963973626
+EX_tungs_e	Tungstate exchange	7.68521294935987e-08	3.7370849890713e-08
+EX_crn__D_e	D-carnitine exchange	1000	0.305110572708646
+CHLt2pp	Choline transport via proton symport (periplasm)	3.71049964087433e-08	1.08344770277831e-08
+FRULYSt2pp	Fructoselysine transport via proton symport (periplasm)	1000	0.019971527342989
+DM_aacald_c	Sink needed to allow aminoacetaldehyde to leave system	1000	0.0290839023129719
+COBALT2t3pp	Cobalt (Co+2) transport out via proton antiport (periplasm)	1000	0.152555286355117
+23DAPPAt2pp	2,3-diaminopropionate transport in via proton symport	1000	0.101703524235082
+CAt6pp	Calcium / sodium antiporter (1:1)	1000	0.0152853210693848
+LYSt2pp	L-lysine transport in via proton symport (periplasm)	500	0.00477714954071602
+GLYt2pp	Glycine transport in via proton symport (periplasm)	236.211003081234	0.00497510713795409
+BALAt2pp	Beta-alanine transport in via proton symport (periplasm)	274.44422221941	0.000235979300229549
+DALAt2pp	D-alanine transport in via proton symport (periplasm)	240.166898102219	0.000974496543921696
+FE2tpp	Iron (+2) transport in via permease (no H+)	1000.00000008145	1999.99959280485
+MN2tpp	Manganese transport in via permease (no H+)	1000	0.013656979647802
+MG2tpp	Magnesium (+2) transport in via diffusion	252.774039869477	0.000209200271986898
+NI2t3pp	Nickle (Ni+2) transport out via proton antiport (periplasm)	2000	0.258588279969566
+CU2tpp	Copper transport in via permease (no H+)	496.898939293234	0.00020798721235521
+FE2t3pp	Iron (Fe+2) transport out via proton antiport (periplasm)	1000	4.95779147471954
+CD2tpp	Cadmium (+2) transport in via permease (no H+)	628.048092128094	0.000262334883690485
+ETHAt2pp	Ethanolamine transport in via proton symport	139.252438135034	4.85083906046095e-05
+FE3abcpp	Iron (III) transport via ABC system (periplasm to cytoplasm)	1000	0.034378056837924
+SELGTHR	Selenate glutathione reductase	685.4082459536	0.00144587092249848
+SELGTHR3	Selenate glutathione reductase III	206.164673223524	0.000620546663241909
+DOXRBCNtex	Doxorubicin transport via diffusion (extracellular to periplasm)	993.797878586462	0.0217647868934394
+DOXRBCNtpp	Doxorubicin transport via TolC system	1000	0.00620871286930225
+ETOHtrpp	Ethanol reversible transport via diffusion (periplasm)	1000	0.0042529894615555
+I4FE4SR	ISC [4Fe-4S] Reduction	1000	0.00324394026635133
+CMtex	Chloramphenicol transport via diffusion (extracellular to periplasm)	1000	0.417098321875221
+LALADGLUtex	L-alanyl-D-glutamate transport via diffusion (extracellular to periplasm)	354.389011926914	0.000192931102808852
+LALALGLUtpp	L-alanyl-L-glutamate transport in via proton symport (periplasm)	200.24159541418	0.000521691871938984
+EX_LalaLglu_e	L-alanine-L-glutamate exchange	240.166898102219	0.000156100116441987
+EX_ttrcyc_e	Tetracycline exchange	0.00130856993906292	0.00130843520701875
+EX_mincyc_e	Minocycline exchange	0.0013085699391695	0.00130843148256086
+DM_4crsol_c	Sink needed to allow p-Cresol to leave system	0.00130856993911088	0.00130843520690176
+FESD1s	Iron-sulfur cluster damage (peroxide, spontaneous)	0.00130856993905581	0.0013084352106255
+EX_fusa_e	Fusidic acid exchange	524.240852375933	0.00281518649062806
+FESD2s	Iron-sulfur cluster damage (nitrous oxide, spontaneous)	793.975185485439	0.0235222121104005
+MEOHtrpp	Methanol reversible transport via diffusion (periplasm)	686.400762566019	0.000164001664184399
+SELtex	Selenate transport via diffusion (extracellular to periplasm)	1999.99077579507	0.0331983360864868
+CDGS	7-deaza-7-carboxyguanine synthase	7.68521294935987e-08	3.7370849890713e-08
+5MTRtpp	5-Methylthio-D-ribose transport via proton symport (periplasm)	1846.81986453819	0.00564773777491728
+TTRCYCtex	Tetracycline transport via diffusion (extracellular to periplasm)	1846.81986453819	0.00564773777541894
+FESR	Iron-sulfur cluster repair	431.060196002388	0.00203879079339223
+SLNTtex	Selenite transport via diffusion (extracellular to periplasm)	2.61687699553217e-07	1.27528467224781e-07
+SELGTHR2	Selenate glutathione reductase II	1000	0.0234446147328775
+RFAMPtpp	Rifampin transport via TolC system	2.87195689452346e-09	1999.99997128384
+BTNtex	Biotin transport via diffusion (extracellular to periplasm)	1000	0.00301075344357571
+ARBTtex	Arbutin transport via diffusion (extracellular to periplasm)	1000	0.00301075344364676
+EX_arbt_e	Arbutin exchange	545.278102698963	7.31296959753935e-05
+DMSOtpp	Dimethyl sulfoxide transport via diffusion (periplasm)	159.366196302618	0.000572662650882315
+PYDXtpp	Pyridoxal import	250.825067665806	0.00494717541340203
+SUCASPtpp	Succinate:aspartate antiporter (periplasm)	322.626918594228	0.000903397794824568
+SUCMALtpp	Succinate:malate antiporter (periplasm)	390.749221991679	2.53681135694295e-05
+PYDXNtpp	Pyridoxine import	671.09583053545	0.0063680127172
+PYDAMtex	Pyridoxamine transport via diffusion (extracellular)	160.319768596207	0.000188178149740453
+TARTt2_3pp	D-tartrate transport via proton symport (3 H) (periplasm)	745.233876448341	0.000795571525681105
+SUCTARTtpp	Succinate:D-tartrate antiporter (periplasm)	1000	0.305110572688813
+CHTBStex	Chitobiose transport via diffusion (extracellular to periplasm)	787.16347002031	0.00103354035465906
+TRPtipp	L-tryptophan transport out (periplasm)	12.7713635664649	5.53291873667261e-06
+SPMDt3pp	Spermidine transport out via proton antiport (periplasm)	580.444091552132	0.000192491400033079
+FEENTERES	Enterochelin Esterase (Fe containing)	1000	0.00239144567726129
+CLBtex	Cellobiose transport transport via diffusion extracellular to periplasm 	499.104518137048	0.00155513425507087
+CHOLATEtpp	Cholate transport via proton antiport	1000	0.0152987666393467
+4ABZGLUtr	P-aminobenzoyl glutamate:H+ symporter	1000	0.0152987666373814
+CYSItpp	Cystine efflux transport	1000	0.0152987666373814
+CLtipp	Chloride ion transport in via diffusion (periplasm)	232.222034185657	0.000125600679400151
+PItpp	Phosphate export via facillated diffusion (periplasm)	232.222034185657	0.000125600679396085
+LEUt3pp	L-leucine transport out via proton antiport (periplasm)	1000	0.0152853210696122
+INSt3pp	Inosine transport out via proton antiport (perisplasm)	1000	0.0152853210696122
+INDOLEt2rpp	Indole transport via proton symport, reversible (periplasm)	1000	0.0152987666376987
+ILEt2rpp	L-isoleucine reversible transport via proton symport (periplasm)	1000	0.0152987666393467
+GLYtpp	Glycine transport via facillitated diffusion	1000	0.0152987666378888
+FADt	FAD transporter, periplasm	500	0.00764938331877183
+FADtex	FAD transport, outer membrane	1000	0.152555286340853
+4HBZt3pp	4-hydroxybenzoate transport out via antiporter	580.444091552132	0.00019249140004482
+EX_mepn_e	Methylphosphonic acid exchange	47.762602271149	7.52113135464051e-06
+SERtpp	L-serine export via facilitated transport	12.7713635664649	5.53291873618575e-06
+DHGLYH	Dehydroglycine Hydratase	51.0854542658596	2.21320494952215e-05
+EX_sq_e	Sulphoquinovose exchange	12.7713635664649	5.53291873618575e-06
+URATEtpp	Uric acid transporter	12.7713635664649	5.53291873618575e-06
+CS1tex	Cesium transport via diffusion	1000	0.000204650035266374
+ADOCBLtonex	Adenosylcobalimin transport via ton system (extermal)	500	0.00764938331912646
+MEPNtex	Methylphosphonic acid transport via diffusion (extracellular to periplasm)	500	0.00764266053474216
+EX_4abzglu_e	4-aminobenzoyl-glutamate exchange	500	0.00764266053455261
+METGLCURtex	1-O-methyl-Beta-D-glucuronate via diffusion (extracellular)	12.7713635664649	5.53291873667261e-06
+FMNt	FMN transporter, periplasm	12.7713635664649	5.53291873667261e-06
+SUCCt1pp	Succinate transport via diffusion in (periplasm)	1000	0
+BIOMASS_Ec_iML1515_core_75p37M	biomass pseudoreaction	2000	6.78235841746755e-05
+BIOMASS_Ec_iML1515_WT_75p37M	E. coli biomass objective function (iML1515) - WT - with 75.37 GAM estimate	1000	6.78235841746755e-05
+EX_akg_e_REV	2-Oxoglutarate exchange (reversible)	47.762602271149	7.5211313541317e-06
+EX_ala__L_e_REV	L-Alanine exchange (reversible)	274.444222219412	0.000187020443887162
+EX_glcn_e_REV	D-Gluconate exchange (reversible)	1000	0.000395735511389717
+EX_gln__L_e_REV	L-Glutamine exchange (reversible)	1000	0.000422660916072023
+EX_man_e_REV	D-Mannose exchange (reversible)	753.199154088176	0.000302727535586455
+EX_co2_e_REV	carbon dioxide exchange (reversible)	218.918959101065	7.16020297447661e-06
+EX_ile__L_e_REV	L-Isoleucine exchange (reversible)	500	0.0076426605342057
+EX_lac__L_e_REV	L-Lactate exchange (reversible)	509.922474891101	0.00764938331864695
+EX_leu__L_e_REV	L-Leucine exchange (reversible)	500	0.00764938331814437
+EX_no3_e_REV	Nitrate exchange (reversible)	1000	0.0152853210701016
+EX_orn_e_REV	Ornithine exchange (reversible)	1000	0.0152987666383414
+EX_pro__L_e_REV	L-Proline exchange (reversible)	500	0.00764938331879194
+EX_succ_e_REV	Succinate exchange (reversible)	232.222034185657	0.000125600679400151
+EX_thymd_e_REV	Thymidine exchange (reversible)	251.573870367794	0.000185653589851894
+EX_tyr__L_e_REV	L-Tyrosine exchange (reversible)	274.444222219413	0.000185653589851894
+EX_btn_e_REV	Biotin exchange (reversible)	999.116122337317	0.00328738745625116
+EX_ptrc_e_REV	Putrescine exchange (reversible)	998.209036274094	0.00328738745647376
+EX_fru_e_REV	D-Fructose exchange (reversible)	500	0.0016924581452788
+EX_trp__L_e_REV	L-Tryptophan exchange (reversible)	274.44422221941	0.000233807291047938
+EX_din_e_REV	Deoxyinosine exchange (reversible)	274.444222219414	0.000235979300232891
+EX_fmn_e_REV	FMN exchange (reversible)	274.444222219413	0.000233807291036583
+EX_sucr_e_REV	Sucrose exchange (reversible)	500	0.00764938331927248
+EX_tre_e_REV	Trehalose exchange (reversible)	500	0.00764938331905029
+EX_zn2_e_REV	Zinc exchange (reversible)	999.999871925926	2.7665061871244e-05
+EX_tmao_e_REV	Trimethylamine N-oxide exchange (reversible)	251.573870367792	0.000187020443878478
+EX_26dap__M_e_REV	Meso-2,6-Diaminoheptanedioate exchange (reversible)	251.573870367793	0.000185653589848109
+EX_acnam_e_REV	N-Acetylneuraminate exchange (reversible)	274.444222219411	0.000235979300264854
+EX_amp_e_REV	AMP exchange (reversible)	274.444222219409	0.00023380729104705
+EX_dha_e_REV	Dihydroxyacetone exchange (reversible)	251.573870367792	0.000187020443880175
+EX_fuc__L_e_REV	L-Fucose exchange (reversible)	1000	0.015298766637336
+EX_glyald_e_REV	D-Glyceraldehyde exchange (reversible)	500	0.0076493833192508
+EX_rmn_e_REV	L-Rhamnose exchange (reversible)	500	0.00764938331866323
+EX_ttdca_e_REV	Tetradecanoate (n-C14:0) exchange (reversible)	500	0.00764938331881382
+EX_glyclt_e_REV	Glycolate exchange (reversible)	1000	0.015298766637905
+EX_g6p_e_REV	D-Glucose 6-phosphate exchange (reversible)	1000	0.0152987666373843
+EX_2ddglcn_e_REV	2-Dehydro-3-deoxy-D-gluconate exchange (reversible)	500	0.00764938331956877
+EX_galct__D_e_REV	D-Galactarate exchange (reversible)	500	0.00764938331931081
+EX_idon__L_e_REV	L-Idonate exchange (reversible)	500	0.00764938331881382
+EX_galur_e_REV	D-Galacturonate exchange (reversible)	1000	0.305110572694105
+EX_but_e_REV	Butyrate (n-C4:0) exchange (reversible)	1000	0.0221304026412899
+EX_gbbtn_e_REV	Gamma-butyrobetaine exchange (reversible)	1000	0.157167388813758
+EX_h2s_e_REV	Hydrogen sulfide exchange (reversible)	628.190096411094	0.000666326943223022
+EX_gthrd_e_REV	Reduced glutathione exchange (reversible)	1000	0.00369137951635357
+EX_met__D_e_REV	D-Methionine exchange (reversible)	1000	0.00328732131981213
+EX_tartr__L_e_REV	L-tartrate exchange (reversible)	999.875825006448	0.00328738745636437
+EX_taur_e_REV	Taurine exchange (reversible)	499.104518137046	1.45483920823697e-05
+EX_maltpt_e_REV	Maltopentaose exchange (reversible)	499.141167997778	7.25735537752958e-05
+EX_glcur_e_REV	D-Glucuronate exchange (reversible)	499.141167997778	5.80251617030569e-05
+EX_mmet_e_REV	S-Methyl-L-methionine exchange (reversible)	500	0.0076493833196221
+DM_amob_c_REV	Sink needed to allow S-Adenosyl-4-methylthio-2-oxobutanoate to leave system (reversible)	500	0.00764938331958507
+EX_mg2_e_REV	Mg exchange (reversible)	500	0.00764938331872759
+EX_acac_e_REV	Acetoacetate exchange (reversible)	1000	0.0152987666376179
+EX_adn_e_REV	Adenosine exchange (reversible)	1000	0.0152987666376179
+EX_nac_e_REV	Nicotinate exchange (reversible)	998.209036274092	0.00950508072957271
+EX_ocdca_e_REV	Octadecanoate (n-C18:0) exchange (reversible)	1000	0.0152987666382656
+EX_dad_2_e_REV	Deoxyadenosine exchange (reversible)	1000	0.015298766638627
+EX_ser__D_e_REV	D-Serine exchange (reversible)	1000	0.0152634269545339
+EX_galctn__D_e_REV	D-Galactonate exchange (reversible)	998.209036274094	0.00202311373014019
+GLYCtex_REV	Glycerol transport via diffusion (extracellular to periplasm) (reversible)	499.104518137047	0.00110231690560825
+GLYC3Ptex_REV	Glycerol-3-phosphate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0139528608639023
+GUAtex_REV	Guanine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.026014889681646
+Htex_REV	Proton transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0189894796297758
+H2tex_REV	Hydrogen transport via diffusion (extracellular to periplasm) (reversible)	998.209036274092	1.48815733863883e-05
+H2Otex_REV	H2O transport via diffusion (extracellular to periplasm) (reversible)	996.07163007281	0.0845408403353587
+O2tpp_REV	O2 transport via diffusion (periplasm) (reversible)	1000	0.0282304305001517
+12PPDStex_REV	(S)-Propane-1,2-diol transport via diffusion (extracellular to periplasm) (reversible)	998.209036274092	0.00950508072923487
+ACtex_REV	Acetate transport via diffusion (extracellular to periplasm) (reversible)	8.04132894303541e-10	4.02066447176334e-10
+ACALDtex_REV	Acetaldehyde transport via diffusion (extracellular to periplasm) (reversible)	8.0410700320499e-10	4.02066447127206e-10
+ACMANAtex_REV	N-acetyl-D-mannosamine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0181133610872643
+SUCFUMtpp_REV	Succinate:fumarate antiporter (periplasm) (reversible)	3.71049964087433e-08	1.85524946318713e-08
+TARTRt7pp_REV	Tartrate/succinate antiporter (periplasm) (reversible)	1000	0.00508308472213204
+EX_ca2_e_REV	Calcium exchange (reversible)	1000	0.00508308472213204
+EX_so3_e_REV	Sulfite exchange (reversible)	1000	0.0120492370155461
+AKGt2rpp_REV	2-oxoglutarate reversible transport via symport (periplasm) (reversible)	1000	0.028230430504621
+EX_ascb__L_e_REV	L-Ascorbate exchange (reversible)	1000	0.0207600595957018
+EX_ala_B_e_REV	Beta-Alanine exchange (reversible)	1000	0.152555286347571
+EX_agm_e_REV	Agmatine exchange (reversible)	1000	0.101703524235082
+EX_octa_e_REV	Octanoate (n-C8:0) exchange (reversible)	1000	0.152555286346356
+EX_xylu__L_e_REV	L-Xylulose exchange (reversible)	1000	0.0220572910668687
+EX_gtp_e_REV	GTP exchange (reversible)	580.444091552132	0.00019249140004482
+TYRt2rpp_REV	L-tyrosine reversible transport via proton symport (periplasm) (reversible)	1000	0.305110572687548
+URIt2pp_copy2_REV	 (reversible)	1000	0.101703524235082
+EX_fruur_e_REV	D-Fructuronate exchange (reversible)	1000	0.305110572682745
+GALtex_REV	D-galactose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.305110572690472
+GALCTtex_REV	D-galactarte transport via diffusion (extracellular to periplasm) (reversible)	993.79787858647	0.0217647868947513
+ACACt2pp_REV	Acetoacetate transport via proton symport  (periplasm) (reversible)	1000	0.0211530156760489
+EX_ch4_e_REV	EX ch4 LPAREN e RPAREN  (reversible)	1000	0.0230491606058127
+CO2tpp_REV	CO2 transporter via diffusion (periplasm) (reversible)	1000	6.78235841604646e-05
+DHAtpp_REV	Dihydroxyacetone transport via facilitated diffusion (periplasm) (reversible)	1000	0
+ASNt2rpp_REV	L-asparagine reversible transport via proton symport (periplasm) (reversible)	1000	6.74583523167344e-05
+HIStex_REV	L-histidine transport via diffusion (extracellular to periplasm) (reversible)	993.79787858647	0.00223983874047132
+HYXNtex_REV	Hypoxanthine transport via diffusion (extracellular to periplasm) (reversible)	787.16347002031	0.00103354035469183
+IDONtex_REV	L-idonate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.015298766638016
+ILEtex_REV	L-isoleucine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0152987666382525
+ACt2rpp_REV	Acetate reversible transport via proton symport (periplasm) (reversible)	1000	6.78235841679451e-05
+EX_fe3dcit_e_REV	Fe(III)dicitrate exchange (reversible)	1000	6.78235841679451e-05
+EX_fe3hox_e_REV	Fe(III)hydroxamate exchange (reversible)	7.68521294935987e-08	3.7370849890713e-08
+EX_fecrm_e_REV	Ferrichrome exchange (reversible)	1000	6.78235841667577e-05
+EX_feenter_e_REV	Fe-enterobactin exchange (reversible)	983.950580590175	0.00157571990956235
+EX_feoxam_e_REV	Ferroxamine exchange (reversible)	787.16347002031	0.00103354035465906
+EX_cbi_e_REV	Cobinamide exchange (reversible)	499.104518137047	0.00110231690560825
+GLCURtex_REV	D-glucuronat transport via diffusion (extracellular to periplasm) (reversible)	390.749221991682	0.000149889359032679
+OCTAtex_REV	Octanoate transport via diffusion (extracellular to periplasm) (reversible)	137.52724780166	0.000188481629916291
+EX_ni2_e_REV	Ni2+ exchange (reversible)	248.449469646618	0.000149889359034233
+CYTDt2pp_copy2_REV	 (reversible)	485.560647969717	0.00806650470059242
+EX_meoh_e_REV	Methanol exchange (reversible)	236.07042872167	0.000154755864193307
+PNTOtex_REV	Pantothenate transport via diffusion (extracellular to periplasm) (reversible)	223.095711759544	7.22480837966888e-06
+PPPNtex_REV	3-phenylpropionate transport via diffusion (extracellular to periplasm) (reversible)	221.040238695993	7.16020297431008e-06
+PPTtex_REV	Phosphonate transport via diffusion (extracellular to periplasm) (reversible)	564.054290428476	1.45483920849232e-05
+PTRCtex_REV	Putrescine transport via diffusion (extracellular to periplasm) (reversible)	553.731776748689	1.45483920845901e-05
+PYRtex_REV	Pyruvate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0152987666374392
+DSERtex_REV	D-serine transport via diffusion (extracellular to periplasm) (reversible)	999.999592804851	0.0246518821020306
+SERtex_REV	L-serine transport via diffusion (extracellular to periplasm) (reversible)	999.99998564192	0.0246518821020306
+SO4tex_REV	Sulfate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0246518821028623
+SPMDtex_REV	Spermidine transport via diffusion (extracellular to periplasm) (reversible)	1000	6.79923610287401e-05
+TARTRtex_REV	Tartrate transport via diffusion (extracellular to periplasm) (reversible)	2000	0.0115934627058552
+TAURtex_REV	Taurine transport via diffusion (extracellular to periplasm) (reversible)	9.96550511445093e-07	4.84611516591953e-07
+THRtex_REV	L-threonine transport via diffusion (extracellular to periplasm) (reversible)	3.91727326132241e-08	1.14545778757318e-08
+MNLtex_REV	Mannitol transport via diffusion (extracellular to periplasm) (reversible)	1000	0.024275028321199
+NAtex_REV	Sodium transport via diffusion (extracellular to periplasm) (reversible)	1000	0
+NACtex_REV	Nicotinic acid transport via diffusion (extracellular to periplasm) (reversible)	1753.19915408818	0.00329207979539764
+BUTtex_REV	Butyrate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.015052164781417
+CO2tex_REV	CO2 transport via diffusion (extracellular to periplasm) (reversible)	736.433844053318	0.000244987028767185
+CRNtex_REV	L-carnitine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.152555286359901
+DINStex_REV	Deoxyinosine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.152555286359264
+CYStex_REV	L-cysteine transport via diffusion (extracellular to periplasm) (reversible)	1000	45.2109143460745
+CYTDtex_REV	Cytidine transport via diffusion (extracellular to periplasm) (reversible)	1000	45.0452224767203
+DCAtex_REV	Decanoate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0268420563921748
+DCYTtex_REV	Deoxycytidine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0170311727353822
+LYXtex_REV	L-Lyxose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.000395735511389717
+MANtex_REV	D-mannose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.000422660916072023
+DMSOtex_REV	Dimethyl sulfoxide transport via diffusion (extracellular to periplasm) (reversible)	51.0854542658596	2.21320494941836e-05
+FE2tex_REV	Iron (II) transport via diffusion (extracellular to periplasm) (reversible)	1000	0.00766656033861324
+NMNtex_REV	NMN transport via diffusion (extracellular to periplasm) (reversible)	1000	0.00766656033881441
+TREtex_REV	Trehalose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0206906366871473
+TRPtex_REV	L-tryptophan transport via diffusion (extracellular to periplasm) (reversible)	282.027145214239	7.25680551072472e-06
+TYRtex_REV	L-tyrosine transport via diffusion (extracellular to periplasm) (reversible)	1559.8268715186	0.0166172218363294
+URAtex_REV	Uracil transport via diffusion (extracellular to periplasm) (reversible)	2000	7.15641930550354
+URItex_REV	Uridine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.024525764219592
+VALtex_REV	L-valine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0245257642198403
+XYLtex_REV	D-xylose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0211530156745903
+ABUTtex_REV	4-aminobutyrate transport via diffusion (extracellular to periplasm) (reversible)	2.87195689452346e-09	8.27246454507719e-11
+EX_mso3_e_REV	Methanesulfonate exchange (reversible)	1000	0.00231000202443117
+EX_23cump_e_REV	2',3'-Cyclic UMP exchange (reversible)	1000	0.00715910314182263
+23CUMPtex_REV	23cUMP transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0700711037845423
+3AMPtex_REV	3AMP transport via diffusion (extracellular to periplasm) (reversible)	1000	0.18096734728492
+BUTSO3tex_REV	Butanesulfonate transport via diffusion (extracellular to periplasm) (reversible)	1860.74328304404	1005.8853894168
+GALBDtex_REV	Beta D-galactose transport via diffusion (extracellular to periplasm) (reversible)	209.412883219921	0.00026093811960945
+SULFACtex_REV	Sulfoaceate transport via diffusion (extracellular to periplasm) (reversible)	431.060196002387	0.00245944020267408
+EX_butso3_e_REV	Butanesulfonate exchange (reversible)	145.079166738937	0.000185755097694584
+NOtpp_REV	NO transport (diffusion) (reversible)	1000	0.0172950638625906
+N2Otpp_REV	Nitrious oxide transport (diffusion) (reversible)	47.7626022711488	7.52113135521617e-06
+CRNDt2rpp_REV	D-carnitine outward transport (H+ antiport) (reversible)	1000	0.000710064515549114
+CTBTt2rpp_REV	Cronobetaine outward transport (H+ antiport) (reversible)	2.74439069210004e-07	1.34055850825642e-07
+PACALDt2rpp_REV	Phenylacetaldehyde reversible transport via proton symport (periplasm) (reversible)	1994.2207734348	0.0824102277815776
+PEAMNtex_REV	Phenethylamine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0246518821028623
+PACALDtex_REV	Phenethylacetaldehyde transport via diffusion (extracellular to periplasm) (reversible)	1000	0.00109630060457988
+CYANtex_REV	Cyanide transport via diffusion (extracellular to periplasm) (reversible)	431.060196002388	0.00203879079351107
+SO3tex_REV	Sulfite transport via diffusion (extracellular to periplasm) (reversible)	999.976061060347	0.0105217498346933
+TCYNTtex_REV	Thiocyanate transport via diffusion (extracellular to periplasm) (reversible)	390.749221991685	2.53681135703177e-05
+METSOX1tex_REV	L-methionine S-oxide diffusion (extracellular) (reversible)	1000	0.305110572695246
+METSOX2tex_REV	L-methionine R-oxide diffusion (extracellular) (reversible)	273.313653764263	7.25440472848504e-06
+3GMPtex_REV	3GMP transport via diffusion (extracellular to periplasm) (reversible)	1000	0.152555286347911
+FALDtpp_REV	Formaldehyde transport via diffusion (periplasm) (reversible)	1000	6.74583523128627e-05
+EX_imp_e_REV	IMP exchange (reversible)	998.209036274093	0.00534085004577234
+DOPAtex_REV	Dopamine transport via diffusion (extracellular to periplasm) (reversible)	993.14	0.0311087777789103
+4HOXPACDtex_REV	4-hydroxyphenylacetaldehyde transport via diffusion (extracellular to periplasm) (reversible)	999.999743277529	0.0248255255820879
+G3PStex_REV	Glycerophosphserine transport via diffusion (extracellular to periplasm) (reversible)	999.100605847405	0.00118737381573344
+GLCUR1Ptex_REV	D-glucuronate 1-phosphate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0412568488555259
+UDPGLCURtex_REV	UDP-D-glucuronate transport via diffusion (extracellular to periplasm) (reversible)	1000	1.93079505787731
+UDPGtex_REV	UDPglucose transport via diffusion (extracellular to periplasm) (reversible)	274.444222219413	0.000233761795015219
+UDPGALtex_REV	UDPgalactose transport via diffusion (extracellular to periplasm) (reversible)	998.209036274093	0.000589531801654997
+ACGAM1Ptex_REV	N-acetyl-D-glucosamine 1-phosphate transport via diffusion (extracellular to periplasm) (reversible)	999.875825006448	0.00367693462746445
+MSO3tex_REV	Methanesulfonate transport via diffusion (extracellular to periplasm) (reversible)	332.736345424698	0.000203634721870627
+R5Ptex_REV	Ribose 5-phosphate transport via diffusion (extracellular to periplasm) (reversible)	367.870966786058	8.02567823614819e-05
+CITtex_REV	Citrate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0152987666382525
+EX_cd2_e_REV	Cadmium exchange (reversible)	1000	0.0884362845447413
+G6Ptex_REV	Glucose 6-phosphate transport via diffusion (extracellular to periplasm) (reversible)	628.048092128097	0.000262334883671111
+NI2tex_REV	Nickel transport via diffusion (extracellular to periplasm) (reversible)	524.240852375935	0.00281518649087076
+L_LACt2rpp_REV	L-lactate reversible transport via proton symport (periplasm) (reversible)	700.560381936749	0.000196399046403756
+EX_fe3hox_un_e_REV	Fe(III)hydoxamate, unloaded exchange (reversible)	0.000384299073402872	0.000384236613106563
+EX_23dappa_e_REV	2,3-diaminopropionate exchange (reversible)	209.412883219921	0.00026093811960945
+NH4tpp_REV	Ammonia reversible transport (periplasm) (reversible)	993.797878586462	1987.59632529345
+NO2t2rpp_REV	Nitrite transport in via proton symport, reversible (periplasm) (reversible)	1998.20903627409	0.0146444503885235
+PROt2rpp_REV	L-proline reversible transport via proton symport (periplasm) (reversible)	998.209036274093	0.0124072344214027
+EX_fecrm_un_e_REV	Ferrichrome minus Fe(III) exchange (reversible)	1000	0.0125639728898774
+EX_cgly_e_REV	Cys-Gly exchange (reversible)	1000	0.305110572707628
+EX_h2o2_e_REV	Hydrogen peroxide exchange (reversible)	139.252438135034	4.85083906076176e-05
+EX_ump_e_REV	UMP exchange (reversible)	7.74269414138828e-08	0.000205665267827473
+EX_pydam_e_REV	Pyridoxamine exchange (reversible)	869.799538609312	0.00123359439194007
+ADEtex_REV	Adenine transport via diffusion (extracellular to periplasm) (reversible)	101.876305498212	9.30375950638461e-05
+ADNtex_REV	Adenosine transport via diffusion (extracellular to periplasm) (reversible)	332.736345424699	0.000205627729736424
+AMPtex_REV	AMP transport via diffusion (extracellular to periplasm) (reversible)	1000	0.000256148147523023
+ARBtex_REV	L-arabinose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.305110572691494
+ASCBtex_REV	L-ascorbate transport via diffusion (extracellular to periplasm) (reversible)	274.444222219411	0.000235979300229549
+MMETtex_REV	S-methyl-L-methionine transport via diffusion (extracellular to periplasm) (reversible)	267.370374525604	0.000630671482689877
+MG2tex_REV	Magnesium (Mg+2) transport via diffusion (extracellular to periplasm) (reversible)	191.610054624315	0.00058633953903877
+Zn2tex_REV	Zinc (Zn+2) transport via diffusion (extracellular to periplasm) (reversible)	250.825067665804	0.00494717541295789
+CD2tex_REV	Cadmium (Cd+2) transport via diffusion (extracellular to periplasm) (reversible)	250.825067665805	0.00497510713854696
+GLYALDtpp_REV	Glyceraldehyde facilitated diffusion (periplasm) (reversible)	8.0410700320499e-10	1999.99999195988
+EX_etha_e_REV	Ethanolamine exchange (reversible)	628.048092128094	1999.71102250454
+ASO3tex_REV	Arsenite transport via diffusion (extracellular to periplasm) (reversible)	503.147740735586	0.000159309471668617
+MANGLYCtex_REV	2-O-alpha-mannosyl-D-glycerate transport via diffusion (extracellular to periplasm) (reversible)	999.100605847403	0.00126471774510006
+EX_frulys_e_REV	Fructoselysine exchange (reversible)	998.209036274093	0.0035993666991665
+GLYCAtex_REV	D-glycerate transport via diffusion (extracellular to periplasm) (reversible)	1000	1.34055850825642e-07
+EX_hacolipa_e_REV	Hepta-acylated core oligosaccharide lipid A (E. coli) exchange (reversible)	628.048092128097	0.000262334883678661
+HISt2rpp_REV	L-histidine reversible transport via proton symport (periplasm) (reversible)	998.209036274091	2.82962406772391e-05
+DIMPtex_REV	DIMP transport via diffusion (extracellular to periplasm) (reversible)	999.860308516534	0.00289372187311176
+GLCRt2rpp_REV	D-glucarate transport via proton symport, reversible (periplasm) (reversible)	1000	0.00778947078445874
+EX_h2o_e_REV	H2O exchange (reversible)	999.860308516534	0.00289372187318944
+EX_ala__D_e_REV	D-Alanine exchange (reversible)	1.14887620838999e-06	1.1486810138184e-06
+UREAtpp_REV	Urea transport via facilitate diffusion (periplasm) (reversible)	2.24230160483785e-05	1999.77579226296
+PTRCORNt7pp_REV	Putrescine/ornithine antiporter (periplasm) (reversible)	1000	0.152555286354513
+EX_no2_e_REV	Nitrite exchange (reversible)	736.433844053318	0.000244987028767185
+ACACtex_REV	Acetoacetate transport via diffusion (extracellular to periplasm) (reversible)	998.209036274093	0.000432590749188777
+ACNAMtex_REV	N-acetylneuraminate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.000578444978980241
+H2Stex_REV	H2s transport via diffusion (extracellular to periplasm) (reversible)	1000.00000008145	1999.99959284557
+EX_ddca_e_REV	Dodecanoate (n-C12:0) exchange (reversible)	1000	0.0152987666378888
+EX_r5p_e_REV	Alpha-D-Ribose 5-phosphate exchange (reversible)	999.984040706898	0.0101292460122412
+EX_glyc2p_e_REV	Glycerol 2-phosphate exchange (reversible)	5.97930238654953e-07	2.90766642668631e-07
+4PEPTtex_REV	LalaDgluMdapDala (pentapeptide) transport via diffusion (extracellular to periplasm) (reversible)	817.139216340641	0.000888179018386559
+EX_gam_e_REV	D-Glucosamine exchange (reversible)	1000	0.0246518821028277
+EX_mobd_e_REV	Molybdate exchange (reversible)	1000	0.152555286339426
+EX_so4_e_REV	Sulfate exchange (reversible)	251.573870367795	0.000187020443887162
+EX_phe__L_e_REV	L-Phenylalanine exchange (reversible)	2000	0.295227677053565
+EX_thr__L_e_REV	L-Threonine exchange (reversible)	1000	0.0388730262074957
+EX_halipa_e_REV	Hepta-acylated KDO(2)-lipid (A) exchange (reversible)	7.74269414138828e-08	3.76553893621789e-08
+EX_malthx_e_REV	Maltohexaose exchange (reversible)	250.825067665805	0.00497510713915922
+EX_csn_e_REV	Cytosine exchange (reversible)	1000	0.00766656033850843
+EX_na1_e_REV	Sodium exchange (reversible)	998.318486769426	0.00157571990965477
+ARGORNt7pp_REV	Arginine/ornithine antiporter (periplasm) (reversible)	1000	0.000628756515468065
+EX_dmso_e_REV	Dimethyl sulfoxide exchange (reversible)	263.062006000225	0.000260938119626075
+EX_acgam1p_e_REV	N-Acetyl-D-glucosamine 1-phosphate exchange (reversible)	516.39702400338	0.000743039189114053
+CU2tex_REV	Copper (Cu+2) transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0116227385505852
+CLtex_REV	Chloride (Cl-1) transport via diffusion (extracellular to periplasm) (reversible)	2000	0.498265323701945
+EX_glcur1p_e_REV	D-Glucuronate 1-phosphate exchange (reversible)	2000	0.0722644027919302
+EX_thrp_e_REV	L-Threonine O-3-phosphate exchange (reversible)	1018.23663593277	0.00792790885302141
+EX_pydxn_e_REV	Pyridoxine exchange (reversible)	0.000384299073402872	0.000384236498272167
+EX_cys__L_e_REV	L-Cysteine exchange (reversible)	1000	0.000710064515549114
+EX_gsn_e_REV	Guanosine exchange (reversible)	705.370997088498	0.000811359504660381
+EX_orot_e_REV	Orotate exchange (reversible)	178.86282119833	0.00018706275072819
+PROtex_REV	L-proline transport via diffusion (extracellular to periplasm) (reversible)	482.214512691538	0.00203927762516534
+SBTtex_REV	D-sorbitol transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0152987666374392
+AKGtex_REV	Alpha-ketoglutarate transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0181711331540739
+ALLTNtex_REV	Allantoin transport via diffusion (extracellular to periplasm) (reversible)	1000	252.409181090357
+EX_gal_bD_e_REV	Beta D-Galactose exchange (reversible)	274.444222219413	0.000233807291047994
+EX_dump_e_REV	DUMP exchange (reversible)	274.444222219413	0.000233807291020204
+EX_ag_e_REV	Silver exchange (reversible)	1000	0.0884362845480169
+EX_cys__D_e_REV	D-Cysteine exchange (reversible)	1000	0.00062875651537031
+EX_acser_e_REV	O-Acetyl-L-serine exchange (reversible)	1000	0.000628756515415441
+TYMtex_REV	Tyramine transport via diffusion (extracellular to periplasm) (reversible)	858.81780950499	0.000431817613755991
+EX_g3pe_e_REV	Sn-Glycero-3-phosphoethanolamine exchange (reversible)	1000	0.15255528635285
+3PEPTtex_REV	LalaDgluMdap (tripeptide) transport via diffusion (extracellular to periplasm) (reversible)	1000	0.00309267338217303
+ANHGMtex_REV	GlcNAc-anhMurNAc transport via diffusion (extracellular to periplasm) (reversible)	1000	0.000578444979015769
+FALDtex_REV	Formaldehyde transport via diffusion (extracellular to periplasm) (reversible)	999.100605847406	0.00246006858154824
+EX_acgal_e_REV	N-Acetyl-D-galactosamine exchange (reversible)	753.199154088174	0.000302727535615332
+G3PCtex_REV	Glycero-3-phosphocholine transport via diffusion (extracellular to periplasm) (reversible)	115.764063533211	9.42392401246384e-05
+EX_acgal1p_e_REV	N-Acetyl-D-galactosamine 1-phosphate exchange (reversible)	143.288072524764	0.000152324168921837
+EX_udpgal_e_REV	UDPgalactose exchange (reversible)	12.7713635664649	5.53291873667261e-06
+EX_14glucan_e_REV	1,4-alpha-D-glucan exchange (reversible)	1000	0.00236945016143163
+EX_aso3_e_REV	Arsenite exchange (reversible)	1000	0.00194698064432181
+EX_tcynt_e_REV	Thiocyanate exchange (reversible)	12.7713635664649	5.53291873667261e-06
+EX_g3pc_e_REV	Sn-Glycero-3-phosphocholine exchange (reversible)	553.471540054427	0.000194184852349455
+EX_34dhpac_e_REV	3,4-Dihydroxyphenylacetaldehyde exchange (reversible)	217.990346204729	7.2402731728416e-06
+DAMPtex_REV	DAMP transport via diffusion (extracellular to periplasm) (reversible)	212.990885197769	7.17689498675027e-06
+DGMPtex_REV	DGMP transport via diffusion (extracellular to periplasm) (reversible)	12.7713635664649	5.53291873667261e-06
+DTMPtex_REV	DTMP transport via diffusion (extracellular to periplasm) (reversible)	12.7713635664649	5.53291873667261e-06
+GMPtex_REV	GMP transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0233329648320889
+IMPtex_REV	IMP transport via diffusion (extracellular to periplasm) (reversible)	12.7713635664649	5.53291873667261e-06
+UMPtex_REV	UMP transport via diffusion (extracellular to periplasm) (reversible)	12.7713635664649	5.53291873667261e-06
+EX_cl_e_REV	Chloride exchange (reversible)	1000	0.0288833631893557
+23DAPPAtex_REV	2,3-diaminopropionate transport via diffusion (reversible)	1000	0.305110572726619
+EX_man6p_e_REV	D-Mannose 6-phosphate exchange (reversible)	1000	0.305110572671538
+EX_maltttr_e_REV	Maltotetraose exchange (reversible)	12.7713635664649	5.53291873667261e-06
+EX_lipoate_e_REV	Lipoate exchange (reversible)	12.7713635664649	5.53291873667261e-06
+EX_pydx_e_REV	Pyridoxal exchange (reversible)	12.7713635664649	5.53291873667261e-06
+GLCtex_copy2_REV	 (reversible)	1000	0.0187511425206645
+12PPDRtpp_REV	(R)-Propane-1,2-diol facilitated transport (periplasm) (reversible)	43.9265408208886	2.40382963944748e-05
+CA2tex_REV	Calcium (Ca+2) transport via diffusion (extracellular to periplasm) (reversible)	274.444222219413	0.000235979300237332
+CUtex_REV	Copper (Cu+1) transport via diffusion (extracellular to periplasm) (reversible)	800.391708235826	0.00426832540796385
+12PPDRtex_REV	(R)-Propane-1,2-diol transport via diffusion (extracellular to periplasm) (reversible)	800.391708235826	0.00426832540776023
+ACONIs_REV	Aconitate isomerase (spontaneous) (reversible)	1000	0.126387061379717
+PPALtpp_REV	Propanal transport via channel (periplasm) (reversible)	2.56173764899515e-08	1.28086882454637e-08
+EX_12ppd__R_e_REV	(R)-Propane-1,2-diol exchange (reversible)	1000	0.0243443077791537
+CGLYtex_REV	L-Cysteinylglycine transport via diffusion (extracellular to periplasm) (reversible)	715.035117076081	0.000746023209658137
+EX_urate_e_REV	Urate exchange (reversible)	715.035117076081	0.000746023209654612
+GTHOXtex_REV	Glutathione (ox) transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0219835989697827
+EX_cpgn_un_e_REV	Coprogen unloaded (no Fe(III)) exchange (reversible)	1000	0.0291929498550587
+GTHRDtex_REV	Glutathione transport via diffusion (extracellular to periplasm) (reversible)	252.774039869477	0.000209200271990007
+EX_crn__D_e_REV	D-carnitine exchange (reversible)	269.543335798984	1.3809178347521e-05
+EX_psclys_e_REV	Psicoselysine exchange (reversible)	264.791074459982	1.38091783495011e-05
+TUNGStex_REV	Tungstate transport via diffusion (extracellular to periplasm) (reversible)	268.458069296252	1.40520631353516e-05
+DM_aacald_c_REV	Sink needed to allow aminoacetaldehyde to leave system (reversible)	266.204895988914	1.40520631350209e-05
+CAt6pp_REV	Calcium / sodium antiporter (1:1) (reversible)	499.104518137047	1.45483920803713e-05
+5DGLCNt2rpp_REV	5-Dehydro-D-gluconate transport via proton symport, reversible (periplasm) (reversible)	998.209036274092	2.82962406776832e-05
+GALCTNLtex_REV	L-galactonate transport via diffusion (extracellular to periplasm) (reversible)	998.209036274094	0.000255883199713376
+EX_galctn__L_e_REV	L-Galactonate exchange (reversible)	216.03234908313	7.22889486071132e-06
+5DGLCNtex_REV	5-Dehydro-D-gluconate transport via diffusion (extracellular to periplasm) (reversible)	1000	45.0452224766022
+EX_5dglcn_e_REV	5-Dehydro-D-gluconate exchange (reversible)	1000	45.0452224765459
+PPAtex_REV	Propionate transport via diffusion (reversible)	269.651912502922	1.38091783481453e-05
+PSCLYStex_REV	Psicoselysine transporter via diffusion (extracellular) (reversible)	266.96663557794	1.3809178348527e-05
+THYMtex_REV	Thymine transport via diffusion (extracellular to periplasm) (reversible)	264.917885400362	1.3809178347495e-05
+MG2t3_2pp_REV	Magnesium (Mg+2) transport in/out via proton antiport (periplasm) (reversible)	265.864389231596	1.40520631339847e-05
+EX_ppal_e_REV	Propanal exchange (reversible)	271.391602261005	1.40520631338366e-05
+EX_slnt_e_REV	Selenite exchange (reversible)	373.510224879444	1.41481203392857e-05
+RFAMPtex_REV	Rifampin transport via diffusion (extracellular to periplasm) (reversible)	499.104518137046	1.45483920817591e-05
+MINCYCtex_REV	Minocycline transport via diffusion (extracellular to periplasm) (reversible)	0.00137233256555191	0.0013721868173745
+DOXRBCNtex_REV	Doxorubicin transport via diffusion (extracellular to periplasm) (reversible)	499.104518137047	1.45483920874767e-05
+ETOHtrpp_REV	Ethanol reversible transport via diffusion (periplasm) (reversible)	499.104518137047	1.45483920840905e-05
+LALALGLUtex_REV	L-alanyl-L-glutamate transport via diffusion (extracellular to periplasm) (reversible)	499.104518137045	1.45483920832579e-05
+5MTRtex_REV	5-Methylthio-D-ribose transport via proton diffusion (extracellular to periplasm) (reversible)	499.104518137047	1.45483920809264e-05
+LALADGLUtex_REV	L-alanyl-D-glutamate transport via diffusion (extracellular to periplasm) (reversible)	499.104518137046	1.45483920808154e-05
+3HPPtex_REV	3-hydroxypropionate transport via diffusion (extracellular to periplasm) (reversible)	998.209036274092	0.0001978580380535
+EX_LalaDglu_e_REV	L-alanine-D-glutamate exchange (reversible)	998.209036274096	0.000197858038014975
+EX_LalaLglu_e_REV	L-alanine-L-glutamate exchange (reversible)	1000	0.0197048721915973
+EX_ttrcyc_e_REV	Tetracycline exchange (reversible)	499.104518137047	1.45483920829942e-05
+DM_4crsol_c_REV	Sink needed to allow p-Cresol to leave system (reversible)	514.296353744402	0.000132019271795944
+EX_cm_e_REV	Chloramphenicol exchange (reversible)	0.000384299073413918	0.000384257517565621
+EX_novbcn_e_REV	Novobiocin exchange (reversible)	209.412883219921	0.00026093811960945
+FUSAtex_REV	Fusidic acid transport via diffusion (extracellular to periplasm) (reversible)	2000	2.33805712428019
+EX_rfamp_e_REV	Rifampin exchange (reversible)	1000	0.00369761729381091
+QUIN2tex_REV	Quinate transport via diffusion (extracellular to periplasm) (reversible)	736.433844053323	0.000207987212372474
+EX_quin_e_REV	Quinate exchange (reversible)	2.56173764899515e-08	1.28086882454637e-08
+EX_3hpp_e_REV	3-Hydroxypropanoate exchange (reversible)	199.939625307306	1.44701096913558e-05
+DM_mththf_c_REV	Sink needed to allow (2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran to leave system (reversible)	221.888077479553	0.000221566552235503
+MEOHtrpp_REV	Methanol reversible transport via diffusion (periplasm) (reversible)	543.550582252488	1.45483920827398e-05
+SELtex_REV	Selenate transport via diffusion (extracellular to periplasm) (reversible)	333.23270884551	1.45114403723815e-05
+MEOHtex_REV	Methanol transport via diffusion (extracellular to periplasm) (reversible)	514.229102751654	5.80251617025435e-05
+EX_5mtr_e_REV	5-Methylthio-D-ribose exchange (reversible)	333.23270884551	1.45112162815616e-05
+TTRCYCtex_REV	Tetracycline transport via diffusion (extracellular to periplasm) (reversible)	514.229102751651	5.80251617066097e-05
+SLNTtex_REV	Selenite transport via diffusion (extracellular to periplasm) (reversible)	998.209036274097	0.00545824807807076
+CH4tex_REV	Methane Transport(extracellular via diffusion) (reversible)	998.209036274095	0.00545824807760079
+TARTRDtex_REV	D-tartrate transport via diffusion (extracellular to periplasm) (reversible)	998.209036274094	0.00545824807786155
+BTNtex_REV	Biotin transport via diffusion (extracellular to periplasm) (reversible)	998.209036274093	0.00545824807781679
+EX_arbt_e_REV	Arbutin exchange (reversible)	611.974312696638	0.00069542319867355
+DMSOtpp_REV	Dimethyl sulfoxide transport via diffusion (periplasm) (reversible)	269.543335798983	1.380917834698e-05
+PYDXtex_REV	Pyridoxal transport via diffusion (extracellular) (reversible)	499.104518137046	1.45483920819256e-05
+SUCASPtpp_REV	Succinate:aspartate antiporter (periplasm) (reversible)	499.104518137046	1.45483920803713e-05
+SUCMALtpp_REV	Succinate:malate antiporter (periplasm) (reversible)	503.415907516348	5.80251616873317e-05
+PYDXNtex_REV	Pyridoxine transport via diffusion (extracellular) (reversible)	410.010980348312	2.90125808396942e-05
+PYDAMtex_REV	Pyridoxamine transport via diffusion (extracellular) (reversible)	1000	0.0197048721913029
+SUCTARTtpp_REV	Succinate:D-tartrate antiporter (periplasm) (reversible)	499.104518137047	1.45483920803713e-05
+CHTBStex_REV	Chitobiose transport via diffusion (extracellular to periplasm) (reversible)	1000	0.0227873174842315
+CRNDtex_REV	D-carnitine transport via diffusion (extracellular to periplasm) (reversible)	333.232708845509	1.45114403722613e-05
+DXYLONtpp_REV	D-xylonate reversible tranposrt (periplasm) (reversible)	333.23270884551	1.45114403651003e-05
+PSURItex_REV	Pseudouridine transport via diffusion (extracellular to periplasm) (reversible)	1000	0.30511057270454
+DHPStex_REV	2,3-dihydroxypropane 1-sulfonate transport via diffusion (reversible)	499.147715282266	5.80251617350314e-05
+FMNtex_REV	FMN transport, outer membrane (reversible)	499.147715282266	7.25735537708272e-05
+EX_mththf_e_REV	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran exchange (reversible)	999.984040706898	0.0101292460124234
+4ABZGLUtr_REV	P-aminobenzoyl glutamate:H+ symporter (reversible)	499.104518137048	1.45483920808154e-05
+GLYtpp_REV	Glycine transport via facillitated diffusion (reversible)	499.104518137048	1.45483920819256e-05
+FADtex_REV	FAD transport, outer membrane (reversible)	499.104518137047	1.45483920832579e-05
+2DGLCtex_REV	2-Deoxy-D-glucose transport via diffusion (extracellular) (reversible)	499.104518137048	1.45483920843681e-05
+SQtex_REV	Sulphoquinovose transport via diffusion (reversible)	499.104518137046	1.45483920817591e-05
+EX_dhps_e_REV	2,3-Dihydroxypropane-1-sulfonate exchange (reversible)	499.104518137046	1.45483920830358e-05
+URATEtex_REV	Uric acid transport (reversible)	274.444222219414	0.00023589887486635
+EX_cs1_e_REV	Cesium ion exchange (reversible)	1000	0.000859238887499114
+EX_mepn_e_REV	Methylphosphonic acid exchange (reversible)	214.746442243351	7.1640714985402e-06
+Ftex_REV	Fluoride transport via diffusion (reversible)	499.104518137046	1.45483920848677e-05
+CS1tex_REV	Cesium transport via diffusion (reversible)	1000	0.0117060388851655
+MEPNtex_REV	Methylphosphonic acid transport via diffusion (extracellular to periplasm) (reversible)	499.104518137046	1.4548392081537e-05
+EX_4abzglu_e_REV	4-aminobenzoyl-glutamate exchange (reversible)	499.104518137045	1.45483920820366e-05
+4ABZGLUtex_REV	P-aminobenzoyl glutamate transport via diffusion (extracellular to periplasm) (reversible)	499.104518137047	1.45483920807599e-05
+EX_metglcur_e_REV	1-O-methyl-Beta-D-glucuronate exchange (reversible)	499.104518137047	1.45483920803713e-05
+METGLCURtex_REV	1-O-methyl-Beta-D-glucuronate via diffusion (extracellular) (reversible)	499.104518137046	1.45483920830358e-05
+AI2tex_REV	Ai2 transport, outer membrane (reversible)	499.104518137047	1.45483920829803e-05
+EX_2dglc_e_REV	2-Deoxy-D-glucose exchange (reversible)	499.104518137046	1.45483920827028e-05
+ASPtpp_REV	L-aspartate uptake via facillitated diffusion (reversible)	499.104518137047	1.45483920832509e-05
+FUMt1pp_REV	Fumarate transport via diffusion in (periplasm) (reversible)	499.104518137046	1.45483920842016e-05
+SUCCt1pp_REV	Succinate transport via diffusion in (periplasm) (reversible)	499.104518137045	1.45483920817591e-05
+DHORD5No1	Dihydroorotic acid (menaquinone-8) (No1)	611.974312696645	0.000695423198662209
+GLYCTO2No1	Glycolate oxidase (No1)	611.974312696638	0.000695423198644897
+GLYCTO3No1	Glycolate oxidase (No1)	611.974312696649	0.00069542319873106
+GLYCTO4No1	Glycolate oxidase (No1)	512.738897716392	0.000693841760028624
+PFK_3No1	Phosphofructokinase (s7p) (No1)	512.738897716395	0.000693841760099484
+TRPS2No1	Tryptophan synthase (indole) (No1)	512.738897716395	0.000693841760053271
+arm_G3PD5	Glycerol-3-phosphate dehydrogenase (ubiquinone-8) (arm)	1000	0.0104450759661689
+G3PD5No1	Glycerol-3-phosphate dehydrogenase (ubiquinone-8) (No1)	499.104518137047	1.45483920803713e-05
+G3PD5No2	Glycerol-3-phosphate dehydrogenase (ubiquinone-8) (No2)	611.974312696664	0.000695423198715295
+LEUTAiNo2	Leucine transaminase (irreversible) (No2)	499.104518137047	1.45483920830358e-05
+DB4PSNo1	3,4-Dihydroxy-2-butanone-4-phosphate synthase (No1)	558.380588620185	1.45483920821476e-05
+RBFKNo1	Riboflavin kinase (No1)	549.90117183603	1.45483920819256e-05
+arm_ACP1_FMN	Acid phosphatase (FMN) (arm)	1000	0.0104450759653762
+ACP1_FMNNo1	Acid phosphatase (FMN) (No1)	1000	0.0104450759659774
+ACP1_FMNNo2	Acid phosphatase (FMN) (No2)	1000	0.0104450759654885
+ACP1_FMNNo3	Acid phosphatase (FMN) (No3)	512.738897716393	0.000693841760092018
+RBFSbNo1	Riboflavin synthase (No1)	512.738897716394	0.000693841760006642
+DMATTNo1	Dimethylallyltranstransferase (No1)	512.738897716396	0.000693841760119551
+GRTTNo1	Geranyltranstransferase (No1)	512.738897716394	0.000693841760054381
+UPP3SNo1	Uroporphyrinogen-III synthase (No1)	611.974312696637	0.000695423198700751
+UPPDC1No1	Uroporphyrinogen decarboxylase (uroporphyrinogen III) (No1)	611.974312696637	0.000695423198751433
+TMDPPNo1	Thymidine phosphorylase (No1)	611.974312696643	0.000695423198691463
+arm_HCO3E	HCO3 equilibration reaction (arm)	611.974312696638	0.000695423198670123
+HCO3ENo1	HCO3 equilibration reaction (No1)	499.104518137047	1.45483920835909e-05
+HCO3ENo2	HCO3 equilibration reaction (No2)	499.104518137046	1.4548392081537e-05
+IMPCNo1	IMP cyclohydrolase (No1)	499.104518137047	1.45483920803713e-05
+IMPDNo1	IMP dehydrogenase (No1)	611.974312696637	0.000695423198680656
+arm_ECOAH4	3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA) (arm)	611.974312696643	0.000695423198671774
+ECOAH4No1	3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA) (No1)	611.974312696645	0.000695423198684228
+ECOAH4No2	3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA) (No2)	512.738897716393	0.000693841760092018
+GLUTRSNo1	Glutamyl-tRNA synthetase (No1)	1000	0.0104450759655048
+TMPPPNo1	Thiamine-phosphate diphosphorylase (No1)	1000	0.0104450759662448
+URIK1No1	Uridine kinase  ATPUridine  (No1)	1000	0.0104450759654885
+URIK2No1	Uridine kinase (GTP:Uridine) (No1)	1000	0.0104450759663087
+CYTDK1No1	ATP:cytidine 5'-phosphotransferase (No1)	1000	0.0104450759662953
+CYTDK2No1	Cytidine kinase (GTP) (No1)	1000	0.0104450759659543
+XPPTNo1	Xanthine phosphoribosyltransferase (No1)	2000	0.258588279973431
+arm_HXPRT	Hypoxanthine phosphoribosyltransferase (Hypoxanthine) (arm)	1000	0.0152987666376987
+CSNo1	Citrate synthase (No1)	1000	0.00429365454754216
+ICDHyrNo1	Isocitrate dehydrogenase (NADP) (No1)	1000	2.33805712469813
+ACALDNo1	Acetaldehyde dehydrogenase (acetylating) (No1)	510.140166816795	0.000200152515931052
+ACALDNo2	Acetaldehyde dehydrogenase (acetylating) (No2)	0.000128099691096395	4.17509811113728e-06
+PPANo2	Inorganic diphosphatase (No2)	580.444091552132	0.00019249140004482
+arm_ALAR	Alanine racemase (arm)	1000	0.0219835989701891
+ALARNo2	Alanine racemase (No2)	5.97930238654953e-07	2.90749939319858e-07
+ALATA_LNo1	L-alanine transaminase (No1)	1000	0.00145006103399448
+XYLKNo1	Xylulokinase (No1)	12.7713635664649	5.53291873618575e-06
+XYLKNo2	Xylulokinase (No2)	1000	0.0152987666385418
+RBKNo1	Ribokinase (No1)	510.140166816794	0.0147816881224381
+ASPTANo1	Aspartate transaminase (No1)	1236.21100308123	0.310085679836503
+FBPNo1	Fructose-bisphosphatase (No1)	137.222111109706	8.93733895401816e-05
+arm_PYK	Pyruvate kinase (arm)	1000	9.26662242994414e-06
+arm_A5PISO	Arabinose-5-phosphate isomerase (arm)	248.761753522344	0.000184789622746602
+A5PISONo1	Arabinose-5-phosphate isomerase (No1)	51.0854542658596	2.21320494952215e-05
+IPPMIbNo1	2-isopropylmalate hydratase (No1)	137.222111109706	0.000117989650110357
+arm_ACHBS	2-aceto-2-hydroxybutanoate synthase (arm)	91.4814074064711	6.45365656580428e-05
+ACHBSNo1	2-aceto-2-hydroxybutanoate synthase (No1)	137.222111109705	8.9955529102969e-05
+ACHBSNo2	2-aceto-2-hydroxybutanoate synthase (No2)	91.4814074064711	6.45365656522651e-05
+arm_ACLS	Acetolactate synthase (arm)	137.222111109706	0.000117949437429488
+ACLSNo1	Acetolactate synthase (No1)	1000	0.152555286345756
+CHORMNo2	Chorismate mutase (No2)	578.774182470174	0.113972955938635
+CHORSNo1	Chorismate synthase (No1)	2.23502994165306e-06	1.09176275523565e-06
+ECOAH6No2	3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA) (No2)	0.000128099691138004	2.08114471139664e-06
+arm_FBA	Fructose-bisphosphate aldolase (arm)	1000	0.000445879712679318
+FBANo1	Fructose-bisphosphate aldolase (No1)	47.7627303452228	0.000135531022293698
+FBANo2	Fructose-bisphosphate aldolase (No2)	0.000128099691138004	0.000128084810571292
+MGSANo1	Methylglyoxal synthase (No1)	0.000128099691138004	0.000128086492047452
+PPSNo1	Phosphoenolpyruvate synthase (No1)	359.314464553577	1.41481203385455e-05
+PGINo1	Glucose-6-phosphate isomerase (No1)	368.051713585122	1.41481203392857e-05
+EDANo1	2-dehydro-3-deoxy-phosphogluconate aldolase (No1)	1000	2.20387969432769
+PGLNo1	6-phosphogluconolactonase (No1)	333.232708845509	1.45114403727624e-05
+RPENo1	Ribulose 5-phosphate 3-epimerase (No1)	511.997517749264	1.00762352228667e-05
+arm_TALA	Transaldolase (arm)	510.505200392946	1.00761271765042e-05
+arm_TKT1	Transketolase (arm)	998.20903627409	0.00545824807850236
+TKT1No1	Transketolase (No1)	998.209036274095	0.00545824807736006
+TKT1No2	Transketolase (No2)	998.209036274095	0.00545824807758488
+G6PDANo1	Glucosamine-6-phosphate deaminase (No1)	998.20903627409	0.00545824807748986
+arm_ALCD2x	Alcohol dehydrogenase (ethanol) (arm)	998.209036274094	0.00545824807781381
+ALCD2xNo1	Alcohol dehydrogenase (ethanol) (No1)	611.974312696646	0.000695423198739969
+ALDD2yNo1	Aldehyde dehydrogenase (acetaldehyde, NADP) (No1)	234.84832477205	0.000719597928895145
+ALDD2yNo4	Aldehyde dehydrogenase (acetaldehyde, NADP) (No4)	1000	0.00243556589239802
+ALDD2yNo5	Aldehyde dehydrogenase (acetaldehyde, NADP) (No5)	507.154909069264	0.00010274957202458
+RMINo1	L-rhamnose isomerase (No1)	518.40404386941	5.80251616395522e-05
+FMNATNo1	FMN adenylyltransferase (No1)	199.939625307305	1.44701096868038e-05
+arm_NADDP	NAD diphosphatase (arm)	518.40404386941	5.80251617043823e-05
+NADDPNo1	NAD diphosphatase (No1)	510.826243620537	1.14479392129274e-05
+NADDPNo2	NAD diphosphatase (No2)	628.192587825127	0.0259802814551663
+arm_NMNAT	Nicotinamide-nucleotide adenylyltransferase (arm)	509.708173764609	1.14477997505691e-05
+NMNATNo1	Nicotinamide-nucleotide adenylyltransferase (No1)	373.510224879444	1.41481203384738e-05
+NMNATNo2	Nicotinamide-nucleotide adenylyltransferase (No2)	611.974312696645	0.00138926495875849
+arm_HMPK1	Hydroxymethylpyrimidine kinase (ATP) (arm)	1000	0.0187783011454543
+HMPK1No1	Hydroxymethylpyrimidine kinase (ATP) (No1)	264.791074459982	1.38091783486644e-05
+HMPK1No2	Hydroxymethylpyrimidine kinase (ATP) (No2)	266.96663557794	1.38091783468478e-05
+arm_NDPK6	Nucleoside-diphosphate kinase (ATP:dUDP) (arm)	269.651912502922	1.38091783488115e-05
+NDPK6No1	Nucleoside-diphosphate kinase (ATP:dUDP) (No1)	266.844558624695	1.38091783481661e-05
+NDPK6No2	Nucleoside-diphosphate kinase (ATP:dUDP) (No2)	266.96663557794	1.38091783468478e-05
+arm_NDPK8	Nucleoside-diphosphate kinase (ATP:dADP) (arm)	264.791074459982	1.38091783486644e-05
+NDPK8No1	Nucleoside-diphosphate kinase (ATP:dADP) (No1)	12.7713635664649	5.53291873667261e-06
+NDPK8No2	Nucleoside-diphosphate kinase (ATP:dADP) (No2)	276.865888374345	7.25680551183494e-06
+PYNP2rNo1	Pyrimidine-nucleoside phosphorylase (uracil) (No1)	279.190294310093	7.25680551172392e-06
+arm_DURIPP	Deoxyuridine phosphorylase (arm)	270.223096172668	7.25680551239005e-06
+PTRCTANo1	Putrescine Transaminase (No1)	5.97930238654953e-07	2.90775127985247e-07
+arm_CYSDS	Cysteine Desulfhydrase (arm)	1000	2000
+CYSDSNo1	Cysteine Desulfhydrase (No1)	250	250
+CYSDSNo2	Cysteine Desulfhydrase (No2)	1000	0.113916672277956
+TRPAS2No1	Tryptophanase (L-tryptophan) (No1)	218.890213381595	7.17689498639547e-06
+arm_NDP3	Nucleoside diphosphatase  GDP  (arm)	1000	0.00231000202443117
+NDP3No1	Nucleoside diphosphatase  GDP  (No1)	1000	0.00243556589215421
+NDP3No2	Nucleoside diphosphatase  GDP  (No2)	215.461265103093	7.17689498747065e-06
+arm_PMDPHT	Pyrimidine phosphatase (arm)	213.590487441623	7.1768949870974e-06
+PMDPHTNo1	Pyrimidine phosphatase (No1)	214.165855762799	7.17689498704506e-06
+PMDPHTNo2	Pyrimidine phosphatase (No2)	216.66108044752	7.24027317157427e-06
+ILETANo1	Isoleucine transaminase (No1)	217.099934823825	7.24027317214326e-06
+VALTANo1	Valine transaminase (No1)	223.095711759543	7.24027317258735e-06
+ORPTNo1	Orotate phosphoribosyltransferase (No1)	217.915148644359	7.17689498625557e-06
+RBFSaNo1	Riboflavin synthase (No1)	215.461265103093	7.17689498747065e-06
+DHAD2No1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate) (No1)	274.950585918014	7.25680551139085e-06
+arm_G1PP	Glucose-1-phosphatase (arm)	271.775291126244	7.25680551172392e-06
+G1PPNo3	Glucose-1-phosphatase (No3)	1000	0.00243556589218402
+arm_PFL	Pyruvate formate lyase (arm)	219.959657906132	7.24027317344778e-06
+PFLNo1	Pyruvate formate lyase (No1)	214.610400891809	7.24027317122733e-06
+PFLNo2	Pyruvate formate lyase (No2)	214.948528315021	7.24027317266086e-06
+PFLNo4	Pyruvate formate lyase (No4)	999.382492289167	0.000869466668755314
+FRD2No1	Fumarate reductase (No1)	998.209036274093	0.0100935468985881
+arm_PTAr	Phosphotransacetylase (arm)	218.890213381595	7.17689498639547e-06
+PTArNo1	Phosphotransacetylase (No1)	214.165855762799	7.17689498704506e-06
+PTArNo2	Phosphotransacetylase (No2)	219.367405593742	7.24027317256271e-06
+arm_ACKr	Acetate kinase (arm)	514.229102751654	5.80251617025435e-05
+ACKrNo1	Acetate kinase (No1)	216.66108044752	7.24027317157427e-06
+ACKrNo2	Acetate kinase (No2)	214.948528315021	7.24027317266086e-06
+ACKrNo3	Acetate kinase (No3)	998.347479753243	0.00195025863099529
+MOATNo1	3-deoxy-D-manno-octulosonic acid transferase (No1)	199.939625307306	1.44698868757565e-05
+UDCPDPSNo1	Undecaprenyl diphosphate synthase (No1)	516.670337620171	5.80215789454594e-05
+USHDNo1	UDP-sugar hydrolase (No1)	511.99751774926	1.00762352224226e-05
+LPADSSNo1	Lipid A disaccaride synthase (No1)	333.23270884551	1.45114403651003e-05
+TDSKNo1	Tetraacyldisaccharide 4'kinase (No1)	333.232708845509	1.4511216283486e-05
+arm_NTPP1	Nucleoside triphosphate pyrophosphorylase (dgtp) (arm)	753.199154088181	0.000302727535590034
+arm_NTPP2	Nucleoside triphosphate pyrophosphorylase (gtp) (arm)	91.4814074064711	6.45365656522651e-05
+NTPP2No1	Nucleoside triphosphate pyrophosphorylase (gtp) (No1)	137.222111109706	0.000116990146829643
+NTPP2No2	Nucleoside triphosphate pyrophosphorylase (gtp) (No2)	515.002649370783	2.90125808248831e-05
+NTPTP1No1	Nucleoside triphosphate tripolyhydrolase (No1)	199.939625307306	1.44698868746462e-05
+NTPTP2No1	Nucleoside triphosphate tripolyhydrolase (No1)	511.99751774926	1.00762352224226e-05
+arm_IPMD	3-isopropylmalate dehydrogenase (arm)	512.457120602692	5.80215789448431e-05
+ADSL2rNo1	Adenylosuccinate lyase (No1)	362.288848304258	1.41481203392857e-05
+arm_PUNP5	Purine-nucleoside phosphorylase (Inosine) (arm)	998.209036274091	0.00545824807779008
+PUNP5No1	Purine-nucleoside phosphorylase (Inosine) (No1)	137.222111109707	8.99555290909786e-05
+PUNP5No2	Purine-nucleoside phosphorylase (Inosine) (No2)	511.375474934531	5.80215789414051e-05
+arm_PUNP6	Purine-nucleoside phosphorylase (Deoxyinosine) (arm)	405.186503372346	2.90116851285951e-05
+PUNP6No1	Purine-nucleoside phosphorylase (Deoxyinosine) (No1)	333.232708845509	1.45114403722613e-05
+PUNP6No2	Purine-nucleoside phosphorylase (Deoxyinosine) (No2)	514.229102751654	5.80251617025435e-05
+PUNP7No1	Purine-nucleoside phosphorylase (Xanthosine) (No1)	333.232708845509	1.45114403722613e-05
+arm_RNDR1	Ribonucleoside-diphosphate reductase (ADP) (arm)	333.23270884551	1.45114403733437e-05
+RNDR1No1	Ribonucleoside-diphosphate reductase (ADP) (No1)	269.543335798983	1.380917834698e-05
+RNDR1No2	Ribonucleoside-diphosphate reductase (ADP) (No2)	1000	0.000578444978995473
+arm_RNDR3	Ribonucleoside-diphosphate reductase (CDP) (arm)	998.209036274093	0.00545824807754558
+RNDR3No1	Ribonucleoside-diphosphate reductase (CDP) (No1)	611.974312696646	0.000695423198742467
+RNDR3No2	Ribonucleoside-diphosphate reductase (CDP) (No2)	279.190294310093	7.25680551172392e-06
+arm_RNDR4	Ribonucleoside-diphosphate reductase (UDP) (arm)	270.223096172668	7.25680551239005e-06
+RNDR4No1	Ribonucleoside-diphosphate reductase (UDP) (No1)	217.915148644359	7.17689498625557e-06
+RNDR4No2	Ribonucleoside-diphosphate reductase (UDP) (No2)	216.204158361757	7.17689498631185e-06
+TMDSNo1	Thymidylate synthase (No1)	219.367405593742	7.24027317256271e-06
+TMDK1No1	Thymidine kinase (ATP:thymidine) (No1)	999.382492289167	0.000869466668789842
+PPCDCNo1	Phosphopantothenoylcysteine decarboxylase (No1)	137.222111109707	0.00011798965010934
+FTHFDNo1	Formyltetrahydrofolate deformylase (No1)	1000	0.0104450759662448
+EDDNo1	6-phosphogluconate dehydratase (No1)	1000	0.0104450759663087
+DHQTiNo1	3-dehydroquinate dehydratase, irreversible (No1)	1000	0.0104450759659543
+PUNP1No1	Purine-nucleoside phosphorylase (Adenosine) (No1)	512.738897716392	0.000693841760028624
+PUNP2No1	Purine-nucleoside phosphorylase (Deoxyadenosine) (No1)	512.738897716395	0.000693841760053271
+arm_PUNP3	Purine-nucleoside phosphorylase (Guanosine) (arm)	611.974312696664	0.00069542319865884
+PUNP3No1	Purine-nucleoside phosphorylase (Guanosine) (No1)	611.974312696643	0.000695423198735196
+LYSAMNo1	Lysine 2,3-aminomutase (No1)	611.974312696651	0.000695423198670247
+DHAD1No1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate) (No1)	611.974312696644	0.00138926495878239
+IPPMIaNo1	3-isopropylmalate dehydratase (No1)	611.974312696649	0.00138926495886438
+G3PD7No1	Glycerol-3-phosphate dehydrogenase (demethylmenaquinone-8) (No1)	137.222111109706	0.000117989650114669
+arm_NADH9	NADH dehydrogenase (demethylmenaquinone-8 & 0 protons) (arm)	137.222111109706	0.000117989650124883
+NADH9No2	NADH dehydrogenase (demethylmenaquinone-8 & 0 protons) (No2)	367.005146528661	1.41481203381015e-05
+NADH9No3	NADH dehydrogenase (demethylmenaquinone-8 & 0 protons) (No3)	611.974312696647	0.000695423198690592
+NADH9No4	NADH dehydrogenase (demethylmenaquinone-8 & 0 protons) (No4)	137.222111109706	0.000117989650120574
+arm_NADH10	NADH dehydrogenase (menaquinone-8 & 0 protons) (arm)	515.002649370781	3.72703419471848e-05
+NADH10No1	NADH dehydrogenase (menaquinone-8 & 0 protons) (No1)	515.00264937078	3.72703419480661e-05
+NADH10No2	NADH dehydrogenase (menaquinone-8 & 0 protons) (No2)	512.643888354128	5.80251616688629e-05
+NADH10No3	NADH dehydrogenase (menaquinone-8 & 0 protons) (No3)	611.974312696644	0.000695423198688871
+NADH10No4	NADH dehydrogenase (menaquinone-8 & 0 protons) (No4)	511.99751774926	1.00762352224226e-05
+MDHNo1	Malate dehydrogenase (No1)	611.974312696643	0.00138926495866117
+arm_FUM	Fumarase (arm)	611.974312696651	0.00138926495877567
+FUMNo1	Fumarase (No1)	611.974312696647	0.00138926495876061
+FUMNo2	Fumarase (No2)	611.97431269665	0.00138926495880224
+FUMNo3	Fumarase (No3)	998.209036274093	0.00545824807807209
+PYAM5PONo1	Pyridoxamine 5'-phosphate oxidase (No1)	499.104518137047	1.45483920822587e-05
+OHPBATNo1	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase (No1)	499.104518137047	1.45483920851106e-05
+GLUTRRNo1	Glutamyl-tRNA reductase (No1)	499.104518137047	1.45483920820366e-05
+GLCS1No1	Glycogen synthase (ADPGlc) (No1)	269.651912502922	1.38091783488115e-05
+arm_GLCP	Glycogen phosphorylase (arm)	611.974312696647	0.000695423198711488
+GLCPNo1	Glycogen phosphorylase (No1)	611.974312696649	0.000695423198726841
+GLCPNo2	Glycogen phosphorylase (No2)	611.974312696646	0.000695423198678059
+HEMEOSNo1	Heme O synthase (No1)	611.974312696645	0.000695423198766351
+ADMDCNo1	Adenosylmethionine decarboxylase (No1)	512.738897716394	0.000693841760006642
+AGMTNo1	Agmatinase (No1)	512.738897716396	0.000693841760119551
+ARGDCNo1	Arginine decarboxylase (No1)	512.738897716394	0.000693841760054381
+ARGSSNo1	Argininosuccinate synthase (No1)	1000	0.0104450759650945
+AGPRNo1	N-acetyl-g-glutamyl-phosphate reductase (No1)	1000	0.0104450759664904
+SPMSNo1	Spermidine synthase (No1)	1000	0.0104450759655048
+G1SATNo1	Glutamate-1-semialdehyde aminotransferase (No1)	137.222111109706	0.000116990146832719
+KDOCT2No1	3-deoxy-manno-octulosonate cytidylyltransferase (No1)	611.974312696643	0.000695423198718681
+OAADCNo1	Oxaloacetate decarboxylase (No1)	611.974312696637	0.000695423198676631
+MNNHNo1	D-mannonate hydrolyase (No1)	611.974312696646	0.000695423198687428
+ALTRHNo1	Altronate hydrolase (No1)	499.104518137046	1.45483920823142e-05
+MACPDNo1	Malonyl-ACP decarboxylase (No1)	27.9885569131251	8.55263700094699e-06
+DMQMTNo1	3-Dimethylubiquinonol 3-methyltransferase (No1)	266.844558624695	1.38091783481661e-05
+ICHORS_copy1No1	 (No1)	264.917885400361	1.38091783485894e-05
+arm_HACD5	3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA) (arm)	1000	0.018778301145403
+HACD5No1	3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA) (No1)	1000	0.0187783011471281
+HACD5No2	3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA) (No2)	1000	0.0187783011464519
+HPPK2No1	6-hydroxymethyl-dihydropterin pyrophosphokinase (No1)	1000	0.0187783011472717
+PTPATiNo1	Pantetheine-phosphate adenylyltransferase (No1)	359.31446455358	1.41481203387676e-05
+HEX7No1	Hexokinase (D-fructose:ATP) (No1)	137.222111109706	8.93733895309477e-05
+DXPRIiNo1	1-deoxy-D-xylulose reductoisomerase (No1)	91.4814074064711	6.45365656583829e-05
+OPHBDCNo1	Octaprenyl-hydroxybenzoate decarboxylase (No1)	137.222111109707	0.000116903645527184
+OHPHMNo1	2-octaprenyl-6-hydroxyphenol methylase (No1)	208.753934278604	0.000109371587306728
+GHMT2rNo1	Glycine hydroxymethyltransferase, reversible (No1)	199.939625307306	1.44701096896349e-05
+DHORD2No1	Dihydoorotic acid dehydrogenase (quinone8) (No1)	499.104518137046	1.45483920821476e-05
+ADK4No1	Adentylate kinase (ITP) (No1)	199.939625307306	1.44701096902455e-05
+INSKNo1	Insosine kinase (No1)	512.643888354128	5.80251616819e-05
+arm_ABTA	4-aminobutyrate transaminase (arm)	199.939625307306	1.44701096869079e-05
+ABTANo1	4-aminobutyrate transaminase (No1)	199.939625307306	1.44701096897459e-05
+ABTANo2	4-aminobutyrate transaminase (No2)	137.222111109705	0.000117949437425935
+SSALxNo1	Succinate-semialdehyde dehydrogenase (NAD) (No1)	137.222111109706	0.000116990146838868
+ASPTNo1	L-aspartase (No1)	499.104518137048	1.45483920843681e-05
+arm_SERD_L	L-serine deaminase (arm)	367.005146528662	1.41481203375093e-05
+SERD_LNo1	L-serine deaminase (No1)	362.288848304257	1.41481203384322e-05
+SERD_LNo2	L-serine deaminase (No2)	358.718062570825	1.41481203389156e-05
+SERD_LNo3	L-serine deaminase (No3)	368.051713585122	1.41481203392857e-05
+SERD_LNo5	L-serine deaminase (No5)	499.104518137045	1.45483920820366e-05
+arm_THRD	L-threonine dehydrogenase (arm)	499.104518137047	1.45483920807599e-05
+THRDNo1	L-threonine dehydrogenase (No1)	266.844558624696	1.38091783482772e-05
+THRDNo2	L-threonine dehydrogenase (No2)	270.987553571304	1.40520631353169e-05
+KARA1No1	Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate) (No1)	268.076203490996	1.40520631362398e-05
+KARA2No1	Ketol-acid reductoisomerase (2-Acetolactate) (No1)	499.104518137045	1.45483920832579e-05
+ACCOACNo1	Acetyl-CoA carboxylase (No1)	499.104518137047	1.45483920809264e-05
+NADKNo1	NAD kinase (No1)	499.104518137047	1.45483920835909e-05
+ICHORS_copy2No1	 (No1)	499.104518137046	1.45483920821476e-05
+SUCBZSNo1	O-succinylbenzoate-CoA synthase (No1)	499.104518137046	1.45483920808154e-05
+DHBDNo1	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (No1)	363.06352963984	1.41481203391747e-05
+ICHORTNo1	Isochorismatase (No1)	359.314464553577	1.41481203385455e-05
+RBK_L1No1	L-ribulokinase (L-ribulose) (No1)	499.104518137047	1.45483920803713e-05
+arm_RBP4E	L-ribulose-phosphate 4-epimerase (arm)	274.982942967722	1.4052063134283e-05
+RBP4ENo1	L-ribulose-phosphate 4-epimerase (No1)	1000	0.0104450759656066
+RBP4ENo2	L-ribulose-phosphate 4-epimerase (No2)	1000	0.0104450759666114
+RBP4ENo3	L-ribulose-phosphate 4-epimerase (No3)	1000	0.0104450759649141
+arm_NTD2	5'-nucleotidase (UMP) (arm)	512.738897716395	0.000693841760099484
+NTD2No1	5'-nucleotidase (UMP) (No1)	499.104518137047	1.45483920820366e-05
+NTD2No2	5'-nucleotidase (UMP) (No2)	499.104518137046	1.45483920874767e-05
+NTD5No4	5'-nucleotidase (dTMP) (No4)	753.199154088176	0.000302727535586455
+arm_NTD6	5'-nucleotidase (dAMP) (arm)	282.027145214238	7.25680551217148e-06
+NTD6No1	5'-nucleotidase (dAMP) (No1)	273.0832119984	7.25680551177943e-06
+NTD6No2	5'-nucleotidase (dAMP) (No2)	611.974312696644	0.000695423198661472
+NTD6No3	5'-nucleotidase (dAMP) (No3)	273.238440623328	1.38091783483882e-05
+LGTHLNo1	Lactoylglutathione lyase (No1)	410.006731448781	2.90125808412668e-05
+arm_PYDXPP	Pyridoxal 5-phosphate phosphatase (arm)	518.40404386941	5.80251617208205e-05
+PYDXPPNo1	Pyridoxal 5-phosphate phosphatase (No1)	512.643888354127	5.80251617021688e-05
+PYDXPPNo2	Pyridoxal 5-phosphate phosphatase (No2)	513.537168864727	2.90116851285352e-05
+PYDXPPNo3	Pyridoxal 5-phosphate phosphatase (No3)	333.23270884551	1.45114403651003e-05
+PYDXPPNo4	Pyridoxal 5-phosphate phosphatase (No4)	199.939625307305	1.4470109692688e-05
+PDXPPNo1	Pyridoxine 5-phosphate phosphatase (No1)	410.010980348308	2.90125808460884e-05
+arm_HACD6	3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA) (arm)	518.40404386941	5.80251616923988e-05
+HACD6No1	3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA) (No1)	199.939625307306	1.4470109690301e-05
+HACD6No2	3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA) (No2)	410.010980348308	2.90125808970511e-05
+arm_ECOAH1	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA) (arm)	199.939625307306	1.44701096907451e-05
+ECOAH1No1	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA) (No1)	410.010980348308	2.90125808441638e-05
+ECOAH1No2	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA) (No2)	515.002649370783	2.90125808721786e-05
+arm_ECOAH2	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA) (arm)	512.643888354128	5.80251617145894e-05
+ECOAH2No1	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA) (No1)	358.718062570825	1.41481203388416e-05
+ECOAH2No2	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA) (No2)	368.05171358512	1.41481203389156e-05
+arm_ECOAH3	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA) (arm)	363.063529639842	1.41481203379881e-05
+ECOAH3No1	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA) (No1)	998.209036274092	0.00545824807780959
+ECOAH3No2	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA) (No2)	199.939625307305	1.44701096904871e-05
+UGLTNo1	UDPglucose--hexose-1-phosphate uridylyltransferase (No1)	199.939625307306	1.44698868744728e-05
+DXPSNo1	1-deoxy-D-xylulose 5-phosphate synthase (No1)	137.222111109705	0.000117949437431435
+CDPMEKNo1	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (No1)	137.222111109706	0.000116950612443212
+MECDPSNo1	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (No1)	137.222111109706	0.000117945641152792
+DDGLKNo1	2-dehydro-3-deoxygluconokinase (No1)	91.4814074064711	6.45365656595183e-05
+XYLI2No1	Xylose isomerase (No1)	199.939625307306	1.4470109689857e-05
+PMANMNo1	Phosphomannomutase (No1)	199.939625307306	1.44701096901623e-05
+ICLNo1	Isocitrate lyase (No1)	499.104518137047	1.45483920830358e-05
+GLYCLNo1	Glycine Cleavage System (No1)	1000	0.0104450759663166
+HCYSMTNo1	Homocysteine S-methyltransferase (No1)	1000	0.0104450759667016
+LACZNo1	B-galactosidase (No1)	510.826243620534	1.14479392132288e-05
+TRE6PHNo1	Trehalose-6-phosphate hydrolase (No1)	510.826243620534	1.14479392143707e-05
+XYLI1No1	Xylose isomerase (No1)	998.209036274096	0.00545824807778059
+PPCNo1	Phosphoenolpyruvate carboxylase (No1)	273.238440623326	1.38091783483049e-05
+arm_G3PT	Glycerol-3-phosphatase (arm)	273.238440623326	1.38091783483049e-05
+CINNDONo1	Cinnamate dioxygenase (No1)	137.222111109706	8.93733895366289e-05
+DHPPDNo1	2,3-dihydroxyphenylpropionate dehydrogenase (No1)	137.222111109707	8.99555290909786e-05
+DHCINDNo1	2,3-dihydroxycinnamate dehydrogenase (No1)	264.917885400361	1.38091783485894e-05
+CITLNo1	Citrate lyase (No1)	1000	0.0187783011471936
+GOFUCRNo1	GDP-4-oxo-L-fucose reductase (No1)	1000	0.0187783011458283
+arm_PYDXK	Pyridoxal kinase (arm)	221.270168762829	7.17689498678947e-06
+PYDXKNo1	Pyridoxal kinase (No1)	219.959657906132	7.24027317344778e-06
+PYDXKNo2	Pyridoxal kinase (No2)	217.099934823825	7.24027317214326e-06
+GTPCII2No1	GTP cyclohydrolase II (25drapp) (No1)	282.027145214238	7.25680551217148e-06
+SADT2No1	Sulfate adenyltransferase (No1)	276.865888374345	7.25680551183494e-06
+LCARSNo1	Lacaldehyde reductase (S-propane-1,2-diol forming) (No1)	271.775291126244	7.25680551172392e-06
+arm_ALCD19	Alcohol dehydrogenase (glycerol) (arm)	221.270168762829	7.17689498678947e-06
+ALCD19No1	Alcohol dehydrogenase (glycerol) (No1)	510.826243620534	1.14479392124833e-05
+RMPANo1	Rhamnulose-1-phosphate aldolase (No1)	611.974312696643	0.000695423198751516
+PFK_2No1	Phosphofructokinase (No1)	151.932301173612	0.000137656177079087
+GLTPDNo1	Galactitol-1-phosphate dehydrogenase (No1)	1000	0.0117060388856416
+TGBPANo1	Tagatose-bisphosphate aldolase (No1)	1000	0.0223005441974635
+TGBPANo2	Tagatose-bisphosphate aldolase (No2)	512.643903015538	0.000122860055900453
+MANAONo1	Mannonate oxidoreductase (No1)	510.826243620536	1.14479392131495e-05
+TAGURrNo1	Tagaturonate reductase (No1)	686.400762566019	0.000166846165258472
+PGLYCPNo1	Phosphoglycolate phosphatase (No1)	367.870966786058	8.02242992627156e-05
+GLXCLNo1	Glyoxalate carboligase (No1)	817.139216340641	0.000888146496380388
+TARTDNo1	L(+)-tartrate dehydratase (No1)	577.942321827063	0.000109211052948865
+GLCRALNo1	5-dehydro-4-deoxyglucarate aldolase (No1)	543.070058215655	0.000131500473076696
+arm_KAS14	Beta-ketoacyl-ACP synthase (arm)	1000	2.82146738421702
+KAS14No1	Beta-ketoacyl-ACP synthase (No1)	1000	0.0265892244736534
+EDTXS1No1	Endotoxin Synthesis (lauroyl transferase) (No1)	1000	0.152555286345754
+EDTXS3No1	Endotoxin Synthesis (palmitoleoyl ACP) (No1)	1000	0.305110572687434
+EDTXS4No1	Endotoxin Synthesis (myristoyl transferase) (No1)	1000	0.15255528633412
+arm_HACD7	3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA) (arm)	999.860308516534	0.020309442161984
+HACD7No1	3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA) (No1)	0.000128099691096395	0.000128081484027864
+AACPS1No1	Acyl-[acyl-carrier-protein] synthetase (n-C14:0) (No1)	998.209036274095	0.000197858038028971
+SDPDSNo1	Succinyl-diaminopimelate desuccinylase (No1)	998.209036274093	0.000197858038016974
+arm_DMSOR1	Dimethyl sulfoxide reductase (Menaquinol 8) (arm)	998.209036274092	0.000197858038029741
+DMSOR1No1	Dimethyl sulfoxide reductase (Menaquinol 8) (No1)	998.209036274094	0.000197858038026966
+2DGULRyNo1	2-dehydro-L-gulonate reductase (NADPH) (No1)	1000	0.152555286345754
+RZ5PPNo1	Alpha-ribazole 5-phosphate phosphatase (No1)	1000	0.305110572695336
+NTD9No4	5'-nucleotidase (GMP) (No4)	999.99998564192	0.305110572705274
+ADPTNo1	Adenine phosphoribosyltransferase (No1)	367.005146528662	1.41481203375093e-05
+ADK1No1	Adenylate kinase (No1)	362.288848304257	1.41481203384322e-05
+OCTDPSNo1	Octaprenyl pyrophosphate synthase (No1)	363.06352963984	1.41481203391747e-05
+AACPS2No1	Acyl-[acyl-carrier-protein] synthetase  (n-C14:1) (No1)	358.718062570825	1.41481203389156e-05
+AACPS3No1	Acyl-[acyl-carrier-protein] synthetase  (n-C16:0) (No1)	359.314464553577	1.41481203385455e-05
+AMANKNo1	N-acetyl-D-mannosamine kinase (No1)	274.444222219411	0.00023597930024357
+ACNMLNo1	N-Acetylneuraminate lyase (No1)	274.444222219413	0.000233807291036583
+arm_CAT	Catalase (arm)	1000	0.000473489027974949
+CATNo1	Catalase (No1)	1000	0.305306416927934
+CATNo2	Catalase (No2)	1000	0.30529607907198
+SERASrNo1	(L-seryl)adenylate synthase (No1)	999.99998564192	0.305110572732346
+ACMAMUTNo1	UDP-N-acetyl-D-mannosaminuronic acid transferase (No1)	373.510224879444	1.41481203392857e-05
+DDGALKNo1	2-dehydro-3-deoxygalactonokinase (No1)	367.005146528662	1.41481203375093e-05
+arm_AB6PGH	Arbutin 6-phosphate glucohydrolase (arm)	368.051713585122	1.41481203392857e-05
+AB6PGHNo1	Arbutin 6-phosphate glucohydrolase (No1)	362.288848304257	1.41481203384322e-05
+AB6PGHNo2	Arbutin 6-phosphate glucohydrolase (No2)	363.06352963984	1.41481203391747e-05
+AB6PGHNo3	Arbutin 6-phosphate glucohydrolase (No3)	358.718062570825	1.41481203389156e-05
+AMALT1No1	Amylomaltase (maltotriose) (No1)	373.510224879444	1.41481203392857e-05
+MLTP2No1	Maltodextrin phosphorylase (maltohexaose) (No1)	999.99701064774	0
+PACCOALNo1	Phenylacetate-CoA ligase (No1)	985.197055328998	0.257344097468035
+arm_UDCPDP	Undecaprenyl-diphosphatase (arm)	1000	2.82146738437078
+UDCPDPNo1	Undecaprenyl-diphosphatase (No1)	998.209036274095	0.00019785803801857
+UDCPDPNo2	Undecaprenyl-diphosphatase (No2)	998.209036274095	0.000197858038022747
+UDCPDPNo3	Undecaprenyl-diphosphatase (No3)	1000	0.152555286350208
+TREHNo1	Alpha,alpha-trehalase (No1)	998.209036274092	0.000197858037999238
+HACD1No2	3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA) (No2)	985.197055329007	0.25734409744684
+HACD2No2	3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA) (No2)	216.204158361757	7.17689498631185e-06
+arm_ACACCT	Acetyl-CoA:acetoacetyl-CoA transferase (arm)	213.590487441623	7.1768949870974e-06
+ACACCTNo1	Acetyl-CoA:acetoacetyl-CoA transferase (No1)	223.095711759543	7.24027317258735e-06
+ACACCTNo2	Acetyl-CoA:acetoacetyl-CoA transferase (No2)	214.610400891809	7.24027317122733e-06
+BUTCTNo1	Acetyl-CoA:butyrate-CoA transferase (No1)	274.950585918014	7.25680551139085e-06
+2DGULRxNo1	2-dehydro-L-gulonate reductase (NADH) (No1)	273.0832119984	7.25680551177943e-06
+G1PTTNo2	Glucose-1-phosphate thymidylyltransferase (No2)	1000	0.305110572722516
+TDPGDHNo2	DTDPglucose 4,6-dehydratase (No2)	548.896424085371	0.00844760713817099
+UDPGALMNo1	UDPgalactopyranose mutase (No1)	1000	0.31433477761504
+TDPDRRNo1	DTDP-4-dehydrorhamnose reductase (No1)	1000	0.152555286359306
+G3PD6No1	Glycerol-3-phosphate dehydrogenase (menaquinone-8) (No1)	1000	0.30511057267401
+NDPK7No1	Nucleoside-diphosphate kinase (ATP:dCDP) (No1)	267.370374525606	0.000630671482753725
+GLYATNo1	Glycine C-acetyltransferase (No1)	267.370374525606	0.000630671482723087
+ADNUCNo1	Adenosine hydrolase (No1)	999.999592804851	0.0246518821019104
+GMHEPPANo1	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase (No1)	1000	0.305110572680093
+S7PINo1	Sedoheptulose 7-phosphate isomerase (No1)	1000	0.305110572732346
+TRPS3No1	Tryptophan synthase (indoleglycerol phosphate) (No1)	1000.00498325032	0.157538024755882
+CRNBTCTNo1	Gamma-butyrobetainyl-CoA: carnitine CoA transferase (No1)	1000	0.305110572720054
+CRNCBCTNo1	Crotonobetainyl-CoA: carnitine CoA transferase (No1)	221.040238695992	7.15988993393809e-06
+CRNCDHNo1	Carnityl-CoA dehydratse (No1)	1000	0.00482363012454679
+FADRxNo1	FAD reductase (No1)	998.318486769424	0.094623095799525
+arm_NDPK2	Nucleoside-diphosphate kinase (ATP:UDP) (arm)	1000	0.0170311727370624
+NDPK2No1	Nucleoside-diphosphate kinase (ATP:UDP) (No1)	0.00149497509500743	0.00149482561244617
+arm_NDPK3	Nucleoside-diphosphate kinase (ATP:CDP) (arm)	1999.99862794187	0.0825449429716933
+NDPK3No1	Nucleoside-diphosphate kinase (ATP:CDP) (No1)	511.997517749261	1.14479392152589e-05
+NDPK3No2	Nucleoside-diphosphate kinase (ATP:CDP) (No2)	511.997517749262	1.00762352227557e-05
+arm_NDPK4	Nucleoside-diphosphate kinase (ATP:dTDP) (arm)	832.380424127773	6.63130588027523e-05
+NDPK4No1	Nucleoside-diphosphate kinase (ATP:dTDP) (No1)	671.77471565666	0.000434171371183046
+FCLTNo2	Ferrochelatase (No2)	1.14887615370407e-06	1.14867760368787e-06
+FCLTNo3	Ferrochelatase (No3)	1.14887615370407e-06	1.14867760368787e-06
+HBZOPTNo1	Hydroxybenzoate octaprenyltransferase (No1)	1.14887615370407e-06	1.14867760368787e-06
+PNTKNo1	Pantothenate kinase (No1)	1.14887615370407e-06	1.14867760368787e-06
+HETZKNo1	Hydroxyethylthiazole kinase (No1)	499.104518137047	0.00186293079304672
+KDOPSNo1	3-deoxy -D-manno-octulosonic -acid 8-phosphate synthase (No1)	499.104518137047	0.00186293079304672
+KDOPPNo1	3-deoxy-manno-octulosonate-8-phosphatase (No1)	499.104518137047	0.00186293079303673
+CYNTAHNo1	Cyanate aminohydrolase (No1)	1000	0.305110572732346
+GSPMDANo1	Glutathionylspermidine amidase (No1)	1000	0.305110572732346
+GSPMDSNo1	Glutathionylspermidine synthetase (No1)	1000	0.305110572706127
+GUADNo1	Guanine deaminase (No1)	1000	0.305110572675304
+arm_TMAOR1	Trimethylamine N-oxide reductase (menaquinol 8) (arm)	1000	0.305110572732346
+TMAOR1No1	Trimethylamine N-oxide reductase (menaquinol 8) (No1)	1000	0.305110572732346
+TMAOR1No2	Trimethylamine N-oxide reductase (menaquinol 8) (No2)	1000	0.305110572732346
+TMAOR2No1	Trimethylamine N-oxide reductase (demethylmenaquinol 8) (No1)	1000	1.93079505787625
+DTMPKNo1	DTMP kinase (No1)	998.209036274093	1.41481203392857e-05
+arm_NDPK1	Nucleoside-diphosphate kinase (ATP:GDP) (arm)	998.252233419312	0.004134184490315
+NDPK1No1	Nucleoside-diphosphate kinase (ATP:GDP) (No1)	998.209036274092	1.41481203392857e-05
+NDPK1No2	Nucleoside-diphosphate kinase (ATP:GDP) (No2)	362.325498164989	0.00413418448999969
+arm_TRDR	Thioredoxin reductase (NADPH) (arm)	363.10672678506	0.00413418449031533
+TRDRNo1	Thioredoxin reductase (NADPH) (No1)	358.718062570825	1.41481203387676e-05
+TRDRNo2	Thioredoxin reductase (NADPH) (No2)	0.000756534947214134	1.31980483313534e-05
+arm_PGMT	Phosphoglucomutase (arm)	0.00014935389998153	3.29945624996886e-06
+PGMTNo1	Phosphoglucomutase (No1)	1.6084266151857e-05	7.74799808501923e-06
+KG6PDCNo2	3-keto-L-gulonate 6-phosphate decarboxylase (No2)	1000	0.305110572732346
+arm_X5PL3E	L-xylulose 5-phosphate 3-epimerase (arm)	1000	0.305110572707221
+BETALDHxNo1	Betaine-aldehyde dehydrogenase (No1)	1.6084266151857e-05	6.59891250049427e-06
+BETALDHyNo1	Betaine-aldehyde dehydrogenase (No1)	0.00014935389998153	3.29945624996886e-06
+MLTG3No1	Maltodextrin glucosidase (maltopentaose) (No1)	0.00014935389998153	3.29945624996886e-06
+arm_DKGLCNR1	2,5-diketo-D-gluconate reductase (arm)	0.00014935389998153	3.30818890512946e-06
+DKGLCNR1No1	2,5-diketo-D-gluconate reductase (No1)	0.00014935389998153	3.30818890512946e-06
+DKGLCNR1No2	2,5-diketo-D-gluconate reductase (No2)	1.14887615370407e-06	1.14867760368787e-06
+NADTRHDNo1	NAD transhydrogenase (No1)	139.252438135034	4.85083906092976e-05
+FMNRx2No2	FMN reductase (No2)	578.584199226988	0.000816032528459167
+FMNRx2No3	FMN reductase (No3)	578.584199226988	0.000816032528486527
+GMPS2No1	GMP synthase (No1)	578.584199226988	0.000816032528459167
+AMPNNo1	AMP nucleosidase (No1)	578.584199226988	0.000816032528459167
+ADCSNo1	4-amino-4-deoxychorismate synthase (No1)	998.209036274094	1.41481203375093e-05
+UMPKNo1	UMP kinase (No1)	578.584199226988	0.000816032528459167
+UMPKNo2	UMP kinase (No2)	578.584199226988	0.000816032528459167
+DDPGALANo1	2-dehydro-3-deoxy-6-phosphogalactonate aldolase (No1)	998.245686134824	0.00413418448999917
+DURIK1No1	Deoxyuridine kinase (ATP:Deoxyuridine) (No1)	998.209036274091	1.41481203392857e-05
+UPPRTNo1	Uracil phosphoribosyltransferase (No1)	998.209036274095	4.8189777977367e-09
+CTPS2No1	CTP synthase (glutamine) (No1)	998.209036274094	4.81897779777467e-09
+arm_NTD1	5'-nucleotidase (dUMP) (arm)	998.209036274093	4.81897779757516e-09
+NTD1No1	5'-nucleotidase (dUMP) (No1)	998.209036274092	4.81889624430275e-09
+NTD1No2	5'-nucleotidase (dUMP) (No2)	1000	0.0614470084332915
+NTD7No1	5'-nucleotidase (AMP) (No1)	500	0.00244680781088217
+UAGPT3No1	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (No1)	1.14887615370407e-06	1.14866094754613e-06
+arm_F6PA	Fructose 6-phosphate aldolase (arm)	234.848115402731	0.000686563598828246
+F6PANo1	Fructose 6-phosphate aldolase (No1)	0.000128099691138004	2.08114471139664e-06
+F6PANo2	Fructose 6-phosphate aldolase (No2)	373.510224879444	1.41481203395841e-05
+AGMHENo1	ADP-D-glycero-D-manno-heptose epimerase (No1)	998.209036274096	4.8189777982544e-09
+IDONDNo1	L-idonate 5-dehydrogenase (No1)	1000	0.305110572701224
+IDOND2No1	L-indonate 5-dehydrogenase (NADP) (No1)	1000	0.305110572732346
+HPYRRyNo1	Hydroxypyruvate reductase (NADPH) (No1)	671.77471565666	0.000434171371183046
+AGDCNo1	N-acetylglucosamine-6-phosphate deacetylase (No1)	27.9885569131251	8.55263700150731e-06
+ASNNNo1	L-asparaginase (No1)	578.584199226988	0.000816032528459167
+ASPCTNo1	Aspartate carbamoyltransferase (No1)	1.14887615370407e-06	1.1486810138184e-06
+ASPCTNo2	Aspartate carbamoyltransferase (No2)	511.997517749261	1.14479392140376e-05
+DMPPSNo1	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp) (No1)	1013.29042374348	0.000125862093290241
+IPDPSNo1	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp) (No1)	2.23502994165306e-06	1.09176275523565e-06
+DAPENo1	Diaminopimelate epimerase (No1)	1000	0.00432405119852752
+DHDPRyNo1	Dihydrodipicolinate reductase (NADPH) (No1)	1000	0.00432405119816792
+HSKNo1	Homoserine kinase (No1)	998.209036274092	1.41481203392117e-05
+arm_SDPTA	Succinyldiaminopimelate transaminase (arm)	367.005146528663	1.41481203375093e-05
+SDPTANo1	Succinyldiaminopimelate transaminase (No1)	368.05171358512	1.41481203388416e-05
+SDPTANo2	Succinyldiaminopimelate transaminase (No2)	359.314464553579	1.41481203375093e-05
+SDPTANo3	Succinyldiaminopimelate transaminase (No3)	998.209036274093	4.81897779730804e-09
+SDPTANo4	Succinyldiaminopimelate transaminase (No4)	998.209036274094	4.81897779825611e-09
+SDPTANo5	Succinyldiaminopimelate transaminase (No5)	1.14887615370407e-06	1.14867760368787e-06
+THRSNo1	Threonine synthase (No1)	1.14887615370407e-06	1.14867760368787e-06
+HSSTNo1	Homoserine O-succinyltransferase (No1)	1.14887615370407e-06	1.14867760368787e-06
+PPNDHNo1	Prephenate dehydratase (No1)	1.14887620838999e-06	1.14868101049649e-06
+arm_DDPA	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase (arm)	0.00062843525607613	1.43641877138255e-05
+DDPANo2	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase (No2)	0.00014935389998153	3.30818890512946e-06
+NNAMNo1	Nicotinamidase (No1)	1.14887615370407e-06	1.14867760368787e-06
+P5CDNo1	1-pyrroline-5-carboxylate dehydrogenase (No1)	1.14887615370407e-06	1.14867760368787e-06
+SPMDAT1No1	Spermidine acetyltransferase (No1)	1.14887615370407e-06	1.14867760368787e-06
+SPMDAT2No1	Spermidine acetyltransferase (N8) (No1)	1.14887615370407e-06	1.14867760368787e-06
+TDPADGATNo1	DTDP-4-amino-4,6-dideoxy-D-glucose acetyltransferase (No1)	1.14887620838999e-06	1.14867751596964e-06
+MALSNo1	Malate synthase (No1)	2.74439069210004e-07	1.34055850825642e-07
+MALSNo2	Malate synthase (No2)	1000	0.0125909216618669
+TRE6PPNo1	Trehalose-phosphatase (No1)	999.875825006448	0.00618110932927479
+arm_ADPRDP	ADPribose diphosphatase (arm)	999.116122337316	0.00447476127216843
+ADPRDPNo1	ADPribose diphosphatase (No1)	998.209036274095	0.0124072344213954
+ADPRDPNo2	ADPribose diphosphatase (No2)	1000	0.0726599379716601
+M1PDNo1	Mannitol-1-phosphate 5-dehydrogenase (No1)	139.252438135034	4.85083906076176e-05
+G3PD2No1	Glycerol-3-phosphate dehydrogenase (NADP) (No1)	1000	0.305110572704024
+GALS3No1	A-galactosidase (melibiose) (No1)	1000	0.305110572732346
+FCINo1	L-fucose isomerase (No1)	1000	0.00489361562176435
+FCLPANo1	L-fuculose 1-phosphate aldolase (No1)	1000	0.00151216340578138
+FCLPANo2	L-fuculose 1-phosphate aldolase (No2)	1000	0.00151216340578138
+ACCOALNo2	Acetate-CoA ligase (ADP-forming) (No2)	998.209036274095	0.0094054318207735
+U23GAATNo1	UDP-3-O-(3-hydroxymyristoyl)glucosamine acyltransferase (No1)	578.584199226988	0.000816032528460409
+arm_HPYRRx	Hydroxypyruvate reductase (NADH) (arm)	1000	0.000578444979015769
+GLYCDxNo1	Glycerol dehydrogenase (No1)	1000	0.305110572732346
+ASP1DCNo1	Aspartate 1-decarboxylase (No1)	1999.42280173733	0.0157318460664422
+UHGADANo1	UDP-3-O-acetylglucosamine deacetylase (No1)	12.7713635664649	5.53291873618575e-06
+PRPPSNo1	Phosphoribosylpyrophosphate synthetase (No1)	1.14887615370407e-06	1.14876127757631e-06
+arm_CYSS	Cysteine synthase (arm)	998.209036274093	0.000883730953840089
+ASPKNo1	Aspartate kinase (No1)	2000	0.457665859057963
+ASCBPLNo1	L-ascorbate 6-phosphate lactonase (No1)	1000	0.10170352422944
+ACBIPGTNo1	Adenosyl cobinamide phosphate guanyltransferase (No1)	1000	0.101703524231292
+HPPPNDONo1	2,3-dihydroxypheylpropionate 1,2-dioxygenase (No1)	1000	0.305110572723198
+DHCINDONo1	2,3-dihydroxycinnamate 1,2-dioxygenase (No1)	1000	0.305110572683181
+ENTCSNo1	Enterochelin synthase (No1)	1000	6.74583523100933e-05
+SULRNo1	Sulfite reductase (NADPH2) (No1)	1000	0.305110572683067
+URDGLYCDNo1	Ureidoglycolate dehydrogenase (No1)	1000	0.305110572722516
+CBMKrNo1	Carbamate kinase (No1)	1000	0.305110572708973
+AMANAPErNo1	N-acetylmannosamine 6-phosphate epimerase (No1)	7.6852074926137e-08	3.7514550276993e-08
+CYTDHNo1	Cytidine hydrolase (No1)	1000	0.00288577052190395
+CYTDHNo2	Cytidine hydrolase (No2)	1000	0.0204317117047561
+CYTDHNo3	Cytidine hydrolase (No3)	1000	0.0197421683652353
+PSERTNo1	Phosphoserine transaminase (No1)	1000	0.0201130845240237
+AIRC2No1	Phosphoribosylaminoimidazole carboxylase (No1)	1000	0.0204317117023382
+GAPDNo1	Glyceraldehyde-3-phosphate dehydrogenase (No1)	1000	0.0200490622988518
+GNDNo1	Phosphogluconate dehydrogenase (No1)	1000	1.30044514069994
+TAUDONo1	Taurine dioxygenase (No1)	1000	1.7325079394071
+ME2No1	Malic enzyme (NADP) (No1)	1000	1.16014946927746
+ARGSLNo1	Argininosuccinate lyase (No1)	1000	0.0201130845269903
+CBPSNo1	Carbamoyl-phosphate synthase (glutamine-hydrolysing) (No1)	1000	0.0200490622997476
+GLU5KNo1	Glutamate 5-kinase (No1)	1000	0.0197421683685843
+IPPSNo1	2-isopropylmalate synthase (No1)	1000	0.305110572702593
+MLTG1No1	Maltodextrin glucosidase (maltotriose) (No1)	0.000384299073402872	0.000384253481696132
+AMALT3No1	Amylomaltase (maltopentaose) (No1)	0.000384299073402872	0.000384253481696132
+MLTP3No1	Maltodextrin phosphorylase (maltoheptaose) (No1)	0.000384299073402872	0.000384252314194485
+SPODMNo1	Superoxide dismutase (No1)	1000	0.0255983698157252
+SPODMNo2	Superoxide dismutase (No2)	252.774039869478	0.000184789622735493
+AHCYSNSNo1	S-adenosylhomocysteine nucleosidase (No1)	252.774039869478	0.000184789622735493
+arm_NTPP4	Nucleoside triphosphate pyrophosphorylase (ctp) (arm)	1000	0.00405218113950898
+NTPP4No2	Nucleoside triphosphate pyrophosphorylase (ctp) (No2)	500	0.00763171347679165
+NTPP3No1	Nucleoside triphosphate pyrophosphorylase (dctp) (No1)	500	1.31607653202082e-05
+NTPP3No2	Nucleoside triphosphate pyrophosphorylase (dctp) (No2)	0.000384299073402872	0.000384253481696006
+arm_NTPP6	Nucleoside triphosphate pyrophosphorylase (atp) (arm)	1000	0.00243556589213931
+NTPP6No2	Nucleoside triphosphate pyrophosphorylase (atp) (No2)	1000	0.152555286335174
+arm_NTPP7	Nucleoside triphosphate pyrophosphorylase (dttp) (arm)	1000	0.152555286346685
+NTPP7No1	Nucleoside triphosphate pyrophosphorylase (dttp) (No1)	1000	0.020238231772557
+arm_CYANST	Cyanide sulfurtransferase (arm)	88.3898269062101	3.47905399118059e-05
+CYANSTNo2	Cyanide sulfurtransferase (No2)	823.332922806377	0.000407403031986754
+DBTSNo1	Dethiobiotin synthase (No1)	163.961752084908	0.000186637574640325
+DCTPDNo1	DCTP deaminase (No1)	163.961752084908	0.000186637574636609
+GMPRNo1	GMP reductase (No1)	1000	0.173638159503803
+NADS1No1	NAD synthase (nh3) (No1)	1000	0.328159733311124
+NTRIR2xNo1	Nitrite Reductase (NADH) (No1)	1000	0.152555286352088
+arm_OCBT	Ornithine carbamoyltransferase (arm)	1000	0.152555286359901
+OCBTNo1	Ornithine carbamoyltransferase (No1)	1000	0.15255528634893
+OCBTNo2	Ornithine carbamoyltransferase (No2)	1000	0.0220572910667613
+GARFTNo1	Phosphoribosylglycinamide formyltransferase (No1)	1000	0.15255528635031
+GPDDA1No1	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine) (No1)	0.00298995019001485	0.00298964154506414
+GPDDA2No1	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine) (No1)	1000	0.257344097462223
+arm_PHETA1	Phenylalanine transaminase (arm)	1000	0.305110572694819
+PHETA1No1	Phenylalanine transaminase (No1)	1000	0.152555286341951
+PHETA1No2	Phenylalanine transaminase (No2)	1000	0.152555286339919
+PPNDNo1	Prephenate dehydrogenase (No1)	1000	0.152555286340756
+TRPS1No1	Tryptophan synthase (indoleglycerol phosphate) (No1)	1000	0.305110572697814
+PRAMPCNo1	Phosphoribosyl-AMP cyclohydrolase (No1)	1000	1.07122298779111
+DXYLKNo1	1-Deoxy-D-xylulose kinase (No1)	49.4264397597722	2.90720085115437e-05
+MDH3No1	Malate dehydrogenase (menaquinone 8 as acceptor) (No1)	1000	0.0199820836268367
+SOTANo1	Succinylornithine transaminase (No1)	823.332922806377	0.000407403031986754
+PRFGSNo1	Phosphoribosylformylglycinamidine synthase (No1)	1000	6.14947814729263
+NTP3No1	Nucleoside-triphosphatase (GTP) (No1)	1000	0.00766656033873492
+NTP3No7	Nucleoside-triphosphatase (GTP) (No7)	234.848115402733	0.000686563598834941
+MOAT2No1	3-deoxy-D-manno-octulosonic acid transferase (No1)	0.000384299073414085	0.000384233509706273
+NADH5No3	NADH dehydrogenase (ubiquinone-8 ) (No3)	27.9885569131251	8.55263700020974e-06
+PPPNDONo1	Phenylpropanoate Dioxygenase (No1)	0.000128099691138004	0.00012808156458422
+arm_CHRPL	Chorismate pyruvate lyase (arm)	999.873042984864	0.00644809426709736
+FBA3No1	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase (No1)	163.961752084908	0.000186637574640575
+GLUDCNo1	Glutamate Decarboxylase (No1)	1000	0.152555286357142
+GLUDCNo2	Glutamate Decarboxylase (No2)	1000	0.152555286356787
+HSDyNo2	Homoserine dehydrogenase (NADPH) (No2)	0.000384299073402872	0.000512307382674365
+arm_CYSTL	Cystathionine b-lyase (arm)	1000	0.0191042491285316
+arm_SSALy	Succinate-semialdehyde dehydrogenase (NADP) (arm)	671.77471565666	0.000690319518708702
+SSALyNo1	Succinate-semialdehyde dehydrogenase (NADP) (No1)	823.332922806377	0.000407403031986754
+arm_FACOAL180t2pp	Fatty-acid-CoA ligase (octadecanoate transport via vectoral Co-A coupling) (arm)	1000	0.152555286351236
+FACOAL180t2ppNo1	Fatty-acid-CoA ligase (octadecanoate transport via vectoral Co-A coupling) (No1)	1000	0.30511057272209
+PHYTSppNo1	Phytase (periplasm) (No1)	1000	0.305110572719802
+NTP3ppNo1	Nucleoside-triphosphatase (GTP) (periplasm) (No1)	1000	0.0353795750782808

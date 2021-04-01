@@ -1,0 +1,717 @@
+enzymes	shortNames	genes	MWs	subSystems	OG
+A0A1L7LMC3	KLMA_90012	KLMA_90012	7.71629	Oxidative phosphorylation	NA
+W0T294	KLMA_10065	KLMA_10065	87.81322	Histidine metabolism // Histidine metabolism // Histidine metabolism // Histidine metabolism // Histidine metabolism // Histidine metabolism	OG0001012
+W0T2B8	KLMA_10090	KLMA_10090	54.63902	Cysteine and methionine metabolism	OG0001001
+W0T2F2	KLMA_10125	KLMA_10125	52.58562	Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis	OG0000980
+W0T2K0	KLMA_10018	KLMA_10018	39.38662	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	NA
+W0T2P5	KLMA_10220	KLMA_10220	43.03363	Glycine, serine and threonine metabolism	OG0000920
+W0T2R0	KLMA_10078	KLMA_10078	31.4183	Sphingolipid metabolism // Sphingolipid metabolism // Sphingolipid metabolism	NA
+W0T2S9	KLMA_10260	KLMA_10260	71.22967	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Other reactions	NA
+W0T2U3	KLMA_10108	KLMA_10108	109.00666	Inositol phosphate metabolism	OG0000991
+W0T2W9	KLMA_10305	KLMA_10305	26.25421	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	OG0000878
+W0T2Z0	KLMA_10153	KLMA_10153	86.90872	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism	NA
+W0T302	KLMA_10163	KLMA_10163	37.52962	Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis	OG0000958
+W0T382	KLMA_10435	KLMA_10435	76.2091	Aminoacyl-tRNA biosynthesis	OG0000800
+W0T3A2	KLMA_10243	KLMA_10243	31.62443	Porphyrin and chlorophyll metabolism // Porphyrin and chlorophyll metabolism // Porphyrin and chlorophyll metabolism	OG0000912
+W0T3B0	KLMA_10253	KLMA_10253	128.85911	Citrate cycle (TCA cycle)	NA
+W0T3E2	KLMA_10505	KLMA_10505	56.46743	Purine metabolism	OG0000763
+W0T3G4	KLMA_10313	KLMA_10313	49.89411	Terpenoid backbone biosynthesis	OG0000873
+W0T3H5	KLMA_10540	KLMA_10540	44.44431	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	NA
+W0T3I1	KLMA_10545	KLMA_10545	61.32292	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T3K1	KLMA_10353	KLMA_10353	16.32692	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0000851
+W0T3M6	KLMA_10383	KLMA_10383	82.29981	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	NA
+W0T3N4	KLMA_10036	KLMA_10036	40.46824	Pantothenate and CoA biosynthesis	OG0001028
+W0T3P9	KLMA_10051	KLMA_10051	53.74568	Glycolysis / Gluconeogenesis // Streptomycin biosynthesis	NA
+W0T3S7	KLMA_10433	KLMA_10433	51.85761	Alanine, aspartate and glutamate metabolism	OG0000802
+W0T3V0	KLMA_10655	KLMA_10655	177.4982	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0T3V9	KLMA_10468	KLMA_10468	53.42949	Pentose phosphate pathway	OG0000785
+W0T3X2	KLMA_10483	KLMA_10483	85.20197	Selenocompound metabolism // Aminoacyl-tRNA biosynthesis	OG0000776
+W0T3X7	KLMA_10126	KLMA_10126	89.90182	Folate biosynthesis // Folate biosynthesis // Folate biosynthesis // Folate biosynthesis	OG0000979
+W0T3X8	KLMA_10488	KLMA_10488	27.85676	Folate biosynthesis // Folate biosynthesis // Folate biosynthesis // Folate biosynthesis	OG0000773
+W0T3Y2	KLMA_10493	KLMA_10493	50.84602	Aminoacyl-tRNA biosynthesis	NA
+W0T3Y7	KLMA_10498	KLMA_10498	62.13109	Sphingolipid metabolism	OG0000766
+W0T3Y8	KLMA_10670	KLMA_10670	63.21325	Aminoacyl-tRNA biosynthesis	OG0000671
+W0T3Z8	KLMA_10508	KLMA_10508	68.22615	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	OG0000760
+W0T403	KLMA_10513	KLMA_10513	27.06172	One carbon pool by folate	OG0000755
+W0T423	KLMA_10705	KLMA_10705	24.41138	Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism	NA
+W0T427	KLMA_10710	KLMA_10710	134.60295	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0000651
+W0T443	KLMA_10735	KLMA_10735	24.45616	Pyrimidine metabolism	OG0000633
+W0T453	KLMA_10176	KLMA_10176	54.4264	Pentose phosphate pathway	OG0000951
+W0T462	KLMA_10186	KLMA_10186	80.16496	Other reactions // Other reactions	OG0000945
+W0T472	KLMA_10196	KLMA_10196	40.38849	Biosynthesis of unsaturated fatty acids	OG0000937
+W0T484	KLMA_10598	KLMA_10598	27.17907	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T491	KLMA_10216	KLMA_10216	58.93283	Amino sugar and nucleotide sugar metabolism // Amino sugar and nucleotide sugar metabolism	OG0000923
+W0T492	KLMA_10024	KLMA_10024	8.81011	Oxidative phosphorylation	OG0001034
+W0T4A4	KLMA_10231	KLMA_10231	66.81868	Glutathione metabolism	OG0000917
+W0T4C3	KLMA_10633	KLMA_10633	39.68436	Pyrimidine metabolism // Pyrimidine metabolism	OG0000689
+W0T4E2	KLMA_20009	KLMA_20009	30.39444	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T4E3	KLMA_10653	KLMA_10653	164.85169	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0T4E8	KLMA_10658	KLMA_10658	104.70471	Amino sugar and nucleotide sugar metabolism	OG0000678
+W0T4F1	KLMA_10079	KLMA_10079	42.31663	Cysteine and methionine metabolism	OG0001007
+W0T4F5	KLMA_10663	KLMA_10663	16.96835	Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism	OG0000674
+W0T4G1	KLMA_10089	KLMA_10089	75.84302	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0T4H7	KLMA_10316	KLMA_10316	29.86082	Porphyrin and chlorophyll metabolism // Porphyrin and chlorophyll metabolism	OG0000871
+W0T4J0	KLMA_10336	KLMA_10336	45.79888	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	OG0000859
+W0T4J4	KLMA_10341	KLMA_10341	107.76182	Glycolysis / Gluconeogenesis // Galactose metabolism	NA
+W0T4J5	KLMA_10124	KLMA_10124	44.68242	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	OG0000981
+W0T4J6	KLMA_20074	KLMA_20074	125.65458	Starch and sucrose metabolism // Starch and sucrose metabolism	NA
+W0T4J7	KLMA_10678	KLMA_10678	151.98553	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0T4K1	KLMA_10683	KLMA_10683	37.44344	Pentose and glucuronate interconversions // Glycerolipid metabolism // Other reactions // Pentose and glucuronate interconversions // Glycerolipid metabolism // Other reactions	OG0000664
+W0T4M1	KLMA_20099	KLMA_20099	30.32762	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T4N5	KLMA_10159	KLMA_10159	40.37593	Biosynthesis of unsaturated fatty acids	NA
+W0T4N6	KLMA_20114	KLMA_20114	51.89754	Other reactions // Other reactions	OG0001093
+W0T4P7	KLMA_20129	KLMA_20129	31.49556	Transport reactions (diffusion) // Transport reactions (diffusion)	OG0001101
+W0T4R5	KLMA_10763	KLMA_10763	61.5907	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	OG0000619
+W0T4S5	KLMA_10436	KLMA_10436	38.66418	Histidine metabolism	OG0000799
+W0T4T5	KLMA_10179	KLMA_10179	42.52736	Glycerophospholipid metabolism	NA
+W0T4U6	KLMA_10189	KLMA_10189	34.69406	Purine metabolism	OG0000942
+W0T4W6	KLMA_10818	KLMA_10818	24.11539	Purine metabolism	OG0000585
+W0T4W9	KLMA_10481	KLMA_10481	46.97155	Folate biosynthesis	OG0000778
+W0T4Y9	KLMA_10234	KLMA_10234	49.49048	Starch and sucrose metabolism	NA
+W0T4Z5	KLMA_10506	KLMA_10506	79.19231	Transport reaction (active diffusion)	NA
+W0T4Z7	KLMA_10244	KLMA_10244	54.94154	Biosynthesis of unsaturated fatty acids	OG0000911
+W0T500	KLMA_10511	KLMA_10511	56.2706	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	NA
+W0T503	KLMA_20244	KLMA_20244	41.023	Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis	OG0001165
+W0T517	KLMA_20259	KLMA_20259	55.92693	Phenylalanine metabolism // Tryptophan metabolism // Ubiquinone and other terpenoid-quinone biosynthesis // Phenylalanine metabolism // Tryptophan metabolism // Ubiquinone and other terpenoid-quinone biosynthesis	NA
+W0T518	KLMA_20042	KLMA_20042	58.13043	Pyruvate metabolism	NA
+W0T533	KLMA_10546	KLMA_10546	63.01151	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T534	KLMA_20057	KLMA_20057	34.84334	Purine metabolism	NA
+W0T536	KLMA_10289	KLMA_10289	58.43081	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0T537	KLMA_20062	KLMA_20062	33.47172	Other reactions	NA
+W0T541	KLMA_10294	KLMA_10294	24.72595	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism	NA
+W0T562	KLMA_20304	KLMA_20304	38.37547	Alanine, aspartate and glutamate metabolism // Glycine, serine and threonine metabolism // Alanine, aspartate and glutamate metabolism	OG0001205
+W0T570	KLMA_10581	KLMA_10581	34.71298	Ubiquinone and other terpenoid-quinone biosynthesis	OG0000721
+W0T576	KLMA_20319	KLMA_20319	31.87546	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0001216
+W0T5A6	KLMA_10621	KLMA_10621	64.70665	Pyruvate metabolism	OG0000699
+W0T5B1	KLMA_10626	KLMA_10626	53.43631	Aminoacyl-tRNA biosynthesis	OG0000694
+W0T5C0	KLMA_10389	KLMA_10389	40.26765	Terpenoid backbone biosynthesis // Terpenoid backbone biosynthesis	OG0000835
+W0T5D1	KLMA_20172	KLMA_20172	45.51242	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Other reactions // Other reactions	OG0001123
+W0T5D7	KLMA_10656	KLMA_10656	132.09402	Amino sugar and nucleotide sugar metabolism	OG0000679
+W0T5D8	KLMA_20354	KLMA_20354	41.81484	Glycine, serine and threonine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Selenocompound metabolism // Other reactions // Cysteine and methionine metabolism // Other reactions	OG0001241
+W0T5E0	KLMA_10414	KLMA_10414	34.63716	Pyrimidine metabolism	OG0000813
+W0T5E4	KLMA_10419	KLMA_10419	36.75661	One carbon pool by folate // One carbon pool by folate	OG0000809
+W0T5F5	KLMA_20202	KLMA_20202	55.33009	Folate biosynthesis // Folate biosynthesis // Folate biosynthesis // Folate biosynthesis // Folate biosynthesis	OG0001138
+W0T5F9	KLMA_10434	KLMA_10434	62.2312	Aminoacyl-tRNA biosynthesis	OG0000801
+W0T5G3	KLMA_10439	KLMA_10439	61.80488	Glycerophospholipid metabolism	OG0000798
+W0T5I6	KLMA_20414	KLMA_20414	39.35969	Phenylalanine, tyrosine and tryptophan biosynthesis	NA
+W0T5J3	KLMA_20424	KLMA_20424	52.81319	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0T5M1	KLMA_20262	KLMA_20262	30.30875	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	OG0001174
+W0T5M3	KLMA_20454	KLMA_20454	42.83549	Phenylalanine, tyrosine and tryptophan biosynthesis	OG0001301
+W0T5M8	KLMA_20459	KLMA_20459	69.6764	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T5N2	KLMA_20272	KLMA_20272	102.9578	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	OG0001181
+W0T5N8	KLMA_10514	KLMA_10514	41.652	Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation	NA
+W0T5N9	KLMA_10731	KLMA_10731	29.29515	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism	NA
+W0T5P9	KLMA_10741	KLMA_10741	37.78295	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	OG0000632
+W0T5Q1	KLMA_10524	KLMA_10524	52.75411	Aminoacyl-tRNA biosynthesis	OG0000752
+W0T5Q3	KLMA_20484	KLMA_20484	54.65512	Thiamine metabolism // Thiamine metabolism	OG0001322
+W0T5T4	KLMA_10781	KLMA_10781	43.52338	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	NA
+W0T5U7	KLMA_10564	KLMA_10564	51.06992	Aminoacyl-tRNA biosynthesis	OG0000733
+W0T5W0	KLMA_10811	KLMA_10811	23.88614	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0000590
+W0T5X5	KLMA_20559	KLMA_20559	50.25081	Aminoacyl-tRNA biosynthesis	OG0001363
+W0T5Y2	KLMA_20005	KLMA_20005	45.86802	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	OG0001036
+W0T5Y3	KLMA_10599	KLMA_10599	63.32672	Sphingolipid metabolism	OG0000712
+W0T616	KLMA_20604	KLMA_20604	27.52298	Glycolysis / Gluconeogenesis // Other reactions // Other reactions	OG0001383
+W0T620	KLMA_20377	KLMA_20377	30.23799	Fluorobenzoate degradation // Fluorobenzoate degradation // Chlorocyclohexane and chlorobenzene degradation // Chlorocyclohexane and chlorobenzene degradation // Fluorobenzoate degradation // Fluorobenzoate degradation // Chlorocyclohexane and chlorobenzene degradation // Chlorocyclohexane and chlorobenzene degradation	OG0001253
+W0T633	KLMA_20619	KLMA_20619	34.51799	Glycerolipid metabolism // Glycerolipid metabolism	NA
+W0T640	KLMA_10649	KLMA_10649	61.81472	Pyruvate metabolism	NA
+W0T642	KLMA_20402	KLMA_20402	58.54641	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T644	KLMA_20629	KLMA_20629	17.97051	Riboflavin metabolism	OG0001399
+W0T656	KLMA_20085	KLMA_20085	22.26214	Oxidative phosphorylation	OG0001078
+W0T657	KLMA_20644	KLMA_20644	178.22304	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0001407
+W0T673	KLMA_20105	KLMA_20105	53.26639	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism // Propanoate metabolism	NA
+W0T677	KLMA_20110	KLMA_20110	87.60347	Purine metabolism	OG0001091
+W0T679	KLMA_20447	KLMA_20447	59.95722	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	NA
+W0T686	KLMA_20679	KLMA_20679	93.9291	Sphingolipid metabolism // Sphingolipid metabolism // Sphingolipid metabolism	OG0001432
+W0T6B9	KLMA_20155	KLMA_20155	78.87031	Alanine, aspartate and glutamate metabolism	OG0001115
+W0T6C5	KLMA_10032	KLMA_10032	48.05155	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0T6D1	KLMA_20165	KLMA_20165	25.19898	Purine metabolism // Purine metabolism // Purine metabolism	NA
+W0T6D2	KLMA_10714	KLMA_10714	36.35306	Vitamin B6 metabolism // Vitamin B6 metabolism // Vitamin B6 metabolism	OG0000648
+W0T6D8	KLMA_20734	KLMA_20734	117.04141	Alanine, aspartate and glutamate metabolism	OG0001464
+W0T6H6	KLMA_20552	KLMA_20552	47.3353	Histidine metabolism	NA
+W0T6I8	KLMA_20779	KLMA_20779	25.5742	One carbon pool by folate // One carbon pool by folate // One carbon pool by folate // One carbon pool by folate // One carbon pool by folate // One carbon pool by folate // One carbon pool by folate // One carbon pool by folate	OG0001493
+W0T6J0	KLMA_20220	KLMA_20220	43.18129	Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation	NA
+W0T6K0	KLMA_10794	KLMA_10794	94.65468	Purine metabolism	OG0000601
+W0T6K8	KLMA_10804	KLMA_10804	34.27711	Pantothenate and CoA biosynthesis // Other reactions // Other reactions	OG0000593
+W0T6L0	KLMA_20587	KLMA_20587	29.72675	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T6M2	KLMA_10819	KLMA_10819	50.02246	Phenylalanine, tyrosine and tryptophan biosynthesis	OG0000584
+W0T6N2	KLMA_20612	KLMA_20612	55.10677	Amino sugar and nucleotide sugar metabolism // Amino sugar and nucleotide sugar metabolism	OG0001390
+W0T6N9	KLMA_10137	KLMA_10137	85.99239	Aminoacyl-tRNA biosynthesis // Aminoacyl-tRNA biosynthesis	OG0000972
+W0T6P2	KLMA_20008	KLMA_20008	85.59846	Other reactions // Other reactions	NA
+W0T6Q1	KLMA_20637	KLMA_20637	35.23904	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	NA
+W0T6Q3	KLMA_20023	KLMA_20023	100.19712	Starch and sucrose metabolism // Starch and sucrose metabolism // Starch and sucrose metabolism	OG0001043
+W0T6Q9	KLMA_10157	KLMA_10157	37.03537	Pentose phosphate pathway // Pentose phosphate pathway // Pentose phosphate pathway	OG0000963
+W0T6R3	KLMA_20290	KLMA_20290	37.89043	Porphyrin and chlorophyll metabolism	OG0001195
+W0T6R7	KLMA_20657	KLMA_20657	93.80253	Other types of O-glycan biosynthesis // Other types of O-glycan biosynthesis	OG0001415
+W0T6R8	KLMA_20043	KLMA_20043	40.51741	One carbon pool by folate // One carbon pool by folate	OG0001056
+W0T6S2	KLMA_20048	KLMA_20048	86.70038	N-Glycan biosynthesis // N-Glycan biosynthesis	OG0001058
+W0T6S6	KLMA_20305	KLMA_20305	52.20608	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	NA
+W0T6U1	KLMA_20687	KLMA_20687	46.87895	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	OG0001438
+W0T6V3	KLMA_30042	KLMA_30042	21.71615	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Pyrimidine metabolism	NA
+W0T6V7	KLMA_20093	KLMA_20093	27.6361	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0001083
+W0T6W0	KLMA_10182	KLMA_10182	33.15517	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	NA
+W0T6W1	KLMA_20098	KLMA_20098	28.85381	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	OG0001087
+W0T6W8	KLMA_10192	KLMA_10192	58.53218	Purine metabolism // Purine metabolism	OG0000939
+W0T6X1	KLMA_20722	KLMA_20722	50.96737	Steroid biosynthesis // Steroid biosynthesis // Other reactions // Other reactions	NA
+W0T6Z0	KLMA_10222	KLMA_10222	60.83469	Purine metabolism	NA
+W0T704	KLMA_20752	KLMA_20752	35.84688	Pyrimidine metabolism	OG0001477
+W0T717	KLMA_20370	KLMA_20370	54.76542	Glutathione metabolism	OG0001248
+W0T718	KLMA_20153	KLMA_20153	48.27557	Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Phenylalanine metabolism // Phenylalanine, tyrosine and tryptophan biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis // Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Phenylalanine metabolism // Phenylalanine, tyrosine and tryptophan biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis	NA
+W0T723	KLMA_20158	KLMA_20158	40.38988	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Phenylalanine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	NA
+W0T747	KLMA_20405	KLMA_20405	50.46248	N-Glycan biosynthesis // N-Glycan biosynthesis	OG0001270
+W0T754	KLMA_10297	KLMA_10297	37.44287	Pyrimidine metabolism // Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	OG0000882
+W0T759	KLMA_30152	KLMA_30152	79.01676	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Other reactions	NA
+W0T760	KLMA_20193	KLMA_20193	97.14208	Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0001134
+W0T771	KLMA_10317	KLMA_10317	58.44638	Purine metabolism // Purine metabolism	NA
+W0T776	KLMA_20208	KLMA_20208	47.75234	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	OG0001143
+W0T778	KLMA_20817	KLMA_20817	64.42939	Arginine and proline metabolism	NA
+W0T793	KLMA_10342	KLMA_10342	46.24864	Sphingolipid metabolism	NA
+W0T7A9	KLMA_20243	KLMA_20243	16.33968	Pyrimidine metabolism	NA
+W0T7C4	KLMA_30227	KLMA_30227	214.09956	Purine metabolism // Purine metabolism	OG0001653
+W0T7D6	KLMA_20505	KLMA_20505	116.58146	Transport reactions (diffusion) // Transport reactions (diffusion)	OG0001338
+W0T7D8	KLMA_30010	KLMA_30010	65.35779	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T7E0	KLMA_30247	KLMA_30247	86.3334	Glycerolipid metabolism // Glycerophospholipid metabolism	NA
+W0T7E5	KLMA_20278	KLMA_20278	38.68168	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Other reactions // Other reactions	OG0001186
+W0T7F0	KLMA_10402	KLMA_10402	87.19236	Glycerolipid metabolism // Glycerolipid metabolism // Glycerolipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Other reactions // Glycerophospholipid metabolism // Glycerophospholipid metabolism	NA
+W0T7F7	KLMA_20288	KLMA_20288	54.19029	Glycine, serine and threonine metabolism // Other reactions	OG0001193
+W0T7G3	KLMA_30035	KLMA_30035	24.28184	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0001528
+W0T7I0	KLMA_20308	KLMA_20308	41.59876	Steroid biosynthesis	OG0001207
+W0T7I7	KLMA_30292	KLMA_30292	25.16481	Purine metabolism // Purine metabolism // Purine metabolism	OG0001692
+W0T7J3	KLMA_30070	KLMA_30070	22.68757	Purine metabolism	OG0001556
+W0T7J6	KLMA_30075	KLMA_30075	54.1446	Purine metabolism // Purine metabolism // Purine metabolism	OG0001559
+W0T7J7	KLMA_30302	KLMA_30302	113.43998	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Other reactions // Other reactions	OG0001700
+W0T7K3	KLMA_20575	KLMA_20575	39.55282	Citrate cycle (TCA cycle)	OG0001371
+W0T7K6	KLMA_30312	KLMA_30312	85.06066	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism	NA
+W0T7K8	KLMA_20580	KLMA_20580	64.17134	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T7L9	KLMA_30327	KLMA_30327	80.51742	Glycerolipid metabolism // Glycerophospholipid metabolism	OG0001713
+W0T7M0	KLMA_30105	KLMA_30105	76.30769	Glycolysis / Gluconeogenesis // Butanoate metabolism // C5-Branched dibasic acid metabolism // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Pantothenate and CoA biosynthesis // Valine, leucine and isoleucine biosynthesis	OG0001575
+W0T7P9	KLMA_30357	KLMA_30357	38.16401	Fatty acid metabolism // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Primary bile acid biosynthesis // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Geraniol degradation // Toluene degradation // Caprolactam degradation // Other reactions // Fatty acid metabolism // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Primary bile acid biosynthesis // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Geraniol degradation // Toluene degradation // Caprolactam degradation // Other reactions	NA
+W0T7R3	KLMA_30155	KLMA_30155	64.23367	Inositol phosphate metabolism	OG0001602
+W0T7R4	KLMA_20368	KLMA_20368	35.07097	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T7U1	KLMA_20665	KLMA_20665	59.70713	Alanine, aspartate and glutamate metabolism	OG0001422
+W0T7U4	KLMA_10547	KLMA_10547	61.8942	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T7V3	KLMA_20408	KLMA_20408	127.08915	Purine metabolism	NA
+W0T7V7	KLMA_20413	KLMA_20413	60.54986	Histidine metabolism // Histidine metabolism	OG0001277
+W0T7V9	KLMA_30412	KLMA_30412	33.75667	Glycerolipid metabolism // Sphingolipid metabolism // Sphingolipid metabolism // Sphingolipid metabolism	OG0001764
+W0T7W7	KLMA_20423	KLMA_20423	53.1035	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T7Y2	KLMA_30225	KLMA_30225	38.46994	Cysteine and methionine metabolism	NA
+W0T7Y5	KLMA_10587	KLMA_10587	24.87822	Pyrimidine metabolism // Pyrimidine metabolism	NA
+W0T804	KLMA_20468	KLMA_20468	32.6309	Amino sugar and nucleotide sugar metabolism // Amino sugar and nucleotide sugar metabolism	NA
+W0T805	KLMA_30250	KLMA_30250	67.79958	Porphyrin and chlorophyll metabolism // Other reactions	OG0001665
+W0T809	KLMA_20473	KLMA_20473	234.04507	Inositol phosphate metabolism // Inositol phosphate metabolism	OG0001314
+W0T818	KLMA_20483	KLMA_20483	38.62799	Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis	NA
+W0T827	KLMA_20493	KLMA_20493	67.37001	Aminoacyl-tRNA biosynthesis	OG0001328
+W0T828	KLMA_30275	KLMA_30275	43.25395	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	OG0001680
+W0T846	KLMA_30295	KLMA_30295	56.16176	Other reactions // Other reactions // Other reactions // Other reactions	OG0001695
+W0T850	KLMA_30300	KLMA_30300	178.2916	Purine metabolism	OG0001698
+W0T870	KLMA_30325	KLMA_30325	51.61045	Nitrogen metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Selenocompound metabolism // Nitrogen metabolism // Cysteine and methionine metabolism	OG0001711
+W0T883	KLMA_20568	KLMA_20568	33.49921	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	OG0001369
+W0T899	KLMA_30527	KLMA_30527	75.87857	Lysine biosynthesis // Lysine biosynthesis // Other reactions // Lysine biosynthesis // Lysine biosynthesis // Other reactions	NA
+W0T8A1	KLMA_10677	KLMA_10677	48.30588	Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Other reactions	OG0000667
+W0T8A2	KLMA_30365	KLMA_30365	38.1411	Vitamin B6 metabolism	OG0001735
+W0T8A7	KLMA_10682	KLMA_10682	34.51772	Pyrimidine metabolism // Pyrimidine metabolism // Selenocompound metabolism // Selenocompound metabolism // Selenocompound metabolism // Selenocompound metabolism	NA
+W0T8A8	KLMA_20598	KLMA_20598	62.30821	Purine metabolism	OG0001379
+W0T8A9	KLMA_30370	KLMA_30370	80.25156	Starch and sucrose metabolism	NA
+W0T8B1	KLMA_20830	KLMA_20830	64.8083	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T8B6	KLMA_30557	KLMA_30557	42.48582	Cysteine and methionine metabolism	OG0001859
+W0T8B7	KLMA_10692	KLMA_10692	42.81637	Tryptophan metabolism	OG0000659
+W0T8B8	KLMA_20608	KLMA_20608	32.05957	Ubiquinone and other terpenoid-quinone biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis	OG0001386
+W0T8C0	KLMA_30562	KLMA_30562	33.97527	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	OG0001863
+W0T8D0	KLMA_30577	KLMA_30577	38.90669	Pentose and glucuronate interconversions // Glycerolipid metabolism // Other reactions // Glycerolipid metabolism // Other reactions	NA
+W0T8D4	KLMA_10712	KLMA_10712	69.43709	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	OG0000650
+W0T8D8	KLMA_10717	KLMA_10717	16.34043	Oxidative phosphorylation	OG0000647
+W0T8E6	KLMA_20638	KLMA_20638	62.87562	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T8E7	KLMA_30013	KLMA_30013	63.61212	Pyruvate metabolism	NA
+W0T8E9	KLMA_30405	KLMA_30405	28.33615	Purine metabolism // Purine metabolism	OG0001760
+W0T8F1	KLMA_30602	KLMA_30602	78.60643	Glycolysis / Gluconeogenesis // Propanoate metabolism // Propanoate metabolism // Other reactions // Propanoate metabolism // Propanoate metabolism	NA
+W0T8F2	KLMA_20643	KLMA_20643	52.13578	Amino sugar and nucleotide sugar metabolism	OG0001406
+W0T8F4	KLMA_30018	KLMA_30018	38.30993	Pyruvate metabolism // Pyruvate metabolism	NA
+W0T8F6	KLMA_30607	KLMA_30607	75.08574	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0T8G3	KLMA_10747	KLMA_10747	40.30042	Purine metabolism	NA
+W0T8G4	KLMA_30617	KLMA_30617	44.63653	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0T8G6	KLMA_30028	KLMA_30028	71.24422	Inositol phosphate metabolism // Inositol phosphate metabolism // Other reactions // Other reactions	OG0001522
+W0T8G7	KLMA_10752	KLMA_10752	35.12985	Terpenoid backbone biosynthesis // Terpenoid backbone biosynthesis // Terpenoid backbone biosynthesis	OG0000625
+W0T8H6	KLMA_30430	KLMA_30430	40.07276	Sphingolipid metabolism // Sphingolipid metabolism	OG0001777
+W0T8H7	KLMA_10762	KLMA_10762	31.71733	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	OG0000620
+W0T8I7	KLMA_10772	KLMA_10772	216.9401	Purine metabolism // Purine metabolism	OG0000614
+W0T8J7	KLMA_30450	KLMA_30450	44.04701	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	NA
+W0T8K0	KLMA_10787	KLMA_10787	51.57783	Pyrimidine metabolism // Glutathione metabolism // Other reactions // Glutathione metabolism // Other reactions	NA
+W0T8L0	KLMA_10797	KLMA_10797	53.55381	Aminoacyl-tRNA biosynthesis	OG0000598
+W0T8M0	KLMA_10807	KLMA_10807	83.43551	Aminoacyl-tRNA biosynthesis	OG0000592
+W0T8N1	KLMA_30687	KLMA_30687	49.19294	Cysteine and methionine metabolism	OG0001941
+W0T8N2	KLMA_30480	KLMA_30480	48.16789	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism	NA
+W0T8P1	KLMA_30697	KLMA_30697	84.93811	Purine metabolism // Purine metabolism // Purine metabolism	NA
+W0T8P2	KLMA_10832	KLMA_10832	34.76753	Pyrimidine metabolism // Pyrimidine metabolism	NA
+W0T8R1	KLMA_30722	KLMA_30722	70.9788	Glycerophospholipid metabolism // Other reactions // Other reactions	OG0001966
+W0T8R8	KLMA_20753	KLMA_20753	29.26426	Tyrosine metabolism // Tyrosine metabolism	OG0001478
+W0T8S0	KLMA_40003	KLMA_40003	52.55854	Riboflavin metabolism // Other reactions	NA
+W0T8S2	KLMA_30148	KLMA_30148	32.8034	Glycolysis / Gluconeogenesis // Butanoate metabolism // C5-Branched dibasic acid metabolism // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Pantothenate and CoA biosynthesis // Valine, leucine and isoleucine biosynthesis	OG0001597
+W0T8S9	KLMA_30158	KLMA_30158	24.49897	Biosynthesis of unsaturated fatty acids	OG0001604
+W0T8T2	KLMA_20768	KLMA_20768	17.31777	Amino sugar and nucleotide sugar metabolism	OG0001487
+W0T8T6	KLMA_20046	KLMA_20046	76.80346	Glycine, serine and threonine metabolism // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis	OG0001057
+W0T8T8	KLMA_30505	KLMA_30505	60.51219	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	NA
+W0T8T9	KLMA_30168	KLMA_30168	37.87262	Arginine and proline metabolism	OG0001610
+W0T8W6	KLMA_20798	KLMA_20798	27.62644	Oxidative phosphorylation	OG0001499
+W0T8W7	KLMA_30530	KLMA_30530	62.38848	Glycine, serine and threonine metabolism	NA
+W0T8X3	KLMA_20086	KLMA_20086	38.74412	Glycine, serine and threonine metabolism	OG0001079
+W0T8X7	KLMA_20808	KLMA_20808	91.38382	Purine metabolism	OG0001507
+W0T8X9	KLMA_30545	KLMA_30545	42.97878	Pantothenate and CoA biosynthesis // Pantothenate and CoA biosynthesis	OG0001850
+W0T8Z5	KLMA_40083	KLMA_40083	51.8998	Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Phenylalanine metabolism // Phenylalanine, tyrosine and tryptophan biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis // Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Phenylalanine metabolism // Phenylalanine, tyrosine and tryptophan biosynthesis // Ubiquinone and other terpenoid-quinone biosynthesis	OG0002015
+W0T8Z8	KLMA_30233	KLMA_30233	85.46655	Other types of O-glycan biosynthesis // Other types of O-glycan biosynthesis	NA
+W0T913	KLMA_40103	KLMA_40103	102.66917	Glycerophospholipid metabolism	NA
+W0T919	KLMA_30595	KLMA_30595	75.38659	Purine metabolism	NA
+W0T942	KLMA_30011	KLMA_30011	93.70155	Starch and sucrose metabolism // Starch and sucrose metabolism	NA
+W0T944	KLMA_40133	KLMA_40133	84.23638	Pentose and glucuronate interconversions	OG0002050
+W0T947	KLMA_30016	KLMA_30016	34.3326	Glycerolipid metabolism // Glycerolipid metabolism	NA
+W0T962	KLMA_30031	KLMA_30031	46.31529	Various types of N-glycan biosynthesis // Various types of N-glycan biosynthesis	OG0001524
+W0T963	KLMA_40148	KLMA_40148	45.6943	Tyrosine metabolism // Tyrosine metabolism	OG0002059
+W0T965	KLMA_20181	KLMA_20181	42.10509	Porphyrin and chlorophyll metabolism	OG0001128
+W0T966	KLMA_30650	KLMA_30650	23.56804	Purine metabolism // One carbon pool by folate	OG0001914
+W0T980	KLMA_40163	KLMA_40163	39.3199	Steroid biosynthesis	NA
+W0T997	KLMA_40178	KLMA_40178	43.75667	Porphyrin and chlorophyll metabolism	OG0002078
+W0T9A1	KLMA_30071	KLMA_30071	76.25778	Purine metabolism	NA
+W0T9A7	KLMA_30695	KLMA_30695	57.56207	Histidine metabolism // Histidine metabolism	OG0001947
+W0T9B8	KLMA_30705	KLMA_30705	43.61873	Purine metabolism // Purine metabolism	OG0001956
+W0T9B9	KLMA_40198	KLMA_40198	52.72834	Alanine, aspartate and glutamate metabolism // beta-Alanine metabolism // Alanine, aspartate and glutamate metabolism // beta-Alanine metabolism	OG0002088
+W0T9D3	KLMA_20246	KLMA_20246	44.46369	Terpenoid backbone biosynthesis	OG0001166
+W0T9D6	KLMA_30111	KLMA_30111	47.82111	Folate biosynthesis // Folate biosynthesis // Folate biosynthesis // Folate biosynthesis // Folate biosynthesis	OG0001578
+W0T9E0	KLMA_40218	KLMA_40218	35.22482	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	NA
+W0T9E2	KLMA_20256	KLMA_20256	103.43996	Other reactions // Other reactions	OG0001172
+W0T9E3	KLMA_30378	KLMA_30378	86.65206	N-Glycan biosynthesis // N-Glycan biosynthesis // Other reactions // N-Glycan biosynthesis // N-Glycan biosynthesis // Other reactions	OG0001744
+W0T9F4	KLMA_40016	KLMA_40016	48.73824	Lysine biosynthesis // Lysine biosynthesis	OG0001974
+W0T9G0	KLMA_40238	KLMA_40238	57.23127	Cysteine and methionine metabolism	NA
+W0T9G1	KLMA_40026	KLMA_40026	38.81395	Steroid biosynthesis	OG0001980
+W0T9G2	KLMA_20276	KLMA_20276	70.17499	One carbon pool by folate // One carbon pool by folate	OG0001184
+W0T9G3	KLMA_30136	KLMA_30136	52.82564	Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism	NA
+W0T9G9	KLMA_30403	KLMA_30403	97.78531	Glutathione metabolism	NA
+W0T9I2	KLMA_30418	KLMA_30418	59.19616	Biosynthesis of unsaturated fatty acids	NA
+W0T9I5	KLMA_20296	KLMA_20296	39.38427	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	NA
+W0T9K9	KLMA_40268	KLMA_40268	24.53756	Nicotinate and nicotinamide metabolism	OG0002122
+W0T9L0	KLMA_40081	KLMA_40081	64.99355	Purine metabolism // Purine metabolism // Purine metabolism	OG0002013
+W0T9L1	KLMA_30196	KLMA_30196	66.44683	Selenocompound metabolism // Aminoacyl-tRNA biosynthesis	OG0001629
+W0T9M1	KLMA_30211	KLMA_30211	44.01214	Aminoacyl-tRNA biosynthesis	OG0001642
+W0T9M7	KLMA_20331	KLMA_20331	43.0632	Galactose metabolism // Galactose metabolism	OG0001223
+W0T9N5	KLMA_30468	KLMA_30468	50.77359	Porphyrin and chlorophyll metabolism	NA
+W0T9P8	KLMA_40126	KLMA_40126	25.67219	N-Glycan biosynthesis // N-Glycan biosynthesis	NA
+W0T9R1	KLMA_20351	KLMA_20351	61.74021	Porphyrin and chlorophyll metabolism	OG0001238
+W0T9R9	KLMA_40338	KLMA_40338	32.33723	Histidine metabolism	NA
+W0T9S4	KLMA_40343	KLMA_40343	30.9579	Amino sugar and nucleotide sugar metabolism // Amino sugar and nucleotide sugar metabolism	NA
+W0T9T0	KLMA_40161	KLMA_40161	174.46253	Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis	NA
+W0T9T1	KLMA_30281	KLMA_30281	57.68682	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism	OG0001685
+W0T9U4	KLMA_40368	KLMA_40368	41.54018	Lysine biosynthesis // Lysine biosynthesis	NA
+W0T9U5	KLMA_40176	KLMA_40176	170.55709	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0T9V3	KLMA_40378	KLMA_40378	56.32611	beta-Alanine metabolism // beta-Alanine metabolism	OG0002181
+W0T9W1	KLMA_40191	KLMA_40191	91.83937	Aminoacyl-tRNA biosynthesis	OG0002086
+W0T9W3	KLMA_40388	KLMA_40388	39.49617	Glycolysis / Gluconeogenesis // Fructose and mannose metabolism // Carbon fixation in photosynthetic organisms // Methane metabolism // Glycolysis / Gluconeogenesis // Fructose and mannose metabolism // Methane metabolism	OG0002187
+W0T9X0	KLMA_30523	KLMA_30523	21.00267	Riboflavin metabolism	NA
+W0T9Z2	KLMA_40418	KLMA_40418	45.68512	Terpenoid backbone biosynthesis	OG0002203
+W0T9Z7	KLMA_30341	KLMA_30341	84.06118	Steroid biosynthesis	OG0001721
+W0TA03	KLMA_20466	KLMA_20466	69.74989	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	NA
+W0TA07	KLMA_40231	KLMA_40231	189.3823	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002101
+W0TA08	KLMA_20471	KLMA_20471	114.45439	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TA32	KLMA_30588	KLMA_30588	60.87848	Purine metabolism // Purine metabolism	OG0001881
+W0TA38	KLMA_40468	KLMA_40468	8.26353	Oxidative phosphorylation	OG0002234
+W0TA54	KLMA_40488	KLMA_40488	45.04498	Purine metabolism	NA
+W0TA74	KLMA_30421	KLMA_30421	70.17258	Naphthalene degradation // Naphthalene degradation // Naphthalene degradation // Naphthalene degradation	OG0001771
+W0TA77	KLMA_30426	KLMA_30426	64.41972	Sphingolipid metabolism	OG0001775
+W0TA79	KLMA_20551	KLMA_20551	60.31667	Steroid biosynthesis	OG0001356
+W0TA80	KLMA_30643	KLMA_30643	47.92321	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	NA
+W0TA84	KLMA_40523	KLMA_40523	128.76443	Other reactions	OG0002266
+W0TA94	KLMA_20566	KLMA_20566	35.64232	Thiamine metabolism // Thiamine metabolism	OG0001368
+W0TAB0	KLMA_30456	KLMA_30456	76.62374	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0001794
+W0TAB1	KLMA_20586	KLMA_20586	33.75335	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TAB3	KLMA_40301	KLMA_40301	19.44059	Cysteine and methionine metabolism // Other reactions // Cysteine and methionine metabolism // Other reactions	OG0002141
+W0TAB5	KLMA_30461	KLMA_30461	50.82341	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	OG0001797
+W0TAD9	KLMA_40583	KLMA_40583	62.56311	Pyruvate metabolism	NA
+W0TAE4	KLMA_40588	KLMA_40588	66.16681	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	NA
+W0TAF5	KLMA_20626	KLMA_20626	16.79759	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0001396
+W0TAG0	KLMA_30491	KLMA_30491	57.19313	Glycine, serine and threonine metabolism	OG0001813
+W0TAG1	KLMA_40361	KLMA_40361	49.00428	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TAG2	KLMA_30728	KLMA_30728	63.19737	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TAI6	KLMA_40391	KLMA_40391	40.35484	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	NA
+W0TAK3	KLMA_40044	KLMA_40044	37.7501	Glycerophospholipid metabolism	OG0001995
+W0TAL0	KLMA_30526	KLMA_30526	36.13646	Porphyrin and chlorophyll metabolism	NA
+W0TAL6	KLMA_40426	KLMA_40426	50.10707	Zeatin biosynthesis // Zeatin biosynthesis // Zeatin biosynthesis // Zeatin biosynthesis	NA
+W0TAL8	KLMA_20691	KLMA_20691	74.36072	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TAM2	KLMA_50038	KLMA_50038	24.08026	Histidine metabolism // Histidine metabolism	OG0002343
+W0TAM6	KLMA_40436	KLMA_40436	53.96421	Steroid biosynthesis	OG0002216
+W0TAN2	KLMA_50048	KLMA_50048	97.08935	Pyrimidine metabolism	NA
+W0TAN7	KLMA_30556	KLMA_30556	64.89347	Alanine, aspartate and glutamate metabolism // beta-Alanine metabolism	OG0001858
+W0TAQ9	KLMA_40471	KLMA_40471	29.93741	N-Glycan biosynthesis	OG0002235
+W0TAR1	KLMA_20731	KLMA_20731	20.90567	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TAR2	KLMA_50073	KLMA_50073	35.34732	Sphingolipid metabolism	NA
+W0TAS3	KLMA_40486	KLMA_40486	88.68874	Other types of O-glycan biosynthesis // Other types of O-glycan biosynthesis	OG0002247
+W0TAS9	KLMA_40491	KLMA_40491	38.72669	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	OG0002252
+W0TAT2	KLMA_20751	KLMA_20751	59.08834	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0001476
+W0TAT4	KLMA_40124	KLMA_40124	40.63935	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	OG0002045
+W0TAU7	KLMA_40511	KLMA_40511	6.55462	Oxidative phosphorylation // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TAV5	KLMA_50113	KLMA_50113	178.29119	Purine metabolism // Purine metabolism	OG0002385
+W0TAV6	KLMA_30631	KLMA_30631	44.71401	Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis	OG0001902
+W0TAW0	KLMA_40526	KLMA_40526	228.04198	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Biotin metabolism // Biotin metabolism // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Biotin metabolism // Biotin metabolism	NA
+W0TAW2	KLMA_50118	KLMA_50118	149.77803	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0002387
+W0TAW6	KLMA_30641	KLMA_30641	32.08148	Cyanoamino acid metabolism	OG0001906
+W0TAX9	KLMA_20796	KLMA_20796	36.02948	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis	NA
+W0TAY5	KLMA_40179	KLMA_40179	72.52515	Glycerolipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002079
+W0TAY6	KLMA_40556	KLMA_40556	21.48743	Purine metabolism	NA
+W0TAZ1	KLMA_30671	KLMA_30671	42.14071	Steroid biosynthesis	NA
+W0TAZ2	KLMA_20811	KLMA_20811	48.94514	Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	OG0001510
+W0TAZ8	KLMA_40571	KLMA_40571	20.74516	Purine metabolism	OG0002299
+W0TB39	KLMA_40244	KLMA_40244	168.73382	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TB47	KLMA_50178	KLMA_50178	47.77211	Alanine, aspartate and glutamate metabolism // Arginine and proline metabolism // Alanine, aspartate and glutamate metabolism	OG0002422
+W0TB52	KLMA_40259	KLMA_40259	62.33874	Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis	OG0002118
+W0TB58	KLMA_50193	KLMA_50193	63.6057	Fructose and mannose metabolism // Fructose and mannose metabolism // Other reactions	OG0002430
+W0TB73	KLMA_30024	KLMA_30024	43.87309	Other reactions // Other reactions	OG0001520
+W0TB76	KLMA_40047	KLMA_40047	45.11714	Cysteine and methionine metabolism // Cysteine and methionine metabolism	OG0001996
+W0TB78	KLMA_30029	KLMA_30029	54.23226	Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis	OG0001523
+W0TB79	KLMA_50036	KLMA_50036	32.08578	Terpenoid backbone biosynthesis // Terpenoid backbone biosynthesis	OG0002341
+W0TB82	KLMA_30034	KLMA_30034	145.77645	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0001527
+W0TBA6	KLMA_50258	KLMA_50258	52.66859	Fructose and mannose metabolism // Other reactions	OG0002471
+W0TBB3	KLMA_50071	KLMA_50071	88.65332	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0TBC0	KLMA_50076	KLMA_50076	38.64453	Cysteine and methionine metabolism // Cysteine and methionine metabolism	NA
+W0TBC3	KLMA_30089	KLMA_30089	49.67892	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0001566
+W0TBC6	KLMA_40102	KLMA_40102	37.10901	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Phenylalanine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	NA
+W0TBC7	KLMA_50283	KLMA_50283	147.43232	Purine metabolism	OG0002482
+W0TBD2	KLMA_40107	KLMA_40107	41.04947	Phenylalanine, tyrosine and tryptophan biosynthesis	NA
+W0TBD3	KLMA_30099	KLMA_30099	62.27648	Pentose phosphate pathway // Streptomycin biosynthesis // Pentose phosphate pathway // Streptomycin biosynthesis	NA
+W0TBE8	KLMA_40122	KLMA_40122	74.59271	Aminoacyl-tRNA biosynthesis	OG0002044
+W0TBF3	KLMA_40309	KLMA_40309	24.41589	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TBF6	KLMA_30124	KLMA_30124	20.0973	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	NA
+W0TBH4	KLMA_40147	KLMA_40147	101.8189	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TBH5	KLMA_50333	KLMA_50333	113.24758	Nitrogen metabolism // Nitrogen metabolism // Glycine, serine and threonine metabolism	OG0002513
+W0TBI1	KLMA_30149	KLMA_30149	46.88284	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Glutathione metabolism // Glutathione metabolism	NA
+W0TBI3	KLMA_30154	KLMA_30154	77.3342	Glutathione metabolism	OG0001601
+W0TBI6	KLMA_40344	KLMA_40344	54.66696	Other reactions // Other reactions // Other reactions	NA
+W0TBJ2	KLMA_30164	KLMA_30164	49.87103	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0TBK0	KLMA_50363	KLMA_50363	63.78905	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TBL5	KLMA_30194	KLMA_30194	105.54836	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0001627
+W0TBL9	KLMA_30199	KLMA_30199	46.64865	Pyrimidine metabolism	OG0001632
+W0TBM3	KLMA_30204	KLMA_30204	55.25949	Steroid biosynthesis	OG0001635
+W0TBP1	KLMA_40217	KLMA_40217	116.08149	Amino sugar and nucleotide sugar metabolism	OG0002093
+W0TBP5	KLMA_50151	KLMA_50151	53.96896	Phenylalanine metabolism // Tryptophan metabolism // Ubiquinone and other terpenoid-quinone biosynthesis // Phenylalanine metabolism // Tryptophan metabolism // Ubiquinone and other terpenoid-quinone biosynthesis	NA
+W0TBQ2	KLMA_30234	KLMA_30234	48.02155	Transport reactions (diffusion) // Transport reactions (diffusion)	OG0001657
+W0TBT3	KLMA_40257	KLMA_40257	87.7736	Other types of O-glycan biosynthesis // Other types of O-glycan biosynthesis	NA
+W0TBT5	KLMA_40459	KLMA_40459	24.03106	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0002229
+W0TBT7	KLMA_30269	KLMA_30269	65.06319	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	OG0001677
+W0TBV7	KLMA_50226	KLMA_50226	23.80386	Pyrimidine metabolism // Pyrimidine metabolism	OG0002450
+W0TBW1	KLMA_50231	KLMA_50231	43.25594	Nitrogen metabolism // Nitrogen metabolism // Glycine, serine and threonine metabolism // One carbon pool by folate	OG0002454
+W0TBW6	KLMA_40494	KLMA_40494	158.77283	Sulfur metabolism	OG0002255
+W0TBW7	KLMA_50488	KLMA_50488	58.96329	Streptomycin biosynthesis // Streptomycin biosynthesis	OG0002606
+W0TBW9	KLMA_50241	KLMA_50241	26.26118	Vitamin B6 metabolism // Vitamin B6 metabolism	OG0002463
+W0TBX1	KLMA_50493	KLMA_50493	47.91691	Citrate cycle (TCA cycle) // Lysine degradation // Lysine degradation	OG0002609
+W0TBX3	KLMA_30314	KLMA_30314	217.54446	Inositol phosphate metabolism	OG0001707
+W0TBX8	KLMA_40509	KLMA_40509	62.77787	N-Glycan biosynthesis // Various types of N-glycan biosynthesis // N-Glycan biosynthesis // Various types of N-glycan biosynthesis	NA
+W0TBX9	KLMA_50503	KLMA_50503	39.23183	Glycine, serine and threonine metabolism	OG0002612
+W0TBY7	KLMA_50513	KLMA_50513	51.9806	Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism	OG0002618
+W0TBZ0	KLMA_40524	KLMA_40524	46.00202	Pentose phosphate pathway	OG0002267
+W0TBZ1	KLMA_40267	KLMA_40267	54.99168	Various types of N-glycan biosynthesis // Various types of N-glycan biosynthesis	NA
+W0TBZ3	KLMA_50271	KLMA_50271	39.35081	Biosynthesis of unsaturated fatty acids	NA
+W0TC06	KLMA_40539	KLMA_40539	58.13441	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	NA
+W0TC09	KLMA_50533	KLMA_50533	75.0614	Glycolysis / Gluconeogenesis // Propanoate metabolism // Propanoate metabolism // Other reactions // Propanoate metabolism // Propanoate metabolism	NA
+W0TC15	KLMA_50296	KLMA_50296	29.09591	Pentose and glucuronate interconversions // Pentose and glucuronate interconversions	OG0002490
+W0TC20	KLMA_50301	KLMA_50301	64.72548	Pyruvate metabolism	NA
+W0TC56	KLMA_40342	KLMA_40342	57.41743	Glycine, serine and threonine metabolism	OG0002166
+W0TC58	KLMA_50578	KLMA_50578	36.67453	Pantothenate and CoA biosynthesis	OG0002657
+W0TC80	KLMA_50361	KLMA_50361	63.08367	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TC82	KLMA_30424	KLMA_30424	63.62016	Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism	OG0001774
+W0TC91	KLMA_50608	KLMA_50608	34.31869	Aminobenzoate degradation // Aminobenzoate degradation	OG0002674
+W0TC93	KLMA_40624	KLMA_40624	41.68754	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Methane metabolism // Methane metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Methane metabolism // Methane metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	NA
+W0TC97	KLMA_50613	KLMA_50613	55.88885	Purine metabolism	OG0002679
+W0TC99	KLMA_50381	KLMA_50381	75.20431	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Other reactions	NA
+W0TCB1	KLMA_30449	KLMA_30449	33.59473	Cysteine and methionine metabolism	OG0001790
+W0TCB9	KLMA_50019	KLMA_50019	49.7957	Alanine, aspartate and glutamate metabolism	NA
+W0TCC2	KLMA_40417	KLMA_40417	94.71454	Oxidative phosphorylation	NA
+W0TCC3	KLMA_50024	KLMA_50024	35.00563	Arginine and proline metabolism	OG0002335
+W0TCE4	KLMA_50431	KLMA_50431	124.63344	Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis	OG0002570
+W0TCG0	KLMA_40467	KLMA_40467	10.41007	Oxidative phosphorylation	NA
+W0TCG5	KLMA_40472	KLMA_40472	173.86784	Starch and sucrose metabolism // Starch and sucrose metabolism	OG0002236
+W0TCH2	KLMA_50084	KLMA_50084	97.98989	Histidine metabolism // Histidine metabolism	OG0002368
+W0TCH5	KLMA_50471	KLMA_50471	115.55221	Sulfur metabolism	OG0002593
+W0TCH6	KLMA_40487	KLMA_40487	39.15131	Thiamine metabolism // Thiamine metabolism	OG0002248
+W0TCI5	KLMA_30504	KLMA_30504	34.04981	Vitamin B6 metabolism // Vitamin B6 metabolism // Vitamin B6 metabolism	NA
+W0TCJ1	KLMA_40502	KLMA_40502	24.48973	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism	OG0002257
+W0TCJ3	KLMA_50104	KLMA_50104	107.11707	Aminoacyl-tRNA biosynthesis	OG0002379
+W0TCK2	KLMA_40512	KLMA_40512	38.80727	Purine metabolism	OG0002261
+W0TCL8	KLMA_50129	KLMA_50129	91.86585	Inositol phosphate metabolism	OG0002396
+W0TCL9	KLMA_30539	KLMA_30539	74.755	Other types of O-glycan biosynthesis // Other types of O-glycan biosynthesis	NA
+W0TCM6	KLMA_40537	KLMA_40537	37.30115	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002276
+W0TCM8	KLMA_60086	KLMA_60086	39.42131	Fatty acid elongation // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Other reactions // Other reactions // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids // Biosynthesis of unsaturated fatty acids	OG0002971
+W0TCN2	KLMA_60091	KLMA_60091	21.41652	Glycerophospholipid metabolism	OG0002968
+W0TCN8	KLMA_40552	KLMA_40552	56.00582	Thiamine metabolism // Thiamine metabolism	OG0002286
+W0TCN9	KLMA_50536	KLMA_50536	40.79437	Inositol phosphate metabolism // Inositol phosphate metabolism // Other reactions // Inositol phosphate metabolism // Inositol phosphate metabolism	OG0002633
+W0TCQ7	KLMA_50144	KLMA_50144	26.112	N-Glycan biosynthesis // N-Glycan biosynthesis	NA
+W0TCR6	KLMA_50154	KLMA_50154	86.08497	Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis // Valine, leucine and isoleucine biosynthesis	OG0002409
+W0TCR9	KLMA_60131	KLMA_60131	32.25118	Other reactions	NA
+W0TCS1	KLMA_40587	KLMA_40587	20.06405	Purine metabolism // Purine metabolism // Purine metabolism	NA
+W0TCS6	KLMA_40592	KLMA_40592	38.01394	Other reactions // Other reactions	NA
+W0TCT3	KLMA_50581	KLMA_50581	44.05447	Lipoic acid metabolism // Lipoic acid metabolism // Lipoic acid metabolism // Lipoic acid metabolism	OG0002659
+W0TCV6	KLMA_30634	KLMA_30634	36.47411	Pentose phosphate pathway // Pentose phosphate pathway	OG0001903
+W0TCW2	KLMA_60176	KLMA_60176	44.55057	Taurine and hypotaurine metabolism	OG0002914
+W0TCW7	KLMA_60181	KLMA_60181	47.63589	Arginine and proline metabolism // Arginine and proline metabolism	NA
+W0TCX6	KLMA_30654	KLMA_30654	76.35222	Other reactions // Other reactions	OG0001916
+W0TCY6	KLMA_50631	KLMA_50631	56.65527	Pentose phosphate pathway	OG0002692
+W0TCY7	KLMA_50229	KLMA_50229	23.70088	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Drug metabolism - other enzymes // Drug metabolism - other enzymes	OG0002453
+W0TCY9	KLMA_50022	KLMA_50022	152.18867	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002333
+W0TCZ2	KLMA_60206	KLMA_60206	16.40846	Purine metabolism // Purine metabolism	NA
+W0TCZ7	KLMA_50032	KLMA_50032	61.38088	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TCZ9	KLMA_30679	KLMA_30679	33.59291	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	NA
+W0TD16	KLMA_50269	KLMA_50269	49.14455	Tryptophan metabolism	OG0002476
+W0TD19	KLMA_50274	KLMA_50274	71.14111	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TD23	KLMA_30709	KLMA_30709	80.9266	Porphyrin and chlorophyll metabolism	OG0001959
+W0TD26	KLMA_50284	KLMA_50284	37.23274	Steroid biosynthesis	OG0002483
+W0TD28	KLMA_50067	KLMA_50067	48.82012	Tryptophan metabolism // Tryptophan metabolism // Tryptophan metabolism // Tryptophan metabolism // Tryptophan metabolism // Tryptophan metabolism	OG0002355
+W0TD31	KLMA_30719	KLMA_30719	60.45189	Glycolysis / Gluconeogenesis	OG0001962
+W0TD38	KLMA_60261	KLMA_60261	27.28355	Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	OG0002868
+W0TD39	KLMA_50304	KLMA_50304	236.66299	Alanine, aspartate and glutamate metabolism	OG0002494
+W0TD40	KLMA_50082	KLMA_50082	32.92178	Methane metabolism	OG0002366
+W0TD45	KLMA_50087	KLMA_50087	52.24672	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TD46	KLMA_60271	KLMA_60271	41.78311	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation	NA
+W0TD54	KLMA_60281	KLMA_60281	43.74157	Inositol phosphate metabolism	OG0002856
+W0TD58	KLMA_60286	KLMA_60286	44.79123	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Alanine, aspartate and glutamate metabolism // Other reactions // Other reactions // Pyrimidine metabolism // Other reactions // Other reactions	NA
+W0TD69	KLMA_50117	KLMA_50117	48.92378	Arginine and proline metabolism	OG0002386
+W0TD74	KLMA_50349	KLMA_50349	100.28196	Glutathione metabolism	NA
+W0TD76	KLMA_60301	KLMA_60301	57.17638	Aminoacyl-tRNA biosynthesis	OG0002844
+W0TD84	KLMA_40055	KLMA_40055	36.82353	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	NA
+W0TD85	KLMA_50364	KLMA_50364	62.85855	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TD86	KLMA_60009	KLMA_60009	70.84559	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0TD95	KLMA_60019	KLMA_60019	30.9586	Carbon fixation in photosynthetic organisms	OG0003014
+W0TD99	KLMA_60024	KLMA_60024	25.86081	Pentose phosphate pathway // Pentose phosphate pathway	NA
+W0TDA2	KLMA_50384	KLMA_50384	48.05189	Fructose and mannose metabolism // Fructose and mannose metabolism	OG0002542
+W0TDA7	KLMA_50389	KLMA_50389	106.6718	Inositol phosphate metabolism	NA
+W0TDB2	KLMA_40090	KLMA_40090	25.14839	Fatty acid biosynthesis	NA
+W0TDC6	KLMA_40105	KLMA_40105	55.25973	Starch and sucrose metabolism	OG0002034
+W0TDD2	KLMA_50419	KLMA_50419	62.47529	Glyoxylate and dicarboxylate metabolism // Methane metabolism	NA
+W0TDD4	KLMA_40110	KLMA_40110	55.73704	beta-Alanine metabolism // beta-Alanine metabolism	OG0002037
+W0TDD9	KLMA_40115	KLMA_40115	37.13459	Porphyrin and chlorophyll metabolism // Porphyrin and chlorophyll metabolism	OG0002040
+W0TDE8	KLMA_50434	KLMA_50434	26.45099	Inositol phosphate metabolism	OG0002573
+W0TDE9	KLMA_40125	KLMA_40125	26.99533	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	NA
+W0TDF9	KLMA_50177	KLMA_50177	166.84423	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Other reactions	NA
+W0TDG7	KLMA_60401	KLMA_60401	57.78731	Glyoxylate and dicarboxylate metabolism // Methane metabolism	NA
+W0TDH2	KLMA_50459	KLMA_50459	15.63537	Pyrimidine metabolism	NA
+W0TDH3	KLMA_60406	KLMA_60406	41.8941	Purine metabolism // Purine metabolism	OG0002777
+W0TDH4	KLMA_50192	KLMA_50192	26.47977	N-Glycan biosynthesis	OG0002429
+W0TDI0	KLMA_60114	KLMA_60114	46.63013	Terpenoid backbone biosynthesis // Terpenoid backbone biosynthesis	NA
+W0TDJ3	KLMA_60426	KLMA_60426	44.52576	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	NA
+W0TDJ9	KLMA_50217	KLMA_50217	36.16883	Glycerolipid metabolism // Other reactions	OG0002443
+W0TDL8	KLMA_60451	KLMA_60451	29.41236	Glycerolipid metabolism	OG0002747
+W0TDM8	KLMA_60461	KLMA_60461	102.148	Glycolysis / Gluconeogenesis // Galactose metabolism	NA
+W0TDN5	KLMA_60164	KLMA_60164	29.97555	Porphyrin and chlorophyll metabolism	OG0002923
+W0TDP3	KLMA_60476	KLMA_60476	85.70472	Aminoacyl-tRNA biosynthesis	OG0002732
+W0TDP7	KLMA_60481	KLMA_60481	35.40084	Pyruvate metabolism // Pyruvate metabolism // Pyruvate metabolism	OG0002729
+W0TDP8	KLMA_40220	KLMA_40220	36.94681	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Phenylalanine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	NA
+W0TDQ2	KLMA_40225	KLMA_40225	28.10945	Riboflavin metabolism // Riboflavin metabolism // Riboflavin metabolism // Riboflavin metabolism	OG0002098
+W0TDS0	KLMA_50297	KLMA_50297	63.26654	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	OG0002491
+W0TDS2	KLMA_40245	KLMA_40245	170.86954	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TDT2	KLMA_60219	KLMA_60219	54.80433	Glycolysis / Gluconeogenesis // Purine metabolism // Purine metabolism	NA
+W0TDU0	KLMA_50317	KLMA_50317	24.45647	Purine metabolism // Purine metabolism	OG0002504
+W0TDV7	KLMA_60506	KLMA_60506	39.06708	Terpenoid backbone biosynthesis // Terpenoid backbone biosynthesis	OG0002717
+W0TDV8	KLMA_50609	KLMA_50609	63.11168	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	OG0002675
+W0TDW1	KLMA_50347	KLMA_50347	80.65898	Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	OG0002519
+W0TDW6	KLMA_50619	KLMA_50619	46.27908	Drug metabolism - cytochrome P450	OG0002684
+W0TDX2	KLMA_50362	KLMA_50362	48.31322	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TDX5	KLMA_60279	KLMA_60279	39.27062	Sulfur metabolism // Other reactions	OG0002857
+W0TDX8	KLMA_60284	KLMA_60284	124.12526	Purine metabolism	NA
+W0TDY2	KLMA_60541	KLMA_60541	115.20596	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Lysine degradation	OG0002699
+W0TDY6	KLMA_60294	KLMA_60294	20.25643	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TE02	KLMA_40290	KLMA_40290	34.13948	Other reactions // Other reactions // Other reactions // Other reactions	NA
+W0TE06	KLMA_70014	KLMA_70014	93.14776	Purine metabolism	OG0003257
+W0TE11	KLMA_50412	KLMA_50412	27.64629	Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism	NA
+W0TE16	KLMA_40310	KLMA_40310	37.74232	Pentose and glucuronate interconversions // Other reactions // Other reactions	OG0002144
+W0TE22	KLMA_70034	KLMA_70034	28.97239	Fructose and mannose metabolism // Fructose and mannose metabolism	OG0003269
+W0TE45	KLMA_60032	KLMA_60032	33.10663	Cyanoamino acid metabolism	OG0003008
+W0TE50	KLMA_60037	KLMA_60037	247.24352	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Alanine, aspartate and glutamate metabolism // Other reactions // Other reactions // Pyrimidine metabolism // Other reactions // Other reactions	OG0003004
+W0TE54	KLMA_50452	KLMA_50452	45.4365	Cysteine and methionine metabolism // Cysteine and methionine metabolism	NA
+W0TE67	KLMA_40365	KLMA_40365	33.24605	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism	OG0002176
+W0TE72	KLMA_50467	KLMA_50467	25.75787	Riboflavin metabolism	OG0002592
+W0TE79	KLMA_60067	KLMA_60067	72.13883	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	OG0002983
+W0TE83	KLMA_50477	KLMA_50477	29.02273	Histidine metabolism // Histidine metabolism	NA
+W0TE86	KLMA_70104	KLMA_70104	81.59678	Other reactions // Other reactions	NA
+W0TE88	KLMA_60077	KLMA_60077	11.20787	Pyrimidine metabolism	NA
+W0TE93	KLMA_60082	KLMA_60082	22.83618	Cysteine and methionine metabolism // Cysteine and methionine metabolism	NA
+W0TEA1	KLMA_50492	KLMA_50492	61.84823	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002608
+W0TEB9	KLMA_60419	KLMA_60419	58.62592	N-Glycan biosynthesis // N-Glycan biosynthesis	OG0002770
+W0TED6	KLMA_60434	KLMA_60434	29.98962	Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism // Arginine and proline metabolism	OG0002758
+W0TED9	KLMA_70159	KLMA_70159	52.63046	Fructose and mannose metabolism	NA
+W0TEE1	KLMA_40445	KLMA_40445	117.38347	Terpenoid backbone biosynthesis	NA
+W0TEE2	KLMA_60439	KLMA_60439	96.78517	Other reactions // Other reactions	NA
+W0TEG0	KLMA_70179	KLMA_70179	61.62031	Glyoxylate and dicarboxylate metabolism // Propanoate metabolism // Propanoate metabolism	NA
+W0TEG4	KLMA_40470	KLMA_40470	48.11142	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Glutathione metabolism // Glutathione metabolism	NA
+W0TEG5	KLMA_70184	KLMA_70184	46.30329	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis	OG0003361
+W0TEG9	KLMA_60167	KLMA_60167	36.08887	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	OG0002920
+W0TEH1	KLMA_60464	KLMA_60464	51.56109	Purine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Drug metabolism - other enzymes // Drug metabolism - other enzymes	OG0002739
+W0TEH6	KLMA_60469	KLMA_60469	250.04915	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Tetracycline biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis	OG0002737
+W0TEI0	KLMA_70199	KLMA_70199	60.57348	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	OG0003371
+W0TEI6	KLMA_60187	KLMA_60187	70.81578	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TEJ1	KLMA_60192	KLMA_60192	98.99967	Oxidative phosphorylation	NA
+W0TEK0	KLMA_70219	KLMA_70219	207.51622	Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis // Fatty acid biosynthesis	OG0003387
+W0TEK8	KLMA_50592	KLMA_50592	66.11513	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TEL3	KLMA_50597	KLMA_50597	4.18393	Oxidative phosphorylation // Other reactions // Other reactions	NA
+W0TEL7	KLMA_60222	KLMA_60222	49.26062	Thiamine metabolism // Thiamine metabolism	NA
+W0TEM2	KLMA_60227	KLMA_60227	123.93209	Inositol phosphate metabolism	NA
+W0TEM5	KLMA_70249	KLMA_70249	33.55511	Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Purine metabolism // Pyrimidine metabolism // Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism // Purine metabolism // Purine metabolism // Nicotinate and nicotinamide metabolism // Nicotinate and nicotinamide metabolism	OG0003407
+W0TEP4	KLMA_60252	KLMA_60252	113.4008	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	NA
+W0TEP9	KLMA_60514	KLMA_60514	75.81146	Biotin metabolism	OG0002711
+W0TER0	KLMA_60529	KLMA_60529	49.21697	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	OG0002703
+W0TER8	KLMA_60282	KLMA_60282	67.47514	Riboflavin metabolism // Riboflavin metabolism	OG0002855
+W0TEU3	KLMA_70017	KLMA_70017	125.19216	Valine, leucine and isoleucine biosynthesis	OG0003260
+W0TEV0	KLMA_60317	KLMA_60317	56.07938	Pentose and glucuronate interconversions	OG0002837
+W0TEW3	KLMA_60327	KLMA_60327	76.85963	Arginine and proline metabolism // Histidine metabolism	NA
+W0TEW4	KLMA_60040	KLMA_60040	48.59971	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	OG0003002
+W0TEW5	KLMA_70339	KLMA_70339	54.15107	Aminoacyl-tRNA biosynthesis	OG0003460
+W0TEX6	KLMA_70349	KLMA_70349	36.1025	Riboflavin metabolism	OG0003468
+W0TEY0	KLMA_60055	KLMA_60055	60.70274	N-Glycan biosynthesis // N-Glycan biosynthesis // Transport reactions (facilitated diffusion) // N-Glycan biosynthesis // N-Glycan biosynthesis // Transport reactions (facilitated diffusion)	NA
+W0TEY1	KLMA_50020	KLMA_50020	72.96055	Other reactions // Other reactions	NA
+W0TEZ1	KLMA_60070	KLMA_60070	82.59632	Other reactions // Other reactions	OG0002981
+W0TEZ4	KLMA_60075	KLMA_60075	61.90012	Glycolysis / Gluconeogenesis	NA
+W0TEZ5	KLMA_60357	KLMA_60357	45.84523	Other reactions	OG0002806
+W0TEZ8	KLMA_70077	KLMA_70077	99.98559	Valine, leucine and isoleucine biosynthesis	OG0003295
+W0TF02	KLMA_70082	KLMA_70082	39.34405	Fructose and mannose metabolism	NA
+W0TF09	KLMA_60090	KLMA_60090	49.63365	Glycerophospholipid metabolism	OG0002969
+W0TF11	KLMA_50050	KLMA_50050	54.73802	Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism	NA
+W0TF20	KLMA_70102	KLMA_70102	74.08678	Inositol phosphate metabolism // Inositol phosphate metabolism // Nicotinate and nicotinamide metabolism // Other reactions // Other reactions	OG0003308
+W0TF23	KLMA_60382	KLMA_60382	21.00462	Pentose phosphate pathway	OG0002791
+W0TF38	KLMA_60125	KLMA_60125	53.7399	Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism // Alanine, aspartate and glutamate metabolism	OG0002950
+W0TF41	KLMA_70404	KLMA_70404	36.90512	Riboflavin metabolism	OG0003501
+W0TF43	KLMA_70127	KLMA_70127	57.64711	Aminoacyl-tRNA biosynthesis // Aminoacyl-tRNA biosynthesis	OG0003323
+W0TF44	KLMA_60130	KLMA_60130	23.90998	Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis	OG0002945
+W0TF55	KLMA_60412	KLMA_60412	53.76707	Glycolysis / Gluconeogenesis // Fructose and mannose metabolism // Fructose and mannose metabolism // Starch and sucrose metabolism // Amino sugar and nucleotide sugar metabolism // Other reactions	NA
+W0TF59	KLMA_50095	KLMA_50095	45.72686	Lipoic acid metabolism // Lipoic acid metabolism	OG0002374
+W0TF60	KLMA_60417	KLMA_60417	61.31362	Steroid biosynthesis	OG0002771
+W0TF68	KLMA_70429	KLMA_70429	64.12162	Propanoate metabolism // Propanoate metabolism	NA
+W0TF72	KLMA_60427	KLMA_60427	43.31373	Purine metabolism	OG0002765
+W0TF75	KLMA_70162	KLMA_70162	35.74822	Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis	OG0003347
+W0TF85	KLMA_60442	KLMA_60442	57.52755	Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation // Lysine degradation	OG0002753
+W0TF87	KLMA_60180	KLMA_60180	67.40348	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TF96	KLMA_60452	KLMA_60452	38.49229	Glycolysis / Gluconeogenesis // Carbon fixation in photosynthetic organisms // Methane metabolism	OG0002746
+W0TFA2	KLMA_60462	KLMA_60462	38.64026	Pyruvate metabolism // Pyruvate metabolism	OG0002741
+W0TFA3	KLMA_70202	KLMA_70202	20.15871	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0003373
+W0TFA8	KLMA_70444	KLMA_70444	52.69578	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Propanoate metabolism // Propanoate metabolism	OG0003526
+W0TFC1	KLMA_60482	KLMA_60482	60.93664	Pyruvate metabolism	OG0002728
+W0TFD7	KLMA_80021	KLMA_80021	86.09501	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TFE1	KLMA_80026	KLMA_80026	59.57481	Amino sugar and nucleotide sugar metabolism // Amino sugar and nucleotide sugar metabolism	OG0003028
+W0TFE9	KLMA_60260	KLMA_60260	50.11105	Inositol phosphate metabolism // Inositol phosphate metabolism	OG0002869
+W0TFF3	KLMA_70262	KLMA_70262	35.00993	Amino sugar and nucleotide sugar metabolism // Amino sugar and nucleotide sugar metabolism	NA
+W0TFF9	KLMA_80051	KLMA_80051	68.98261	Glycolysis / Gluconeogenesis // Pentose phosphate pathway // Streptomycin biosynthesis // Pentose phosphate pathway // Streptomycin biosynthesis	OG0003041
+W0TFG2	KLMA_60275	KLMA_60275	50.84897	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002861
+W0TFG9	KLMA_80061	KLMA_80061	56.54659	Purine metabolism	NA
+W0TFH3	KLMA_80066	KLMA_80066	66.92467	Pentose and glucuronate interconversions	OG0003047
+W0TFH8	KLMA_60507	KLMA_60507	89.38631	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TFH9	KLMA_50195	KLMA_50195	27.24102	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TFJ7	KLMA_70307	KLMA_70307	43.1001	Oxidative phosphorylation	NA
+W0TFK2	KLMA_80101	KLMA_80101	63.4245	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TFK4	KLMA_60527	KLMA_60527	60.01824	Aminoacyl-tRNA biosynthesis	OG0002705
+W0TFK5	KLMA_60320	KLMA_60320	35.10243	Pentose phosphate pathway	NA
+W0TFM2	KLMA_60335	KLMA_60335	71.42318	Pyruvate metabolism // Pyruvate metabolism // Pyruvate metabolism	OG0002823
+W0TFN3	KLMA_50250	KLMA_50250	105.85943	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0TFP1	KLMA_50260	KLMA_50260	38.81019	Other reactions // Other reactions	NA
+W0TFP9	KLMA_80151	KLMA_80151	65.56405	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	NA
+W0TFQ0	KLMA_50270	KLMA_50270	23.28425	Riboflavin metabolism // Riboflavin metabolism // Riboflavin metabolism	OG0002477
+W0TFR6	KLMA_50290	KLMA_50290	162.21103	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0002486
+W0TFS0	KLMA_50295	KLMA_50295	184.48344	Purine metabolism	NA
+W0TFS2	KLMA_70045	KLMA_70045	69.61604	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TFS5	KLMA_70050	KLMA_70050	55.80252	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TFS9	KLMA_70377	KLMA_70377	60.07124	Folate biosynthesis // Aminobenzoate degradation // Aminobenzoate degradation // Other reactions	OG0003483
+W0TFU0	KLMA_50315	KLMA_50315	40.54971	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Methane metabolism // Methane metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Phenylalanine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Methane metabolism // Methane metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	OG0002502
+W0TFW1	KLMA_60415	KLMA_60415	62.80777	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	NA
+W0TFW6	KLMA_60420	KLMA_60420	52.8952	Glycolysis / Gluconeogenesis // Nitrogen metabolism // Nitrogen metabolism // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Glycolysis / Gluconeogenesis	OG0002769
+W0TFW7	KLMA_80221	KLMA_80221	29.84098	Pentose phosphate pathway // Pentose phosphate pathway	NA
+W0TFY3	KLMA_50360	KLMA_50360	62.44985	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TFZ8	KLMA_60445	KLMA_60445	51.19127	Synthesis and degradation of ketone bodies	NA
+W0TG06	KLMA_70145	KLMA_70145	76.56292	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TG07	KLMA_60455	KLMA_60455	73.11961	Glycerolipid metabolism // Glycerolipid metabolism // Glycerolipid metabolism	OG0002744
+W0TG08	KLMA_50390	KLMA_50390	49.14166	Other reactions // Other reactions	OG0002547
+W0TG18	KLMA_80276	KLMA_80276	50.01585	Steroid biosynthesis	OG0003180
+W0TG25	KLMA_70170	KLMA_70170	99.31904	Pyrimidine metabolism	NA
+W0TG27	KLMA_70175	KLMA_70175	93.73654	Arginine and proline metabolism // Arginine and proline metabolism	OG0003357
+W0TG34	KLMA_80296	KLMA_80296	25.13263	Purine metabolism	OG0003189
+W0TG35	KLMA_70185	KLMA_70185	27.58792	Steroid hormone biosynthesis // Steroid hormone biosynthesis	OG0003362
+W0TG40	KLMA_80301	KLMA_80301	18.1813	Riboflavin metabolism // Other reactions	OG0003194
+W0TG45	KLMA_80306	KLMA_80306	37.06609	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Phenylalanine metabolism // Retinol metabolism // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Glycine, serine and threonine metabolism // Glycine, serine and threonine metabolism // Tyrosine metabolism // Retinol metabolism // Other reactions	NA
+W0TG72	KLMA_80336	KLMA_80336	62.85773	Aminoacyl-tRNA biosynthesis	OG0003210
+W0TG93	KLMA_80059	KLMA_80059	35.52327	Glycolysis / Gluconeogenesis // Glycolysis / Gluconeogenesis	NA
+W0TG97	KLMA_80361	KLMA_80361	35.26809	Pentose phosphate pathway	NA
+W0TG99	KLMA_60515	KLMA_60515	32.79832	Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0002710
+W0TGA3	KLMA_60520	KLMA_60520	80.94837	Other reactions // Other reactions	NA
+W0TGD1	KLMA_80099	KLMA_80099	40.61055	Phenylalanine, tyrosine and tryptophan biosynthesis	OG0003064
+W0TGD9	KLMA_70003	KLMA_70003	57.60243	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TGE2	KLMA_70295	KLMA_70295	5.68945	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0TGE6	KLMA_80406	KLMA_80406	43.03127	Glycine, serine and threonine metabolism // Cysteine and methionine metabolism // Cysteine and methionine metabolism // Selenocompound metabolism // Other reactions // Cysteine and methionine metabolism // Other reactions	OG0003249
+W0TGF8	KLMA_50550	KLMA_50550	17.7005	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	NA
+W0TGG7	KLMA_80139	KLMA_80139	39.03223	Citrate cycle (TCA cycle)	OG0003097
+W0TGH6	KLMA_80149	KLMA_80149	74.32322	Arachidonic acid metabolism // Arachidonic acid metabolism // Arachidonic acid metabolism // Arachidonic acid metabolism	NA
+W0TGH7	KLMA_50565	KLMA_50565	16.01309	Pyrimidine metabolism // Pyrimidine metabolism	OG0002647
+W0TGI5	KLMA_80159	KLMA_80159	16.6389	Oxidative phosphorylation	NA
+W0TGI7	KLMA_50575	KLMA_50575	99.02333	Inositol phosphate metabolism	OG0002656
+W0TGM3	KLMA_70370	KLMA_70370	31.94728	Inositol phosphate metabolism	NA
+W0TGM4	KLMA_50610	KLMA_50610	48.73303	Purine metabolism	NA
+W0TGM5	KLMA_80204	KLMA_80204	38.28721	Other reactions // Other reactions	OG0003139
+W0TGN5	KLMA_50625	KLMA_50625	62.49259	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TGN7	KLMA_70385	KLMA_70385	34.69336	beta-Alanine metabolism	OG0003486
+W0TGP2	KLMA_70123	KLMA_70123	41.4391	Alanine, aspartate and glutamate metabolism	NA
+W0TGP4	KLMA_80229	KLMA_80229	13.83321	Other reactions // Other reactions	OG0003154
+W0TGU3	KLMA_70193	KLMA_70193	84.63354	Folate biosynthesis	OG0003365
+W0TGV0	KLMA_80299	KLMA_80299	153.32291	Lysine biosynthesis // Lysine biosynthesis // Lysine biosynthesis // Lysine degradation // Lysine degradation // Lysine biosynthesis // Lysine degradation // Lysine degradation	OG0003193
+W0TGW9	KLMA_70223	KLMA_70223	35.2686	N-Glycan biosynthesis // N-Glycan biosynthesis	OG0003389
+W0TGX8	KLMA_70455	KLMA_70455	29.75971	Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TGY4	KLMA_80334	KLMA_80334	16.81888	Pyrimidine metabolism	OG0003208
+W0TGZ0	KLMA_60078	KLMA_60078	33.59729	Glycine, serine and threonine metabolism	OG0002976
+W0TGZ5	KLMA_80344	KLMA_80344	56.8815	Phenylalanine, tyrosine and tryptophan biosynthesis // Phenylalanine, tyrosine and tryptophan biosynthesis	OG0003214
+W0TH02	KLMA_80017	KLMA_80017	129.72128	Inositol phosphate metabolism // Inositol phosphate metabolism	NA
+W0TH19	KLMA_80037	KLMA_80037	66.07481	N-Glycan biosynthesis // N-Glycan biosynthesis	OG0003035
+W0TH20	KLMA_80369	KLMA_80369	123.34857	Valine, leucine and isoleucine biosynthesis	OG0003227
+W0TH21	KLMA_60113	KLMA_60113	48.96902	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis // Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	NA
+W0TH29	KLMA_70278	KLMA_70278	21.56194	Vitamin B6 metabolism	NA
+W0TH32	KLMA_80379	KLMA_80379	54.03305	N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis // N-Glycan biosynthesis	OG0003230
+W0TH43	KLMA_80389	KLMA_80389	62.50639	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TH65	KLMA_70313	KLMA_70313	59.31055	Porphyrin and chlorophyll metabolism	OG0003444
+W0TH97	KLMA_90011	KLMA_90011	30.43344	Oxidative phosphorylation	NA
+W0THA2	KLMA_60198	KLMA_60198	7.88741	Oxidative phosphorylation // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0002901
+W0THB9	KLMA_80142	KLMA_80142	24.40952	Other reactions // Other reactions	OG0003100
+W0THE4	KLMA_60243	KLMA_60243	62.79243	Pyruvate metabolism	NA
+W0THK9	KLMA_60323	KLMA_60323	75.04832	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	OG0002830
+W0THL5	KLMA_70443	KLMA_70443	58.92582	Propanoate metabolism	NA
+W0THM4	KLMA_70448	KLMA_70448	51.89438	Pyrimidine metabolism // Pyrimidine metabolism	OG0003530
+W0THP1	KLMA_80005	KLMA_80005	50.53927	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0THQ3	KLMA_80292	KLMA_80292	58.99823	N-Glycan biosynthesis // N-Glycan biosynthesis	NA
+W0THR2	KLMA_60378	KLMA_60378	72.18981	One carbon pool by folate // One carbon pool by folate	OG0002793
+W0THR5	KLMA_80302	KLMA_80302	73.84046	Pentose phosphate pathway // Pentose phosphate pathway // Carbon fixation in photosynthetic organisms // Pentose phosphate pathway // Pentose phosphate pathway // Carbon fixation in photosynthetic organisms	OG0003195
+W0THR7	KLMA_60383	KLMA_60383	41.2045	Fatty acid metabolism // Fatty acid metabolism	OG0002790
+W0THS3	KLMA_80312	KLMA_80312	75.07072	Aminoacyl-tRNA biosynthesis	OG0003198
+W0THS6	KLMA_60393	KLMA_60393	114.28493	Valine, leucine and isoleucine biosynthesis	OG0002786
+W0THS8	KLMA_80045	KLMA_80045	30.59606	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	OG0003040
+W0THS9	KLMA_80317	KLMA_80317	57.09734	Starch and sucrose metabolism // Starch and sucrose metabolism // Other reactions // Other reactions	NA
+W0THT4	KLMA_80322	KLMA_80322	7.26875	Oxidative phosphorylation // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0003203
+W0THU4	KLMA_80332	KLMA_80332	30.24731	Phenylalanine, tyrosine and tryptophan biosynthesis	OG0003206
+W0THU8	KLMA_60413	KLMA_60413	62.85289	Glycerolipid metabolism // Glycerolipid metabolism // Other reactions	NA
+W0THU9	KLMA_80337	KLMA_80337	9.37283	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	NA
+W0THV6	KLMA_60423	KLMA_60423	60.33829	Other reactions // Other reactions	OG0002767
+W0THY0	KLMA_80367	KLMA_80367	70.07762	Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion) // Transport reactions (diffusion)	NA
+W0TI04	KLMA_80130	KLMA_80130	39.98323	Lysine biosynthesis // Lysine biosynthesis	OG0003089
+W0TI27	KLMA_80412	KLMA_80412	73.56061	Glycerolipid metabolism	OG0003253
+W0TI35	KLMA_80165	KLMA_80165	43.72855	Histidine metabolism // Histidine metabolism	OG0003116
+W0TI50	KLMA_90009	KLMA_90009	5.71095	Oxidative phosphorylation // Oxidative phosphorylation	NA
+W0TI51	KLMA_80185	KLMA_80185	34.05509	Starch and sucrose metabolism	OG0003129
+W0TI58	KLMA_80200	KLMA_80200	32.43764	Pantothenate and CoA biosynthesis	OG0003135
+W0TIH4	KLMA_70086	KLMA_70086	64.19757	Pyrimidine metabolism // Pyrimidine metabolism	OG0003300
+W0TIM9	KLMA_80375	KLMA_80375	61.96709	Aminoacyl-tRNA biosynthesis	NA
+W0TIQ0	KLMA_80395	KLMA_80395	46.46884	Alanine, aspartate and glutamate metabolism // Arginine and proline metabolism // Alanine, aspartate and glutamate metabolism	NA
+W0TIS0	KLMA_70191	KLMA_70191	129.28786	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0003364
+W0TIS3	KLMA_80415	KLMA_80415	149.59546	Transport reaction (active diffusion) // Transport reaction (active diffusion) // Transport reaction (active diffusion)	OG0003254
+W0TIU0	KLMA_90002	KLMA_90002	28.08921	Oxidative phosphorylation	NA
+W0TIU1	KLMA_70216	KLMA_70216	17.17537	Oxidative phosphorylation	OG0003385
+W0TIY0	KLMA_70261	KLMA_70261	59.33541	Ascorbate and aldarate metabolism // Ascorbate and aldarate metabolism // Ascorbate and aldarate metabolism // Ascorbate and aldarate metabolism	NA
+W0TIY9	KLMA_70271	KLMA_70271	30.39989	Sulfur metabolism // Sulfur metabolism	OG0003417
+W0TIZ7	KLMA_70281	KLMA_70281	64.59262	Alanine, aspartate and glutamate metabolism	NA
+W0TJ01	KLMA_70286	KLMA_70286	46.28092	Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism // Glycerophospholipid metabolism	OG0003427
+W0TJ83	KLMA_70371	KLMA_70371	42.02059	Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions // Other reactions	NA
+W0TJE4	KLMA_70426	KLMA_70426	101.55157	Fatty acid metabolism // Fatty acid metabolism // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Primary bile acid biosynthesis // Primary bile acid biosynthesis // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // beta-Alanine metabolism // Limonene and pinene degradation // Limonene and pinene degradation // Geraniol degradation // Geraniol degradation // Toluene degradation // Caprolactam degradation // Caprolactam degradation // Other reactions // Other reactions // Fatty acid metabolism // Fatty acid metabolism // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Fatty acid elongation // Primary bile acid biosynthesis // Primary bile acid biosynthesis // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // alpha-Linolenic acid metabolism // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // Valine, leucine and isoleucine degradation // beta-Alanine metabolism // Limonene and pinene degradation // Limonene and pinene degradation // Geraniol degradation // Geraniol degradation // Toluene degradation // Caprolactam degradation // Caprolactam degradation // Other reactions // Other reactions	OG0003515
+W0TJK0	KLMA_70456	KLMA_70456	84.39286	Other reactions // Other reactions	NA
+W0TJL8	KLMA_80018	KLMA_80018	105.33522	Inositol phosphate metabolism // Inositol phosphate metabolism	OG0003023
+W0TJM6	KLMA_80028	KLMA_80028	52.29427	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	OG0003029
+W0TJU3	KLMA_80113	KLMA_80113	41.3389	Pantothenate and CoA biosynthesis // Pantothenate and CoA biosynthesis	OG0003076
+W0TJY0	KLMA_80153	KLMA_80153	66.81097	Fructose and mannose metabolism	NA
+W0TK04	KLMA_80178	KLMA_80178	123.44794	Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Pyrimidine metabolism // Alanine, aspartate and glutamate metabolism // Other reactions // Other reactions // Pyrimidine metabolism // Other reactions // Other reactions	OG0003125
+W0TK32	KLMA_80208	KLMA_80208	20.75444	Purine metabolism	OG0003141
+W0TK60	KLMA_80238	KLMA_80238	32.35182	Porphyrin and chlorophyll metabolism // Porphyrin and chlorophyll metabolism	OG0003159
+W0TK97	KLMA_80273	KLMA_80273	62.57191	Transport reactions (facilitated diffusion) // Transport reactions (facilitated diffusion)	NA
+W0TKF9	KLMA_80348	KLMA_80348	86.39538	Cysteine and methionine metabolism // Cysteine and methionine metabolism // Selenocompound metabolism	OG0003217
+W0TKL8	KLMA_80408	KLMA_80408	29.24587	Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle) // Citrate cycle (TCA cycle)	OG0003251
+W0TKQ2	KLMA_90010	KLMA_90010	28.43374	Oxidative phosphorylation	NA

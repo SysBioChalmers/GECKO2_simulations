@@ -1,0 +1,12 @@
+cSource	gRate	stddev	rxnName	rxn	optimal_ptot	generalist_ptot
+Acetate	0.3	0.04	Acetate exchange	EX_ac_e	0.601	0.7
+Fumarate	0.42	0.02	Fumarate exchange	EX_fum_e	0.594	0.675
+Galactose 	0.26	0.003	D-Galactose exchange	EX_gal_e	0.578	0.628
+Glucose	0.58	0.01	D-Glucose exchange	EX_glc__D_e	0.574	0.624
+Glucosamine	0.46	0.02	D-Glucosamine exchange	EX_gam_e	0.57	0.627
+Glycerol	0.47	0.01	Glycerol exchange	EX_glyc_e	0.572	0.634
+Pyruvate	0.4	0.01	Pyruvate exchange	EX_pyr_e	0.587	0.619
+Succinate	0.44	0.003	Succinate exchange	EX_succ_e	0.596	0.677
+Fructose	0.65	0.004	D-Fructose exchange	EX_fru_e	0.571	0.625
+Mannose	0.47	0.01	D-Mannose exchange	EX_man_e	0.572	0.627
+Xylose	0.55	0.01	D-Xylose exchange	EX_xyl__D_e	0.579	0.636

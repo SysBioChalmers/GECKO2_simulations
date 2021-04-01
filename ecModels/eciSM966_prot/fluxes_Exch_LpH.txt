@@ -1,0 +1,18 @@
+EXCHANGE FLUXES:
+r_1723	(H2O exchange):	4.9738
+r_1724	(H+ exchange):	4.2741
+r_1735	((R)-pantothenate exchange):	0.00057596
+r_1757	(9H-xanthine exchange):	0.0055043
+r_1759	(acetate exchange):	0.8844
+r_1775	(carbon dioxide exchange):	3.927
+r_1809	(formate exchange):	0.0071049
+r_1840	(L-histidine exchange):	0.015652
+r_1883	(sn-glycero-3-phosphocholine exchange):	0.0006489
+r_1913	(biomass exchange):	0.099
+r_1725_REV	(oxygen exchange (reversible)):	3.851
+r_1726_REV	(D-glucose exchange (reversible)):	1.4304
+r_1727_REV	(ammonium exchange (reversible)):	0.44518
+r_1728_REV	(sulphate exchange (reversible)):	0.0095616
+r_1729_REV	(phosphate exchange (reversible)):	0.018062
+r_1730_REV	(myo-inositol exchange (reversible)):	0.00018833
+prot_pool_exchange	(prot_pool_exchange):	0.0076916
