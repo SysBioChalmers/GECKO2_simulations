@@ -1,4 +1,6 @@
 # GECKO2_simulations
+[![DOI](https://zenodo.org/badge/343559862.svg)](https://zenodo.org/badge/latestdoi/343559862)
+
 
 Collection of scripts for reproduction of simulation results in "[Reconstruction of a catalogue of genome-scale metabolic models with enzymatic constraints using GECKO 2.0](https://www.biorxiv.org/content/10.1101/2021.03.05.433259v1)".
 
@@ -42,3 +44,8 @@ Protein-constrained ecModels for all the studied conditions and organisms are ge
 
 
 All generated plots are stored in the results folder, indicating the figure that they belong to in the subdfolder name.
+
+Last update: 2022-06-09
+
+This repository is administered by [Iván Domenzain](https://github.com/IVANDOMENZAIN), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
+
