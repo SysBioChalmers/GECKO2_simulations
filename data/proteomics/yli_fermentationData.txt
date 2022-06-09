@@ -1,0 +1,4 @@
+Condition	Ptot	Drate	glucose	CO2	oxygen	glycerol	ethanol	oxalate	citrate(3-)	pyruvate	succinate	(S)-lactate	(R)-lactate	formate	acetate
+Std	0.5493	0.1	1.049	2.38	2.16	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001
+HiT	0.5493	0.1	1.135	2.72	2.56	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001
+LpH	0.5493	0.1	1.375	3.58	3.33	0.0001	0.01	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001	0.0001
